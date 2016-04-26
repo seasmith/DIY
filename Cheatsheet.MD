@@ -4,6 +4,7 @@
 * [Pe-drill holes in particle board for screw?](http://diy.stackexchange.com/questions/8469/do-i-need-to-pre-drill-holes-in-particle-board-for-screws) | Yes, on the edges and with screws wider than 1/8"
 * [Hanging items from ceiling drywall](http://diy.stackexchange.com/questions/11816/how-much-weight-can-i-hang-from-a-drywall-ceiling) | Toggle bolt w/ j-hook; better to anchor into joist
 * [Different drywall anchor types](http://diy.stackexchange.com/questions/16771/what-benefit-do-plasterboard-drywall-screws-have)
+* [Hollow door anchors](http://diy.stackexchange.com/questions/13154/what-kind-of-screws-for-attaching-an-ikea-style-coat-hook-of-an-internal-door)
 * [Extract a broken/stripped screw](http://diy.stackexchange.com/questions/10451/how-to-remove-screws-with-stripped-heads) | [Rubber band](http://24.media.tumblr.com/tumblr_lr5mykGo3M1qzyj1lo1_250.jpg) | [Extractor bit](https://gzunino.wordpress.com/2008/02/04/extracting-a-broken-screw/)
 * [Why do some screws have two thread types(dual threaded)?](http://diy.stackexchange.com/questions/27708/what-is-the-use-for-this-different-threading-near-the-head-of-a-large-screw) | Lateral stabilization
 * [Remove a stuck screw or bolt](http://diy.stackexchange.com/questions/16263/how-can-i-remove-a-really-stuck-screw) | Better grip, penetrating oil, hammering, manual impact driver, heat/cool, or ream out
@@ -21,6 +22,9 @@
 
 ##### Plumbing
 * [When to use pipe dope vs teflon tape](http://diy.stackexchange.com/questions/21117/when-should-pipe-dope-vs-thread-tape-be-used) | [Video](http://www.thisoldhouse.com/toh/video/0,,20800953,00.html)
+
+##### Exterior walls
+* [Repairing masonary screw holes](http://diy.stackexchange.com/questions/2376/how-do-i-repair-screw-holes-in-a-brick-wall) | Use masonary epoxy (or wood epoxy)
 
 ##### Electrical
 * [American outlets (bottom row)](http://i.stack.imgur.com/2cwsD.jpg)
