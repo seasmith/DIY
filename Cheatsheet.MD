@@ -14,6 +14,7 @@
 ![Door knob parts](http://cdn-1.hometips.com/wp-content/uploads/2012/06/doorknob_lock_parts_diagram.jpg)
 * Door lever parts  
 * ![Door lever parts](http://www.hometips.com/wp-content/uploads/2012/06/mortise_lockset_parts_diagram.jpg)
+* [Fix door hinge with worn screw holes](http://diy.stackexchange.com/questions/5729/how-do-i-rehang-a-wooden-door-with-worn-screw-holes) | Tooth picks and glue
 
 ##### Plumbing
 * [When to use pipe dope vs teflon tape](http://diy.stackexchange.com/questions/21117/when-should-pipe-dope-vs-thread-tape-be-used) | [Video](http://www.thisoldhouse.com/toh/video/0,,20800953,00.html)
