@@ -3,6 +3,7 @@
 ##### Fasteners
 * [Pe-drill holes in particle board for screw?](http://diy.stackexchange.com/questions/8469/do-i-need-to-pre-drill-holes-in-particle-board-for-screws) | Yes, on the edges and with screws wider than 1/8"
 * [Hanging items from ceiling drywall](http://diy.stackexchange.com/questions/11816/how-much-weight-can-i-hang-from-a-drywall-ceiling) | Toggle bolt w/ j-hook; better to anchor into joist
+* [Extract a broken/stripped screw](http://diy.stackexchange.com/questions/10451/how-to-remove-screws-with-stripped-heads) | [Rubber band](http://24.media.tumblr.com/tumblr_lr5mykGo3M1qzyj1lo1_250.jpg) | [Extractor bit](https://gzunino.wordpress.com/2008/02/04/extracting-a-broken-screw/)
 
 ##### Drywall
 * [Why use drywall tape on butt joints?](http://diy.stackexchange.com/questions/8281/what-is-the-purpose-of-tape-when-taping-and-mudding-drywall#answer-8283) | Prevent grounding of drywall mud into powder
