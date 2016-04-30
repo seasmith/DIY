@@ -31,6 +31,7 @@
 
 ##### Electrical
 * [American outlets (bottom row)](http://i.stack.imgur.com/2cwsD.jpg)
+![](http://i.stack.imgur.com/2cwsD.jpg)
 * [Bootleg outlet](http://diy.stackexchange.com/questions/11275/would-you-ever-wire-white-and-ground-together)
 
 ##### Wood working
