@@ -8,6 +8,7 @@
 * [Extract a broken/stripped screw](http://diy.stackexchange.com/questions/10451/how-to-remove-screws-with-stripped-heads) | [Rubber band](http://24.media.tumblr.com/tumblr_lr5mykGo3M1qzyj1lo1_250.jpg) | [Extractor bit](https://gzunino.wordpress.com/2008/02/04/extracting-a-broken-screw/)
 * [Why do some screws have two thread types(dual threaded)?](http://diy.stackexchange.com/questions/27708/what-is-the-use-for-this-different-threading-near-the-head-of-a-large-screw) | Lateral stabilization
 * [Remove a stuck screw or bolt](http://diy.stackexchange.com/questions/16263/how-can-i-remove-a-really-stuck-screw) | Better grip, penetrating oil, hammering, manual impact driver, heat/cool, or ream out
+* [Pilot hole size for screws](http://diy.stackexchange.com/questions/8800/when-pre-drilling-for-screws-how-do-you-determine-the-correct-bit-diameter#answer-8802)
 
 ##### Drywall
 * [Why use drywall tape on butt joints?](http://diy.stackexchange.com/questions/8281/what-is-the-purpose-of-tape-when-taping-and-mudding-drywall#answer-8283) | Prevent grounding of drywall mud into powder
