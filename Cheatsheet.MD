@@ -5,7 +5,7 @@
 * [Hanging items from ceiling drywall](http://diy.stackexchange.com/questions/11816/how-much-weight-can-i-hang-from-a-drywall-ceiling) | Toggle bolt w/ j-hook; better to anchor into joist
 * [Different drywall anchor types](http://diy.stackexchange.com/questions/16771/what-benefit-do-plasterboard-drywall-screws-have)
 * [Hollow door anchors](http://diy.stackexchange.com/questions/13154/what-kind-of-screws-for-attaching-an-ikea-style-coat-hook-of-an-internal-door)
-* [Extract a broken/stripped screw](http://diy.stackexchange.com/questions/10451/how-to-remove-screws-with-stripped-heads) | [Rubber band](http://24.media.tumblr.com/tumblr_lr5mykGo3M1qzyj1lo1_250.jpg) | [Extractor bit](https://gzunino.wordpress.com/2008/02/04/extracting-a-broken-screw/)
+* [Extract a broken/stripped screw](http://diy.stackexchange.com/questions/10451/how-to-remove-screws-with-stripped-heads) | [Rubber band](http://24.media.tumblr.com/tumblr_lr5mykGo3M1qzyj1lo1_250.jpg) | [Extractor bit](https://gzunino.wordpress.com/2008/02/04/extracting-a-broken-screw/) | Dremel new grooves | Hammer and chisel
 * [Why do some screws have two thread types(dual threaded)?](http://diy.stackexchange.com/questions/27708/what-is-the-use-for-this-different-threading-near-the-head-of-a-large-screw) | Lateral stabilization
 * [Remove a stuck screw or bolt](http://diy.stackexchange.com/questions/16263/how-can-i-remove-a-really-stuck-screw) | Better grip, penetrating oil, hammering, manual impact driver, heat/cool, or ream out
 * [Pilot hole size for screws](http://diy.stackexchange.com/questions/8800/when-pre-drilling-for-screws-how-do-you-determine-the-correct-bit-diameter#answer-8802)  
@@ -35,6 +35,8 @@
 
 ##### Wood working
 * [List of wood joints](https://en.wikipedia.org/wiki/Woodworking_joints#List_of_wood_joints)
+* [Shellac vs Polyurethane vs Varnish vs Lacquer and Others](http://www.diynetwork.com/how-to/skills-and-know-how/painting/whats-the-difference-between-polyurethane-varnish-shellac-and-lacquer)
+* [Which sandpaper to use for polyurethane coats](http://diy.stackexchange.com/questions/4469/what-grit-sandpaper-should-i-use-between-coats-of-polyurethane#answer-4470) | 220 grit
 
 ##### Climate control
 * [Safe humidity levels](http://diy.stackexchange.com/questions/593/humidity-levels) | [More](https://www.ag.ndsu.edu/homemoisture/documents/pdf/homehealthy-lesson.pdf) | 30-40% in cold climates; < 65% to reduce mold in summer; < 50% to reduce dust mites in summer
