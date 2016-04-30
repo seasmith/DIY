@@ -1,4 +1,13 @@
 # Cheatsheet
+* [Fasteners](#fasteners)
+* [Drywall](#drywall)
+* [Doors](#doors)
+* [Plumbing](#plumbing)
+* [Exterior walls](#exterior-walls)
+* [Electrical](#electrical)
+* [Wood working](#wood-working)
+* [Climate control](#climate-control)
+* [Adhesives](#adhesives)
 
 ##### Fasteners
 * [Pe-drill holes in particle board for screw?](http://diy.stackexchange.com/questions/8469/do-i-need-to-pre-drill-holes-in-particle-board-for-screws) | Yes, on the edges and with screws wider than 1/8"
@@ -41,3 +50,29 @@
 
 ##### Climate control
 * [Safe humidity levels](http://diy.stackexchange.com/questions/593/humidity-levels) | [More](https://www.ag.ndsu.edu/homemoisture/documents/pdf/homehealthy-lesson.pdf) | 30-40% in cold climates; < 65% to reduce mold in summer; < 50% to reduce dust mites in summer
+
+##### Adhesives
+* [Adhesives table](http://www.mr-dt.com/materials/adhesives.htm)
+* [Awesome resource for different applications and substrates](http://www.masterbond.com/applications)
+* [Gluing hardwood floors](http://diy.stackexchange.com/questions/1232/gluing-hardwood-floors) | [Helpful tips](http://www.lumberliquidators.com/blog/helpful-tips-for-glue-down-installations/)
+
+**Adhesive Recommendation**  
+
+Material 1 | Material 2 | Products
+-----------|------------|---------
+Rubber | Wood | [Contact cement][1.1]
+Metal | Glass | [JB ClearWeld][2.1]
+Clay | Clay | [Cyanoacrylate][3.1]
+
+
+[1.1]: http://diy.stackexchange.com/questions/11441/adhesive-for-gluing-rubber-to-wood "Contact cement"
+[2.1]: http://diy.stackexchange.com/questions/28745/what-type-of-adhesive-do-i-use-to-bond-metal-glass "JB ClearWeld"
+[3.1]: http://diy.stackexchange.com/questions/12320/how-can-i-repair-a-shattered-clay-pot-lid "Cyanoacrylate"
+
+**Adhesive Glossary**  
+
+Adhesive Type | Common Names | Description
+--------------|--------------|------------
+Cyanoacrylate | Superglue | Single component, solvent-free adhesives; readily cure upon exposure to moisture at room temperature [1][1.1.1]
+
+[1.1.1]: http://www.masterbond.com/products/cyanoacrylate-adhesive-systems
