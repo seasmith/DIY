@@ -1,4 +1,6 @@
 # Cheatsheet
+
+### Table of Contents
 * [Fasteners](#fasteners)
 * [Drywall](#drywall)
 * [Doors](#doors)
@@ -8,6 +10,8 @@
 * [Wood working](#wood-working)
 * [Climate control](#climate-control)
 * [Adhesives](#adhesives)
+
+___
 
 ##### Fasteners
 * [Pe-drill holes in particle board for screw?](http://diy.stackexchange.com/questions/8469/do-i-need-to-pre-drill-holes-in-particle-board-for-screws) | Yes, on the edges and with screws wider than 1/8"
@@ -21,9 +25,13 @@
 ![](http://i.stack.imgur.com/VOtay.png)
 ![](http://i.stack.imgur.com/3798q.png)
 
+___
+
 ##### Drywall
 * [Why use drywall tape on butt joints?](http://diy.stackexchange.com/questions/8281/what-is-the-purpose-of-tape-when-taping-and-mudding-drywall#answer-8283) | Prevent grounding of drywall mud into powder
 * [Why ever use a drywall nail?](http://diy.stackexchange.com/questions/6442/should-i-use-nails-or-screws-for-hanging-drywall-on-the-ceiling#answer-11945) | On exterior of drywall board, or to be cheap
+
+___
 
 ##### Doors
 * Door knob parts  
@@ -33,24 +41,36 @@
 * [Fix door hinge with worn screw holes](http://diy.stackexchange.com/questions/5729/how-do-i-rehang-a-wooden-door-with-worn-screw-holes) | Tooth picks and glue
 * [How to drill and 2 1/8" hole over an existing 1 1/2" hole](http://diy.stackexchange.com/questions/10391/how-do-i-drill-a-2%E2%85%9B-inch-door-knob-hole-over-an-existing-1%C2%BD-inch-hole)
 
+___
+
 ##### Plumbing
 * [When to use pipe dope vs teflon tape](http://diy.stackexchange.com/questions/21117/when-should-pipe-dope-vs-thread-tape-be-used) | [Video](http://www.thisoldhouse.com/toh/video/0,,20800953,00.html)
 
+___
+
 ##### Exterior walls
 * [Repairing masonary screw holes](http://diy.stackexchange.com/questions/2376/how-do-i-repair-screw-holes-in-a-brick-wall) | Use masonary epoxy (or wood epoxy)
+
+___
 
 ##### Electrical
 * [American outlets (bottom row)](http://i.stack.imgur.com/2cwsD.jpg)
 ![](http://i.stack.imgur.com/2cwsD.jpg)
 * [Bootleg outlet](http://diy.stackexchange.com/questions/11275/would-you-ever-wire-white-and-ground-together)
 
+___
+
 ##### Wood working
 * [List of wood joints](https://en.wikipedia.org/wiki/Woodworking_joints#List_of_wood_joints)
 * [Shellac vs Polyurethane vs Varnish vs Lacquer and Others](http://www.diynetwork.com/how-to/skills-and-know-how/painting/whats-the-difference-between-polyurethane-varnish-shellac-and-lacquer)
 * [Which sandpaper to use for polyurethane coats](http://diy.stackexchange.com/questions/4469/what-grit-sandpaper-should-i-use-between-coats-of-polyurethane#answer-4470) | 220 grit
 
+___
+
 ##### Climate control
 * [Safe humidity levels](http://diy.stackexchange.com/questions/593/humidity-levels) | [More](https://www.ag.ndsu.edu/homemoisture/documents/pdf/homehealthy-lesson.pdf) | 30-40% in cold climates; < 65% to reduce mold in summer; < 50% to reduce dust mites in summer
+
+___
 
 ##### Adhesives
 * [ThisToThat Adhesive Lookup Table](http://www.thistothat.com/)
