@@ -53,27 +53,34 @@
 * [Safe humidity levels](http://diy.stackexchange.com/questions/593/humidity-levels) | [More](https://www.ag.ndsu.edu/homemoisture/documents/pdf/homehealthy-lesson.pdf) | 30-40% in cold climates; < 65% to reduce mold in summer; < 50% to reduce dust mites in summer
 
 ##### Adhesives
+* [ThisToThat Adhesive Lookup Table](http://www.thistothat.com/)
 * [Adhesives table](http://www.mr-dt.com/materials/adhesives.htm)
 * [Awesome resource for different applications and substrates](http://www.masterbond.com/applications)
+* [Info on epoxies](http://diy.stackexchange.com/questions/24862/are-all-epoxy-created-equal)
 * [Gluing hardwood floors](http://diy.stackexchange.com/questions/1232/gluing-hardwood-floors) | [Helpful tips](http://www.lumberliquidators.com/blog/helpful-tips-for-glue-down-installations/)
 
 **Adhesive Recommendation**  
 
 Material 1 | Material 2 | Products
 -----------|------------|---------
-Rubber | Wood | [Contact cement][1.1]
-Metal | Glass | [JB ClearWeld][2.1]
-Clay | Clay | [Cyanoacrylate][3.1]
+Rubber | Wood | [Contact cement][1.1.1]
+Metal | Glass | [JB ClearWeld][1.2.1]
+Clay | Clay | [Cyanoacrylate (food-safe)][1.3.1]
+Wood | Wood | [TiteBond II (non-toxic)][1.4.1]
+Metal | Metal | [JB Weld][1.5.1], [LePage's Metal Epoxy][1.5.2]
 
 
-[1.1]: http://diy.stackexchange.com/questions/11441/adhesive-for-gluing-rubber-to-wood "Contact cement"
-[2.1]: http://diy.stackexchange.com/questions/28745/what-type-of-adhesive-do-i-use-to-bond-metal-glass "JB ClearWeld"
-[3.1]: http://diy.stackexchange.com/questions/12320/how-can-i-repair-a-shattered-clay-pot-lid "Cyanoacrylate"
+[1.1.1]: http://diy.stackexchange.com/questions/11441/adhesive-for-gluing-rubber-to-wood "Contact cement"
+[1.2.1]: http://diy.stackexchange.com/questions/28745/what-type-of-adhesive-do-i-use-to-bond-metal-glass "JB ClearWeld"
+[1.3.1]: http://diy.stackexchange.com/questions/12320/how-can-i-repair-a-shattered-clay-pot-lid "Cyanoacrylate (food-safe)"
+[1.4.1]: http://diy.stackexchange.com/questions/972/non-toxic-wood-glue "TiteBond II (non-toxic)"
+[1.5.1]: http://diy.stackexchange.com/questions/2231/what-is-a-strong-glue-for-bonding-metal "JB Weld"
+[1.5.2]:http://diy.stackexchange.com/questions/2231/what-is-a-strong-glue-for-bonding-metal "LePage's Metal Epoxy"
 
 **Adhesive Glossary**  
 
 Adhesive Type | Common Names | Description
 --------------|--------------|------------
-Cyanoacrylate | Superglue | Single component, solvent-free adhesives; readily cure upon exposure to moisture at room temperature [1][1.1.1]
+Cyanoacrylate | Superglue | Single component, solvent-free adhesives; readily cure upon exposure to moisture at room temperature [1][2.1.1]
 
-[1.1.1]: http://www.masterbond.com/products/cyanoacrylate-adhesive-systems
+[2.1.1]: http://www.masterbond.com/products/cyanoacrylate-adhesive-systems "1"
