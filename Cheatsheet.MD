@@ -68,6 +68,7 @@ Metal | Glass | [JB ClearWeld][1.2.1]
 Clay | Clay | [Cyanoacrylate (food-safe)][1.3.1]
 Wood | Wood | [TiteBond II (non-toxic)][1.4.1]
 Metal | Metal | [JB Weld][1.5.1], [LePage's Metal Epoxy][1.5.2]
+Hardwood | Concrete | [Titebond III][1.6.1]
 
 
 [1.1.1]: http://diy.stackexchange.com/questions/11441/adhesive-for-gluing-rubber-to-wood "Contact cement"
@@ -75,7 +76,8 @@ Metal | Metal | [JB Weld][1.5.1], [LePage's Metal Epoxy][1.5.2]
 [1.3.1]: http://diy.stackexchange.com/questions/12320/how-can-i-repair-a-shattered-clay-pot-lid "Cyanoacrylate (food-safe)"
 [1.4.1]: http://diy.stackexchange.com/questions/972/non-toxic-wood-glue "TiteBond II (non-toxic)"
 [1.5.1]: http://diy.stackexchange.com/questions/2231/what-is-a-strong-glue-for-bonding-metal "JB Weld"
-[1.5.2]:http://diy.stackexchange.com/questions/2231/what-is-a-strong-glue-for-bonding-metal "LePage's Metal Epoxy"
+[1.5.2]: http://diy.stackexchange.com/questions/2231/what-is-a-strong-glue-for-bonding-metal "LePage's Metal Epoxy"
+[1.6.1]: http://diy.stackexchange.com/questions/9137/what-type-of-glue-should-i-use-to-repair-my-hardwood-floor "Titebond III"
 
 **Adhesive Glossary**  
 
