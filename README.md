@@ -1,2 +1,3 @@
 # Lowes
-For work
+
+> Measure twice, cut once, sand to fit.
