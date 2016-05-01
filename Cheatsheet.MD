@@ -64,6 +64,11 @@ ___
 * [List of wood joints](https://en.wikipedia.org/wiki/Woodworking_joints#List_of_wood_joints)
 * [Shellac vs Polyurethane vs Varnish vs Lacquer and Others](http://www.diynetwork.com/how-to/skills-and-know-how/painting/whats-the-difference-between-polyurethane-varnish-shellac-and-lacquer)
 * [Which sandpaper to use for polyurethane coats](http://diy.stackexchange.com/questions/4469/what-grit-sandpaper-should-i-use-between-coats-of-polyurethane#answer-4470) | 220 grit
+* [How to account for saw blade width/thickness (kerf)](http://diy.stackexchange.com/questions/7628/whats-the-best-way-to-account-for-saw-blade-width-kerf-when-cutting-boards) | Cut on the waste side 
+```
+|the detail you want|line|remaining material|
+|                   |blade cuts here|
+```
 
 ___
 
