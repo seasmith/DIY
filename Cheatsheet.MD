@@ -1,6 +1,7 @@
 # Cheatsheet
 
 ### Table of Contents
+* [Resources](#resources)
 * [Fasteners](#fasteners)
 * [Drywall](#drywall)
 * [Doors](#doors)
@@ -10,6 +11,23 @@
 * [Wood working](#wood-working)
 * [Climate control](#climate-control)
 * [Adhesives](#adhesives)
+
+___
+
+##### Resources
+* [DIY.StackExchange](http://diy.stackexchange.com/)
+* [SF Gate Home Guides](http://homeguides.sfgate.com/)
+  * [Videos](http://homeguides.sfgate.com/water-heaters-88490.html)
+    * [Plumbing Help](http://homeguides.sfgate.com/plumbing-87491.html)
+    * [Plumbing Tips](http://homeguides.sfgate.com/plumbing-tips-73552.html)
+    * [Plumbing Techniques](http://homeguides.sfgate.com/plumbing-techniques-88776.html)
+    * [How to Loosen Pipe Fittings](http://homeguides.sfgate.com/plumbing-loosen-pipe-fittings-80614.html)
+    * [Water Heaters](http://homeguides.sfgate.com/water-heaters-88490.html)
+    * [Drywall & Wall Repairs](http://homeguides.sfgate.com/drywall-wall-repairs-84919.html)
+    * [Door Maintenance](http://homeguides.sfgate.com/door-maintenance-83186.html)
+    * [Door & Window Maintenance](http://homeguides.sfgate.com/door-window-maintenance-73563.html)
+    * [Ceiling Fans & Home Maintenance](http://homeguides.sfgate.com/ceiling-fans-home-maintenance-73589.html)
+    * [Ceiling Fans](http://homeguides.sfgate.com/ceiling-fans-73518.html)
 
 ___
 
@@ -44,6 +62,7 @@ ___
 ___
 
 ##### Plumbing
+* [How to install a faucet hole cover](http://homeguides.sfgate.com/install-cover-extra-hole-kitchen-sink-45477.html)
 * [When to use pipe dope vs teflon tape](http://diy.stackexchange.com/questions/21117/when-should-pipe-dope-vs-thread-tape-be-used) | [Video](http://www.thisoldhouse.com/toh/video/0,,20800953,00.html)
 * [Gas vs Water lines](http://diy.stackexchange.com/questions/13126/how-can-i-tell-if-these-pipes-are-gas-lines-or-water-lines) | `Gas` = black pipe w/ threaded connections; `Water` = copper w/ solder; galvanized w/ threaded connections; plastic w/ various connection types  
 **Gas**  
