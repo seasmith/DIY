@@ -104,13 +104,27 @@ ___
 ___
 
 ## Doors
-* Door knob parts  
+* [Fix door hinge with worn screw holes](http://diy.stackexchange.com/questions/5729/how-do-i-rehang-a-wooden-door-with-worn-screw-holes) | Tooth picks and glue
+* [How to drill and 2 1/8" hole over an existing 1 1/2" hole](http://diy.stackexchange.com/questions/10391/how-do-i-drill-a-2%E2%85%9B-inch-door-knob-hole-over-an-existing-1%C2%BD-inch-hole)
+* [How to secure french doors]() | 1 inch deadbolt; mortise lock; handle, top, and bottom deadbolt (three point)
+* [Mortise vs Cylindrical Locks](http://locknet.com/lockbytes/excerpts/whats-the-difference-mortise-vs-cylindrical-locks/) | [More](http://locknet.com/lockbytes/excerpts/faq/mortise-locks-vs-cylindrical-locks-the-basics/)
+* [How to install bifold doors](http://www.lowes.com/projects/build-and-remodel/install-bifold-doors/project) | [Video]()
+* Door knob parts 
 ![Door knob parts](http://cdn-1.hometips.com/wp-content/uploads/2012/06/doorknob_lock_parts_diagram.jpg)
 * Door lever parts  
 ![Door lever parts](http://www.hometips.com/wp-content/uploads/2012/06/mortise_lockset_parts_diagram.jpg)
-* [Fix door hinge with worn screw holes](http://diy.stackexchange.com/questions/5729/how-do-i-rehang-a-wooden-door-with-worn-screw-holes) | Tooth picks and glue
-* [How to drill and 2 1/8" hole over an existing 1 1/2" hole](http://diy.stackexchange.com/questions/10391/how-do-i-drill-a-2%E2%85%9B-inch-door-knob-hole-over-an-existing-1%C2%BD-inch-hole)
+* [Types of interior doors](http://www.homedit.com/types-of-interior-doors-for-home/)
 
+Type | Picture
+-----|--------
+Jamb-hinged | ![](http://cdn.homedit.com/wp-content/uploads/2011/06/modern-large-living-room-passage-door.jpg)
+Sliding | ![](http://cdn.homedit.com/wp-content/uploads/2011/06/modern-sliding-door.jpg)
+Pocket | ![](http://cdn.homedit.com/wp-content/uploads/2011/06/pocket-door-bathroom.jpg)
+French | ![](http://cdn.homedit.com/wp-content/uploads/2011/06/french-door-small-windows.jpg)
+Bifold | ![](http://cdn.homedit.com/wp-content/uploads/2011/06/modern-bifolding-door.jpg)
+Dutch | ![](http://cdn.homedit.com/wp-content/uploads/2011/06/dutch-door-type.jpg)
+Roller | ![](http://cdn.homedit.com/wp-content/uploads/2011/06/roller-door-type.jpg)
+Pivot | ![](http://cdn.homedit.com/wp-content/uploads/2011/06/pivot-door.jpg)
 ___
 
 ## Plumbing
@@ -176,6 +190,19 @@ Climate | RH Level
 --------|----------
 Winter | 30-40%
 Summer | < 65% (mold); < 50% (dust mites)
+
+___
+
+## Cleaning
+* [Concrete](http://www.lowes.com/projects/repair-and-maintain/remove-stains-from-concrete/project) | Follow up table instructions with mop with water and floor cleaner; dry for 24 hrs if sealing or staining
+
+Stain Type | Method
+-----------|-------
+Grease/Oil | Degreaser soak 15 minutes; nylon brush scrub
+Mastic | Putty knife and stiff brush scrape; citrus-based cleaner
+Paint | Trisodium phosphate and water scrub; wash; dry few hours; putty knife scrape; paint thinner soak over night; pressure washer optional
+Rust | Acidc liquid (lemon juic or vinegar) soak 10 minutes; wire brush scrub; rinse and repeat; optional commercial cleaner
+
 
 ___
 
