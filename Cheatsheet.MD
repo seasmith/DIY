@@ -43,25 +43,42 @@ ___
 ## Tools
 
 ### Power Tools
-* Circular Saw | [Video guide](https://www.youtube.com/watch?v=1APf46AhM4g)
-  * Gear
-    * Worm drive = driving gear rotation at right angle to blade rotation
-    * Side winder = driving gear rotation parallel to blade rotation
-  * Blades
-    * Diamond = masonary/tile
-      * Segmented
-      * Unsegmented (continuous)
-    * Carbide Tip
-    * Fine tooth = veneers/plywood
-    * Carborundum = masonry/steel
+##### Circular Saw
+* Gear
+  * Worm drive = driving gear rotation at right angle to blade rotation
+  * Side winder = driving gear rotation parallel to blade rotation
+* Blades
+  * Diamond = masonary/tile
+    * Segmented
+    * Unsegmented (continuous)
+  * Carbide Tip
+  * Fine tooth = veneers/plywood
+  * Carborundum = masonry/steel
+* [Video guide](https://www.youtube.com/watch?v=1APf46AhM4g)
+* [Blades](http://www.lowes.com/projects/woodworking-and-crafts/circular-saw-blade-buying-guide/project)
+
+Type | Description
+---------|------------
+Carbide | Hard material; carbide cemented teeth
+Steel | 
+Diamond (Continuous) | Tile
+Diamond (Segmented/Serated) | Masonry
+Silicone Carbide | Metal; abrasive
+Aluminum Oxide | Metal; abrasive
+
+##### Tool Table
 
 Tool |  Use | Materials | Features | Accessories | Safety 
 -----|------|-----------|----------|-------------|-------
 Circular Saw | Rip/cross cuts | Wood; Masonry; Steel | Bevel; Fence guide | Guard | Cross-cut guide
 
-##### Blades
-
 ### Hand Tools
+
+
+### Blades
+
+
+
 
 ___
 
