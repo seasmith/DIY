@@ -60,7 +60,8 @@ ___
 Type | Description
 ---------|------------
 Carbide | Hard material; carbide cemented teeth
-Steel | 
+Course Steel | Framing
+Fine Steel | Moulding/Plywood/Veneer/Plastic
 Diamond (Continuous) | Tile
 Diamond (Segmented/Serated) | Masonry
 Silicone Carbide | Metal; abrasive
