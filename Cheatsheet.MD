@@ -37,6 +37,12 @@ ___
     * [Door & Window Maintenance](http://homeguides.sfgate.com/door-window-maintenance-73563.html)
     * [Ceiling Fans & Home Maintenance](http://homeguides.sfgate.com/ceiling-fans-home-maintenance-73589.html)
     * [Ceiling Fans](http://homeguides.sfgate.com/ceiling-fans-73518.html)
+* [Lowe's How-to Library](http://www.lowes.com/how-to-library)
+  * [How-To](http://www.lowes.com/how-to-library/_/N-2z80u/npl#!&N%5B%5D=2zbrb)
+  * [Glossary](http://www.lowes.com/how-to-library/_/N-2z80u/npl#!&N%5B%5D=2zbrm)
+  * [Buying Guide](http://www.lowes.com/how-to-library/_/N-2z80u/npl#!&N%5B%5D=2zbr8)
+  * [Videos](http://www.lowes.com/how-to-library/_/N-2z80u/npl#!&N%5B%5D=2zbri)
+  * [Plan](http://www.lowes.com/how-to-library/_/N-2z80u/npl#!&N%5B%5D=2zbre)
 
 ___
 
