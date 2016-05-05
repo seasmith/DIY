@@ -4,7 +4,7 @@
 * [Resources](#resources)
 * [Tools](#tools)
   * [Power Tools](#power-tools)
-    * [Blades](#blades)
+    * [Circular Saw](#circular-saw)
   * [Hand Tools](#hand-tools)
 * [Fasteners](#fasteners)
   * [Screws](#screws)
@@ -73,11 +73,6 @@ Tool |  Use | Materials | Features | Accessories | Safety
 Circular Saw | Rip/cross cuts | Wood; Masonry; Steel | Bevel; Fence guide | Guard | Cross-cut guide
 
 ### Hand Tools
-
-
-### Blades
-
-
 
 
 ___
@@ -162,10 +157,25 @@ ___
 |                   |blade cuts here|
 ```
 
+##### Wood Cuts
+
+Type | Description
+-----|------------
+Square | 90 to edge; 90 to face
+Miter | Not 90 to edge; 90 to face
+Bevel | Not 90 to face
+Double Bevel | Two cuts not 90 to face
+Compound | Miter + bevel
+
 ___
 
 ## Climate control
-* [Safe humidity levels](http://diy.stackexchange.com/questions/593/humidity-levels) | [More](https://www.ag.ndsu.edu/homemoisture/documents/pdf/homehealthy-lesson.pdf) | 30-40% in cold climates; < 65% to reduce mold in summer; < 50% to reduce dust mites in summer
+* [Safe humidity levels](http://diy.stackexchange.com/questions/593/humidity-levels) | [More](https://www.ag.ndsu.edu/homemoisture/documents/pdf/homehealthy-lesson.pdf)
+
+Climate | RH Level
+--------|----------
+Winter | 30-40%
+Summer | < 65% (mold); < 50% (dust mites)
 
 ___
 
