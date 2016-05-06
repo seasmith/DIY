@@ -77,7 +77,7 @@ Aluminum Oxide | Metal; abrasive
 
 Tool |  Use | Materials | Features | Accessories | Safety 
 -----|------|-----------|----------|-------------|-------
-Circular Saw | Rip/cross cuts | Wood; Masonry; Steel | Bevel; Fence guide | Guard | Cross-cut guide
+Circular Saw | Rip/cross cuts | Wood; Masonry; Steel | Bevel; Fence guide | Cross-cut guide | Guard
 
 ### Hand Tools
 
