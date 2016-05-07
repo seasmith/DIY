@@ -17,6 +17,9 @@
 * [Electrical](#electrical)
 * [Wood working](#wood-working)
 * [Climate control](#climate-control)
+* [Fabrics](#fabrics)
+  * [Plastics](#plastics)
+* [Cars](#cars)
 * [Adhesives](#adhesives)
   * [Adhesive Recommendation](#adhesive-recommendation)
   * [Adhesive Golssary](#adhesive-glossary)
@@ -240,6 +243,17 @@ Mastic | Putty knife and stiff brush scrape; citrus-based cleaner
 Paint | Trisodium phosphate and water scrub; wash; dry few hours; putty knife scrape; paint thinner soak over night; pressure washer optional
 Rust | Acidc liquid (lemon juic or vinegar) soak 10 minutes; wire brush scrub; rinse and repeat; optional commercial cleaner
 
+___
+
+## Fabrics
+
+### Plastics
+* [Fiberglass resin]() | Repairs on concrete, wood, fiberglass, metals, and plastic
+
+___
+
+## Cars
+* [How to mold door speaker pods](http://www.caraudiofabrication.com/#!molded-door-pods/c1t4r)
 
 ___
 
