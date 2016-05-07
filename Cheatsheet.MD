@@ -73,11 +73,29 @@ Diamond (Segmented/Serated) | Masonry
 Silicone Carbide | Metal; abrasive
 Aluminum Oxide | Metal; abrasive
 
+##### Router
+* Types
+  * Plunge = heavy duty; can bore/drill
+  * Fixed = 
+  * Trim = tight spaces
+* Bits = many; two main features: Profile and Shank
+
+*Bits*
+
+Feature | Description
+--------|------------
+Profile | determines the groove that is made; design
+Shank | goes into the collar (1/4", 1/2", etc)
+Guide | a bearing (bottom or top) that allows the bit to ride an edge; requires that the depth be set
+Collar | Holds the bit; different sizes for different sized shanks
+
 ##### Tool Table
 
 Tool |  Use | Materials | Features | Accessories | Safety 
 -----|------|-----------|----------|-------------|-------
 Circular Saw | Rip/cross cuts | Wood; Masonry; Steel | Bevel; Fence guide | Cross-cut guide | Guard
+Router | Grooves/Joints | Wood | Fixed/Plunging base; variable speed | Table mount; Saw dust bag; Guides |  
+Trim Router | Grooves/Joints | Wood | Tight spaces | | Big bits will overheat and burn wood
 
 ### Hand Tools
 
@@ -171,6 +189,18 @@ ___
 ## Wood working
 * [List of wood joints](https://en.wikipedia.org/wiki/Woodworking_joints#List_of_wood_joints)
 * [Shellac vs Polyurethane vs Varnish vs Lacquer and Others](http://www.diynetwork.com/how-to/skills-and-know-how/painting/whats-the-difference-between-polyurethane-varnish-shellac-and-lacquer)
+
+Finisher | What it is | What it does | Caution
+---------|------------|--------------|--------
+Shellac | Lac bug secretion and denatured alcohol |  Adds warm amber | Safe when hardened/dried; affected by heat
+Polyurethane (water-based) | Liquid plastic | Goes on clear  | Low odor; low toxicity; fast drying; affected by heat/chemicals
+Polyurethane (fortified water-based) | Liquid plastic | Goes on clear (wood; latex/acrylic paint)  | Stands up better to heat; can go over oil-based finishes
+Polyurethane (oil-based) | Liquid plastic | Slight amber (wood); yellow hue (latex/acrylic paint) | Stands up to heat; high odor; long drying
+Varnish | [Resin (drying oil and solvent)][varnish.1] | Protective top coat | Durable; heat-resistant; UV protection; water-resistant
+Lacquer | | Gloss (paint) | Durable; damage-resistant; discolors; scratches
+
+[varnish.1]: http://www.christinedemerchant.com/varnish.html "Resin (drying oil and solvent)"
+
 * [Which sandpaper to use for polyurethane coats](http://diy.stackexchange.com/questions/4469/what-grit-sandpaper-should-i-use-between-coats-of-polyurethane#answer-4470) | 220 grit
 * [How to account for saw blade width/thickness (kerf)](http://diy.stackexchange.com/questions/7628/whats-the-best-way-to-account-for-saw-blade-width-kerf-when-cutting-boards) | Cut on the waste side 
 ```
