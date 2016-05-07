@@ -4,9 +4,9 @@
 ---|---|---|---|---|---
    | [Power Tools](#power-tools); [Hand Tools](#hand-tools) | [Screws](#screws); [Anchors](#anchors); [Nails](#nails) |   |   |
 
-[Exterior walls](#exterior-walls) | [Electrical](#electrical) | [Wood working](#wood-working) | [Climate control](#climate-control) | [Fabrics](#fabrics) | [Cars](#cars) | [Adhesives](#adhesives)
----|---|---|---|---|---|---
-   |   |   | [Plastics](#plastics) |   |   | [Adhesive Recommendation](#adhesive-recommendation); [Adhesive Golssary](#adhesive-glossary)
+[Exterior walls](#exterior-walls) | [Electrical](#electrical) | [Wood working](#wood-working) | [Climate control](#climate-control) | [Cars](#cars) | [Adhesives and Resins](#adhesives-and-resins)
+---|---|---|---|---|---
+   |   |  |   |   | [Adhesives](#adhesives); [Resins](#resins)
 
 ## Table of Contents
 * [Resources](#resources)
@@ -28,9 +28,11 @@
 * [Fabrics](#fabrics)
   * [Plastics](#plastics)
 * [Cars](#cars)
-* [Adhesives](#adhesives)
-  * [Adhesive Recommendation](#adhesive-recommendation)
-  * [Adhesive Golssary](#adhesive-glossary)
+* [Adhesives and Resins](#adhesives-and-resins)
+  * [Adhesives](#adhesives)
+    * [Adhesive Recommendation](#adhesive-recommendation)
+    * [Adhesive Golssary](#adhesive-glossary)
+  * [Resins](#resins)
 
 ___
 
@@ -253,19 +255,15 @@ Rust | Acidc liquid (lemon juic or vinegar) soak 10 minutes; wire brush scrub; r
 
 ___
 
-## Fabrics
-
-### Plastics
-* [Fiberglass resin]() | Repairs on concrete, wood, fiberglass, metals, and plastic
-
-___
-
 ## Cars
 * [How to mold door speaker pods](http://www.caraudiofabrication.com/#!molded-door-pods/c1t4r)
 
 ___
 
-## Adhesives
+## Adhesives and Resins
+* [General guideline on resins and epoxies](http://www.cca.edu/sites/default/files/pdf/08/resin-guidelines.pdf)
+
+### Adhesives
 * [ThisToThat Adhesive Lookup Table](http://www.thistothat.com/)
 * [Adhesives table](http://www.mr-dt.com/materials/adhesives.htm)
 * [Awesome resource for different applications and substrates](http://www.masterbond.com/applications)
@@ -299,3 +297,8 @@ Adhesive Type | Common Names | Description
 Cyanoacrylate | Superglue | Single component, solvent-free adhesives; readily cure upon exposure to moisture at room temperature [1][2.1.1]
 
 [2.1.1]: http://www.masterbond.com/products/cyanoacrylate-adhesive-systems "1"
+
+### Resins
+* [General guideline on resins and epoxies](http://www.cca.edu/sites/default/files/pdf/08/resin-guidelines.pdf)
+* [Fiberglass resin]() | [Bondo](https://en.wikipedia.org/wiki/Bondo_(putty)) | Repairs on concrete, wood, fiberglass, metals, and plastic
+
