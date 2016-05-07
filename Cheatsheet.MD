@@ -1,5 +1,13 @@
 # Cheatsheet
 
+[Resources](#resources) | [Tools](#tools) | [Fasteners](#fasteners) | [Drywall](#drywall) | [Doors](#doors) | [Plumbing](#plumbing)
+---|---|---|---|---|---
+   | [Power Tools](#power-tools); [Hand Tools](#hand-tools) | [Screws](#screws); [Anchors](#anchors); [Nails](#nails) |   |   |
+
+[Exterior walls](#exterior-walls) | [Electrical](#electrical) | [Wood working](#wood-working) | [Climate control](#climate-control) | [Fabrics](#fabrics) | [Cars](#cars) | [Adhesives](#adhesives)
+---|---|---|---|---|---|---
+   |   |   | [Plastics](#plastics) |   |   | [Adhesive Recommendation](#adhesive-recommendation); [Adhesive Golssary](#adhesive-glossary)
+
 ## Table of Contents
 * [Resources](#resources)
 * [Tools](#tools)
