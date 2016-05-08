@@ -65,6 +65,7 @@ ___
   * [Buying Guide](http://www.lowes.com/how-to-library/_/N-2z80u/npl#!&N%5B%5D=2zbr8)
   * [Videos](http://www.lowes.com/how-to-library/_/N-2z80u/npl#!&N%5B%5D=2zbri)
   * [Plan](http://www.lowes.com/how-to-library/_/N-2z80u/npl#!&N%5B%5D=2zbre)
+* [MSDS's](http://www.ilpi.com/msds/)
 
 ___
 
