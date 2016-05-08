@@ -1,18 +1,27 @@
 # Cheatsheet
 
-[Resources](#resources) | [Tools](#tools) | [Fasteners](#fasteners) | [Drywall](#drywall) | [Doors](#doors) | [Plumbing](#plumbing)
----|---|---|---|---|---
-   | [Power Tools](#power-tools); [Hand Tools](#hand-tools) | [Screws](#screws); [Anchors](#anchors); [Nails](#nails) |   |   |
+[Resources](#resources) | [Tools](#tools) | [Fasteners](#fasteners)
+---|---|---
+   | [Power Tools](#power-tools); [Hand Tools](#hand-tools) | [Screws](#screws); [Anchors](#anchors); [Nails](#nails) 
 
-[Exterior walls](#exterior-walls) | [Electrical](#electrical) | [Wood working](#wood-working) | [Climate control](#climate-control) | [Cars](#cars) | [Adhesives and Resins](#adhesives-and-resins)
----|---|---|---|---|---
-   |   | [Wood Cuts](#wood-cuts) |   |   | [Adhesives](#adhesives); [Resins](#resins)
+[Drywall](#drywall) | [Doors](#doors) | [Plumbing](#plumbing)
+---|---|---
+   |   |   
+
+[Exterior walls](#exterior-walls) | [Electrical](#electrical) | [Wood working](#wood-working)
+---|---|---
+   |   | [Wood Cuts](#wood-cuts)
+
+[Climate control](#climate-control) | [Cars](#cars) | [Adhesives and Resins](#adhesives-and-resins)
+---|---|---
+   |   | [Adhesives](#adhesives); [Resins](#resins)
 
 ## Table of Contents
 * [Resources](#resources)
 * [Tools](#tools)
   * [Power Tools](#power-tools)
     * [Circular Saw](#circular-saw)
+    * [Router](#router)
   * [Hand Tools](#hand-tools)
 * [Fasteners](#fasteners)
   * [Screws](#screws)
@@ -91,16 +100,20 @@ Aluminum Oxide | Metal; abrasive
   * Plunge = heavy duty; can bore/drill
   * Fixed = 
   * Trim = tight spaces
-* Bits = many; two main features: Profile and Shank
+* Bits
 
-*Bits*
+*Features*
 
 Feature | Description
 --------|------------
 Profile | determines the groove that is made; design
-Shank | goes into the collar (1/4", 1/2", etc)
 Guide | a bearing (bottom or top) that allows the bit to ride an edge; requires that the depth be set
+Shank | goes into the collar (1/4", 1/2", etc)
 Collar | Holds the bit; different sizes for different sized shanks
+
+*Profiles*
+
+![Bit profiles](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Router_bit_profiles_en.svg/191px-Router_bit_profiles_en.svg.png)
 
 ##### Tool Table
 
