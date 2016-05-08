@@ -315,5 +315,5 @@ Cyanoacrylate | Superglue | Single component, solvent-free adhesives; readily cu
 
 ### Resins
 * [General guideline on resins and epoxies](http://www.cca.edu/sites/default/files/pdf/08/resin-guidelines.pdf)
-* [Fiberglass resin]() | [Bondo](https://en.wikipedia.org/wiki/Bondo_(putty)) | Repairs on concrete, wood, fiberglass, metals, and plastic
+* [Fiberglass resin]() | [Bondo](http://bondo.com/tips#fzypgDIRToTbGRwa.97)) | Repairs on concrete, wood, fiberglass, metals, and plastic
 
