@@ -6,7 +6,7 @@
 
 [Exterior walls](#exterior-walls) | [Electrical](#electrical) | [Wood working](#wood-working) | [Climate control](#climate-control) | [Cars](#cars) | [Adhesives and Resins](#adhesives-and-resins)
 ---|---|---|---|---|---
-   |   |  |   |   | [Adhesives](#adhesives); [Resins](#resins)
+   |   | [Wood Cuts](#wood-cuts) |   |   | [Adhesives](#adhesives); [Resins](#resins)
 
 ## Table of Contents
 * [Resources](#resources)
@@ -203,16 +203,18 @@ ___
 * [List of wood joints](https://en.wikipedia.org/wiki/Woodworking_joints#List_of_wood_joints)
 * [Shellac vs Polyurethane vs Varnish vs Lacquer and Others](http://www.diynetwork.com/how-to/skills-and-know-how/painting/whats-the-difference-between-polyurethane-varnish-shellac-and-lacquer)
 
-Finisher | What it is | What it does | Caution
----------|------------|--------------|--------
+Finisher | What it is | How it looks | How it stands up
+---------|------------|--------------|-----------------
 Shellac | Lac bug secretion and denatured alcohol |  Adds warm amber | Safe when hardened/dried; affected by heat
 Polyurethane (water-based) | Liquid plastic | Goes on clear  | Low odor; low toxicity; fast drying; affected by heat/chemicals
 Polyurethane (fortified water-based) | Liquid plastic | Goes on clear (wood; latex/acrylic paint)  | Stands up better to heat; can go over oil-based finishes
 Polyurethane (oil-based) | Liquid plastic | Slight amber (wood); yellow hue (latex/acrylic paint) | Stands up to heat; high odor; long drying
 Varnish | [Resin (drying oil and solvent)][varnish.1] | Protective top coat | Durable; heat-resistant; UV protection; water-resistant
-Lacquer | | Gloss (paint) | Durable; damage-resistant; discolors; scratches
+[Lacquer][lacquer.1] | Lacquer gum or dissolved nitrocellulose | Gloss/matte/resin (paint) | Durable; paint protective; damage-resistant; discolors
+Linseed Oil | Dried flax seeds | Adds amber/darken | Boiled linseed oil commonly used on wooden tool handles
 
 [varnish.1]: http://www.christinedemerchant.com/varnish.html "Resin (drying oil and solvent)"
+[lacquer.1]: http://www.wisegeek.com/what-is-lacquer.htm "Lacquer"
 
 * [Which sandpaper to use for polyurethane coats](http://diy.stackexchange.com/questions/4469/what-grit-sandpaper-should-i-use-between-coats-of-polyurethane#answer-4470) | 220 grit
 * [How to account for saw blade width/thickness (kerf)](http://diy.stackexchange.com/questions/7628/whats-the-best-way-to-account-for-saw-blade-width-kerf-when-cutting-boards) | Cut on the waste side 
