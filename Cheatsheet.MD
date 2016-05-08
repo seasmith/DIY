@@ -184,6 +184,17 @@ ___
 ## Plumbing
 * [How to install a faucet hole cover](http://homeguides.sfgate.com/install-cover-extra-hole-kitchen-sink-45477.html)
 * [When to use pipe dope vs teflon tape](http://diy.stackexchange.com/questions/21117/when-should-pipe-dope-vs-thread-tape-be-used) | [Video](http://www.thisoldhouse.com/toh/video/0,,20800953,00.html)
+* [Glossary](http://www.drews-plumbing.com/glossary.html) | [More](http://www.horizonservicesinc.com/reference/glossary/plumbing-glossary) | [More](https://www.safeplumbing.org/resources/glossary)
+
+*Glossary*
+
+Term | Definition
+-----|-----------
+MIP | Male Iron Pipe connection
+FIP | Female Iron Pipe connection
+Air Gap | A device, usually on the back of the kitchen sink, that connect the dishwasher to the garbage disposer; allows discharge without siphoning of dishwasher water up the faucet connection
+Escutcheon | Decorative metal-trim ring that covers a pipe potruding from the wall (i.e. shower); installed before a stop valve is installed
+Stop Valve | Valves which shut off hot/cold water supplies to faucets, toilets, etc
 
 ### Pipe Materials
 * [Gas vs Water lines](http://diy.stackexchange.com/questions/13126/how-can-i-tell-if-these-pipes-are-gas-lines-or-water-lines) | `Gas` = black pipe w/ threaded connections; `Water` = copper w/ solder; galvanized w/ threaded connections; plastic w/ various connection types  
