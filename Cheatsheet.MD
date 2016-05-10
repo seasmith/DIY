@@ -36,8 +36,6 @@
 * [Electrical](#electrical)
 * [Wood working](#wood-working)
 * [Climate control](#climate-control)
-* [Fabrics](#fabrics)
-  * [Plastics](#plastics)
 * [Cars](#cars)
 * [Adhesives and Resins](#adhesives-and-resins)
   * [Adhesives](#adhesives)
@@ -97,7 +95,7 @@ Diamond (Continuous) | Tile
 Diamond (Segmented/Serated) | Masonry
 Silicone Carbide | Metal; abrasive
 Aluminum Oxide | Metal; abrasive
-
+___
 ##### Router
 * Types
   * Plunge = heavy duty; can bore/drill
@@ -117,7 +115,7 @@ Collar | Holds the bit; different sizes for different sized shanks
 *Profiles*
 
 ![Bit profiles](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Router_bit_profiles_en.svg/191px-Router_bit_profiles_en.svg.png)
-
+___
 ##### Tool Table
 
 Tool |  Use | Materials | Features | Accessories | Safety 
