@@ -250,6 +250,7 @@ ___
 ___
 
 ## Wood working
+* How to drill a hole to a certain depth every time | Tape | [Collars](http://woodworking.stackexchange.com/questions/3384/how-do-i-make-a-drill-hole-the-same-depth-every-time#answer-3390)
 * [Which drill bit to use?](http://woodworking.stackexchange.com/questions/2254/which-type-of-drill-bit-for-which-jobs?lq=1)
 
 Type | When to use | Picture
