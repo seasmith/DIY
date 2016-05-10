@@ -98,9 +98,9 @@ Aluminum Oxide | Metal; abrasive
 ___
 ##### Router
 * Types
-  * Plunge = heavy duty; can bore/drill
-  * Fixed = 
-  * Trim = tight spaces
+  * Plunge = heavy duty; adjustable; can bore/drill
+  * Fixed = heavy duty; adjustable (but cannot bore/drill)
+  * Trim = tight spaces (i.e. cabinets)
 * Bits
 
 *Features*
@@ -115,6 +115,9 @@ Collar | Holds the bit; different sizes for different sized shanks
 *Profiles*
 
 ![Bit profiles](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Router_bit_profiles_en.svg/191px-Router_bit_profiles_en.svg.png)
+
+![Bit profiles 2](https://www.pmcrouterbits.com/media//routertypes.jpg)
+
 ___
 ##### Tool Table
 
@@ -152,6 +155,12 @@ ___
 ## Drywall
 * [Why use drywall tape on butt joints?](http://diy.stackexchange.com/questions/8281/what-is-the-purpose-of-tape-when-taping-and-mudding-drywall#answer-8283) | Prevent grounding of drywall mud into powder
 * [Why ever use a drywall nail?](http://diy.stackexchange.com/questions/6442/should-i-use-nails-or-screws-for-hanging-drywall-on-the-ceiling#answer-11945) | On exterior of drywall board, or to be cheap
+* Stud sensors:
+
+Type | Description
+-----|------------
+Edge Finder | Locates the edges of wood and metal studs and joists behind walls, floors, and ceilings [[1]](http://www.zircon.com/products/edge_ss_e40.html) [Video](https://www.youtube.com/watch?v=rcapU3hIOSo)
+Center Finder | Locates both edges and center of wood and metal studs and joists behind walls, floors, and ceilings [[1]](http://www.zircon.com/products/center_ms_i520.html) [Video](https://www.youtube.com/watch?time_continue=296&v=vRj0GBKc0Aw)
 
 ___
 
@@ -160,10 +169,9 @@ ___
 * [How to drill and 2 1/8" hole over an existing 1 1/2" hole](http://diy.stackexchange.com/questions/10391/how-do-i-drill-a-2%E2%85%9B-inch-door-knob-hole-over-an-existing-1%C2%BD-inch-hole)
 * [How to secure french doors]() | 1 inch deadbolt; mortise lock; handle, top, and bottom deadbolt (three point)
 * [Mortise vs Cylindrical Locks](http://locknet.com/lockbytes/excerpts/whats-the-difference-mortise-vs-cylindrical-locks/) | [More](http://locknet.com/lockbytes/excerpts/faq/mortise-locks-vs-cylindrical-locks-the-basics/)
-* [How to install bifold doors](http://www.lowes.com/projects/build-and-remodel/install-bifold-doors/project) | [Video]()
-* Door knob parts 
-![Door knob parts](http://cdn-1.hometips.com/wp-content/uploads/2012/06/doorknob_lock_parts_diagram.jpg)
-* Door lever parts  
+* Cylindrical locks parts  
+![Cylindrical lock parts](http://cdn-1.hometips.com/wp-content/uploads/2012/06/doorknob_lock_parts_diagram.jpg)
+* Mortise door lock parts  
 ![Door lever parts](http://www.hometips.com/wp-content/uploads/2012/06/mortise_lockset_parts_diagram.jpg)
 * [Types of interior doors](http://www.homedit.com/types-of-interior-doors-for-home/)
 
@@ -177,6 +185,9 @@ Bifold | ![](http://cdn.homedit.com/wp-content/uploads/2011/06/modern-bifolding-
 Dutch | ![](http://cdn.homedit.com/wp-content/uploads/2011/06/dutch-door-type.jpg)
 Roller | ![](http://cdn.homedit.com/wp-content/uploads/2011/06/roller-door-type.jpg)
 Pivot | ![](http://cdn.homedit.com/wp-content/uploads/2011/06/pivot-door.jpg)
+
+* [How to install bifold doors](http://www.lowes.com/projects/build-and-remodel/install-bifold-doors/project) | [Video]()
+
 ___
 
 ## Plumbing
@@ -272,8 +283,11 @@ Bevel | Not 90 to face
 Double Bevel | Two cuts not 90 to face
 Compound | Miter + bevel
 
-___
+##### Wood Types
 
+![Wood Types](http://classes.mst.edu/civeng120/lessons/wood/wood_grain/wood_1.gif)
+
+___
 ## Climate control
 * [Safe humidity levels](http://diy.stackexchange.com/questions/593/humidity-levels) | [More](https://www.ag.ndsu.edu/homemoisture/documents/pdf/homehealthy-lesson.pdf)
 
