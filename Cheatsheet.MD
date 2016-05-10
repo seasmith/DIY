@@ -250,6 +250,16 @@ ___
 ___
 
 ## Wood working
+* [Which drill bit to use?](http://woodworking.stackexchange.com/questions/2254/which-type-of-drill-bit-for-which-jobs?lq=1)
+
+Type | When to use | Picture
+-----|-------------|--------
+Forstner | Shallow hole; flat bottom; clean sides; drill press; mortises; half-blind dovetails; guided | ![Forstner](http://i.stack.imgur.com/Qc8jp.jpg)
+Auger | Deep hole; straight; studs; guided; LOW RPM (dangerous at high RPM) | ![Auger](http://i.stack.imgur.com/HLbo8s.jpg)
+Spade | Quick; coarse cuts; slip into adjacent holes; guided | ![Spade](http://i.stack.imgur.com/lU9Yos.jpg)
+Brad Point | Small-sized holes; minimal tearout; guided | ![Brad Point](http://i.stack.imgur.com/sf8ECs.jpg)
+
+* [Why use auger bits (over forstner and spade)?](http://woodworking.stackexchange.com/questions/2040/do-auger-bits-have-advantages) | Deep holes; straight holes; carries out debris better than forstener; rigid; cheaper than forstner bits; best when drilling by hand
 * [Why and how to create wood plugs](http://www.woodworkingtips.com/etips/etip120100sn.html) | A: To avoid heterogenous staining (end grain plugs will soak up a lot of stainer)
 * [Which sandpaper to use for polyurethane coats](http://diy.stackexchange.com/questions/4469/what-grit-sandpaper-should-i-use-between-coats-of-polyurethane#answer-4470) | 220 grit
 * [How to account for saw blade width/thickness (kerf)](http://diy.stackexchange.com/questions/7628/whats-the-best-way-to-account-for-saw-blade-width-kerf-when-cutting-boards) | Cut on the waste side 
