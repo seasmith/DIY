@@ -250,7 +250,17 @@ ___
 ___
 
 ## Wood working
+* [Why and how to create wood plugs](http://www.woodworkingtips.com/etips/etip120100sn.html) | A: To avoid heterogenous staining (end grain plugs will soak up a lot of stainer)
+* [Which sandpaper to use for polyurethane coats](http://diy.stackexchange.com/questions/4469/what-grit-sandpaper-should-i-use-between-coats-of-polyurethane#answer-4470) | 220 grit
+* [How to account for saw blade width/thickness (kerf)](http://diy.stackexchange.com/questions/7628/whats-the-best-way-to-account-for-saw-blade-width-kerf-when-cutting-boards) | Cut on the waste side 
+```
+|the detail you want|line|remaining material|
+|                   |blade cuts here|
+```
+
 * [List of wood joints](https://en.wikipedia.org/wiki/Woodworking_joints#List_of_wood_joints)
+![Woodworking Joints](https://s-media-cache-ak0.pinimg.com/736x/b3/8b/1f/b38b1ff42c5920960cee7018a2b2d96d.jpg)
+
 * [Shellac vs Polyurethane vs Varnish vs Lacquer and Others](http://www.diynetwork.com/how-to/skills-and-know-how/painting/whats-the-difference-between-polyurethane-varnish-shellac-and-lacquer)
 
 Finisher | What it is | How it looks | How it stands up
@@ -266,12 +276,7 @@ Linseed Oil | Dried flax seeds | Adds amber/darken | Boiled linseed oil commonly
 [varnish.1]: http://www.christinedemerchant.com/varnish.html "Resin (drying oil and solvent)"
 [lacquer.1]: http://www.wisegeek.com/what-is-lacquer.htm "Lacquer"
 
-* [Which sandpaper to use for polyurethane coats](http://diy.stackexchange.com/questions/4469/what-grit-sandpaper-should-i-use-between-coats-of-polyurethane#answer-4470) | 220 grit
-* [How to account for saw blade width/thickness (kerf)](http://diy.stackexchange.com/questions/7628/whats-the-best-way-to-account-for-saw-blade-width-kerf-when-cutting-boards) | Cut on the waste side 
-```
-|the detail you want|line|remaining material|
-|                   |blade cuts here|
-```
+
 
 ##### Wood Cuts
 
