@@ -286,8 +286,14 @@ Compound | Miter + bevel
 ##### Wood Types
 
 ![Wood Types](http://classes.mst.edu/civeng120/lessons/wood/wood_grain/wood_1.gif)
+![Wood Types 2](http://classes.mst.edu/civeng120/lessons/wood/wood_grain/wood_2.gif)  
+![Wood Types 3](http://classes.mst.edu/civeng120/lessons/wood/wood_grain/wood_3.gif)
+![Wood Types 4](http://classes.mst.edu/civeng120/lessons/wood/wood_grain/wood_4.gif)  
+![Wood Types 5](http://classes.mst.edu/civeng120/lessons/wood/wood_grain/wood_5.gif)
+
 
 ___
+
 ## Climate control
 * [Safe humidity levels](http://diy.stackexchange.com/questions/593/humidity-levels) | [More](https://www.ag.ndsu.edu/homemoisture/documents/pdf/homehealthy-lesson.pdf)
 
