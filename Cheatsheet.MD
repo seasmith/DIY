@@ -130,7 +130,17 @@ Trim Router | Grooves/Joints | Wood | Tight spaces | | Big bits will overheat an
 
 ### Hand Tools
 
+##### Tool Table
 
+Tool | Description
+-----|------------
+[Brad Pusher][brad.pusher.1] | Holds a single brad nail and allows insertion by pushing or tapping with a hammer
+Nail Setter | Spring and hammer driven
+[Seat Wrench][seat.wrench.1] [[1]][seat.wrench.2] | For tightening and loosening valve seats
+
+[brad.pusher.1]: https://www.youtube.com/watch?v=nJORdI7LJTE "Brad Pusher"
+[seat.wrench.1]: http://homeguides.sfgate.com/use-plumbing-seat-wrench-29228.html "Seat Wrench"
+[seat.wrench.2]: https://www.youtube.com/watch?v=qF_4BGZLP1E "Seat Wrench"
 ___
 
 ## Fasteners
