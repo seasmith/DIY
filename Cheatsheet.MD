@@ -37,11 +37,12 @@
 * [Wood working](#wood-working)
 * [Climate control](#climate-control)
 * [Cars](#cars)
-* [Adhesives and Resins](#adhesives-and-resins)
+* [Adhesives, Resins, and Sealants](#adhesives-resins-and-sealants)
   * [Adhesives](#adhesives)
     * [Adhesive Recommendation](#adhesive-recommendation)
     * [Adhesive Golssary](#adhesive-glossary)
   * [Resins](#resins)
+  * [Sealants](#sealants)
 
 ___
 
@@ -282,11 +283,11 @@ Polyurethane (fortified water-based) | Liquid plastic | Goes on clear (wood; lat
 Polyurethane (oil-based) | Liquid plastic | Slight amber (wood); yellow hue (latex/acrylic paint) | Stands up to heat; high odor; long drying
 Varnish | [Resin (drying oil and solvent)][varnish.1] | Protective top coat | Durable; heat-resistant; UV protection; water-resistant
 [Lacquer][lacquer.1] | Lacquer gum or dissolved nitrocellulose | Gloss/matte/resin (paint) | Durable; paint protective; damage-resistant; discolors
-Linseed Oil | Dried flax seeds | Adds amber/darken | Boiled linseed oil commonly used on wooden tool handles
+[Linseed Oil][linseed.1] | Dried flax seeds | Adds amber/darken | Boiled linseed oil commonly used on wooden tool handles
 
 [varnish.1]: http://www.christinedemerchant.com/varnish.html "Resin (drying oil and solvent)"
 [lacquer.1]: http://www.wisegeek.com/what-is-lacquer.htm "Lacquer"
-
+[linseed.1]: http://www.naturalhandyman.com/iip/infpai/inflin.html "Linseed Oil"
 
 
 ##### Wood Cuts
@@ -316,7 +317,7 @@ ___
 Climate | RH Level
 --------|----------
 Winter | 30-40%
-Summer | < 65% (mold); < 50% (dust mites)
+Summer | < 65% (mold)<br>< 50% (dust mites)
 
 ___
 
@@ -337,7 +338,7 @@ ___
 
 ___
 
-## Adhesives and Resins
+## Adhesives, Resins, and Sealants
 * [General guideline on resins and epoxies](http://www.cca.edu/sites/default/files/pdf/08/resin-guidelines.pdf)
 
 ### Adhesives
@@ -346,6 +347,7 @@ ___
 * [Awesome resource for different applications and substrates](http://www.masterbond.com/applications)
 * [Info on epoxies](http://diy.stackexchange.com/questions/24862/are-all-epoxy-created-equal)
 * [Gluing hardwood floors](http://diy.stackexchange.com/questions/1232/gluing-hardwood-floors) | [Helpful tips](http://www.lumberliquidators.com/blog/helpful-tips-for-glue-down-installations/)
+
 
 ##### Adhesive Recommendation  
 
@@ -377,5 +379,40 @@ Cyanoacrylate | Superglue | Single component, solvent-free adhesives; readily cu
 
 ### Resins
 * [General guideline on resins and epoxies](http://www.cca.edu/sites/default/files/pdf/08/resin-guidelines.pdf)
-* [Fiberglass resin]() | [Bondo](http://bondo.com/tips#fzypgDIRToTbGRwa.97)) | Repairs on concrete, wood, fiberglass, metals, and plastic
+* [Fiberglass resin]() | [Bondo](http://bondo.com/tips#fzypgDIRToTbGRwa.97) | Repairs on concrete, wood, fiberglass, metals, and plastic
 
+### Sealants
+* How to preserve caulk? | Insert a galvanized nail | Cap with a wire-nut
+* [Different types of caulk](http://www.lowes.com/projects/paint-stain-and-wallpaper/caulk-buying-guide/project) | [More](http://www.thisoldhouse.com/toh/article/0,,203227-2,00.html)
+
+*Latex and Silicone Comparison*
+
+Latex (Acrylic/Painter's) Cualk | Silicone Caulk
+------|--------
+Easier to apply than silicone | Needs meticulous surface preparation
+Can be painted | Some can be painted (check specific product)
+Cleans up easily with soap and water | Requires mineral spirits for cleaning
+Less odor | More odor
+Easily removed | Difficult to remove
+Weakens and losses flexibility in direct sunlight and extreme temperature | Is more flexible and durable than latex; holds up well in direct sunlight and temperature extremes
+Doesn't last as long as silicone (under most circumstances) | Lasts longer than latex caulk (under most circumstances)
+Can be applied on porous and nonporous surfaces | Works best on nonporous surfaces
+Better suited for gaps that stay constant | Works well in gaps that expand and contract
+
+*Speciality Caulks*
+
+Caulk Type | Projects | Key Features
+-----------|----------|-------------
+Adhesive | Attach two pieces together; fill gaps | Prevents cracking as surfaces expand and contract
+Blacktop Asphalt | Fills cracks in parking lots, driveways, and other asphalt surfaces | Forms a strong waterproof seal; resists stains from gas, oil, and deicing salts
+Concrete | Fills gaps in driveways and sidewalks | Can be exposed to water shortly after application; withstands extreme temperatures
+Exterior | Outdoor trim work; new window installation | UV resistant
+Fire Retardant | Sealing separations around wires, pipes, HVAC ducts, and vents; chimney/fireplace or other framing gaps | Made of special material rated for its ability to block fire; noncombustible; withstands high temperature
+Gutter and Flashing | Use around roof vents, gutters, flashing, drainspouts, and other metal joints | Withstands extreme temperatures; durable and flexible
+Kitchen and Bath | Tile/countertop installation; tile/shower/tub maintenance; sink/faucet installation | Mildew resistant; can be exposed to water shortly after application
+Mortar | Seals leaks and cracks on stucco, mortar, stone, concrete, and brick | Withstands high temperatures; blends in with textured surfaces
+Moulding and Trim | Fills gaps between walls and boards; crown moulding installation | Quick dry time; paintable
+Roof | Stops minor roofs leaks | Flexible, waterproof, and mildew resistant
+Sanded | Fills gaps on large joints (1/8 inch or bigger); abut and match pre-existing tile/sanded grout | Appears rough and grainy; adheres well in wet areas
+Window and Door Interior | Window/door maintenance | Won't shrink or crack
+Unsanded | Fills very tight joints; to join tile and counters | Smooth finish
