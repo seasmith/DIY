@@ -46,6 +46,11 @@
 
 ___
 
+## To File
+* [Repairing and reinforcing broken plastic parts](http://woodgears.ca/misc/plastic_repair.html)
+
+___
+
 ## Resources
 * [DIY.StackExchange](http://diy.stackexchange.com/)
 * [SF Gate Home Guides](http://homeguides.sfgate.com/)
