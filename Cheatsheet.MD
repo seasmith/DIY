@@ -210,7 +210,7 @@ Type | Description
 -----|------------
 [V Strip][v.strip.1] | A.K.A. tension seal; durable plastic or metal strip folded into a "V" shape that springs open to bridge gaps
 [Felt][felt.1] | Cheap; last about 1-2 years; stapled or nail to jamb
-[Foam Tape][foam.tape.1] | Made from open- or closed-cell foam, or EPDM rubber with a sticky back
+[Foam Tape][foam.tape.1] | Made from open- or closed-cell foam, or EPDM (ethylene propylene diene monomer) rubber with a sticky back
 [Door Sweeps][door.sweeps.1] | Flat pieces of plastic, aluminum, or stainles steel with a strip of nylon, plastic, or vinyl to fill space
 [Tubular Rubber, Vinyl, or Silicone][trvs.1] | Silicone usually inserted into milled grooves
 
