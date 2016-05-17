@@ -203,6 +203,22 @@ Roller | ![](http://cdn.homedit.com/wp-content/uploads/2011/06/roller-door-type.
 Pivot | ![](http://cdn.homedit.com/wp-content/uploads/2011/06/pivot-door.jpg)
 
 * [How to install bifold doors](http://www.lowes.com/projects/build-and-remodel/install-bifold-doors/project) | [Video]()
+* [How to create weatherstripping jamb groove](http://www.thisoldhouse.com/toh/how-to/step/0,,20152571_730023,00.html) | Corner grooving tool
+* [Weatherstripping](http://www.thisoldhouse.com/toh/how-to/intro/0,,20152571,00.html) | [More](http://diy.stackexchange.com/questions/8508/what-is-the-best-kind-of-weatherstripping-door-set-to-use)
+
+Type | Description
+-----|------------
+[V Strip][v.strip.1] | A.K.A. tension seal; durable plastic or metal strip folded into a "V" shape that springs open to bridge gaps
+[Felt][felt.1] | Cheap; last about 1-2 years; stapled or nail to jamb
+[Foam Tape][foam.tape.1] | Made from open- or closed-cell foam, or EPDM rubber with a sticky back
+[Door Sweeps][door.sweeps.1] | Flat pieces of plastic, aluminum, or stainles steel with a strip of nylon, plastic, or vinyl to fill space
+[Tubular Rubber, Vinyl, or Silicone][trvs.1] | Silicone usually inserted into milled grooves
+
+[v.strip.1]: http://www.thisoldhouse.com/toh/photos/0,,20441335_20875456,00.html "V Strip"
+[felt.1]: http://www.thisoldhouse.com/toh/photos/0,,20441335_20875459,00.html "Felt"
+[foam.tape.1]: http://www.thisoldhouse.com/toh/photos/0,,20441335_20875461,00.html "Foam Tape"
+[door.sweeps.1]: http://www.thisoldhouse.com/toh/photos/0,,20441335_20875463,00.html "Door Sweeps"
+[trvs.1]: http://www.thisoldhouse.com/toh/photos/0,,20441335_20875466,00.html "Tubular Rubber, Vinyl, or Silicone"
 
 ___
 
