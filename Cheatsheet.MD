@@ -2,7 +2,7 @@
 
 [Resources](#resources) | [Tools](#tools) | [Fasteners](#fasteners)
 ---|---|---
-   | <a href="https://github.com/SeaSmith1018/Lowes/blob/master/Cheatsheet.MD#power-tools">Power Tools</a>; [Hand Tools](#hand-tools) | [Screws](#screws); [Anchors](#anchors); [Nails](#nails); [Bolts](#bolts) 
+   | [Power Tools](#power-tools); [Hand Tools](#hand-tools) | [Screws](#screws); [Anchors](#anchors); [Nails](#nails); [Bolts](#bolts) 
 
 [Drywall](#drywall) | [Doors](#doors) | [Plumbing](#plumbing)
 ---|---|---
