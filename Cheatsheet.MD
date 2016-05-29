@@ -541,7 +541,7 @@ ___
 
                 <tr>
                     <td rowspan="2">
-                        <img src="../../Images/charts/hex-head-marking-grade2.gif" width="82" height="71"><br>
+                        <img src="https://www.boltdepot.com/Images/charts/hex-head-marking-grade2.gif" width="82" height="71"><br>
                         No Markings</td>
                     <td rowspan="2">
                         <h3>Grade 2</h3>
@@ -559,7 +559,7 @@ ___
                 </tr>
                 <tr>
                     <td rowspan="2">
-                        <img src="../../Images/charts/hex-head-marking-grade5.gif" width="83" height="71"><br>
+                        <img src="https://www.boltdepot.com/Images/charts/hex-head-marking-grade5.gif" width="83" height="71"><br>
                         3 Radial Lines</td>
                     <td rowspan="2">
                         <h3>Grade 5</h3>
@@ -579,7 +579,7 @@ ___
                 </tr>
                 <tr>
                     <td>
-                        <img src="../../Images/charts/hex-head-marking-grade8.gif" width="82" height="71"><br>
+                        <img src="https://www.boltdepot.com/Images/charts/hex-head-marking-grade8.gif" width="82" height="71"><br>
                         6 Radial Lines</td>
                     <td>
                         <h3>Grade 8</h3>
@@ -624,7 +624,7 @@ ___
                 </tr>
                 <tr>
                     <td rowspan="2">
-                        <img src="../../Images/charts/hex-head-marking-class8-8.gif" alt="8.8" width="82" height="72"></td>
+                        <img src="https://www.boltdepot.com/Images/charts/hex-head-marking-class8-8.gif" alt="8.8" width="82" height="72"></td>
                     <td rowspan="2">
                         <h3>Class 8.8</h3>
                         Medium carbon steel, quenched and tempered</td>
@@ -645,7 +645,7 @@ ___
                 </tr>
                 <tr>
                     <td>
-                        <img src="../../Images/charts/hex-head-marking-class10-9.gif" alt="10.9" width="83" height="72"></td>
+                        <img src="https://www.boltdepot.com/Images/charts/hex-head-marking-class10-9.gif" alt="10.9" width="83" height="72"></td>
                     <td>
                         <h3>Class 10.9</h3>
                         Alloy steel, quenched and tempered</td>
@@ -661,7 +661,7 @@ ___
 
                 <tr>
                     <td>
-                        <img src="../../Images/charts/hex-head-marking-class12-9.gif" alt="12.9" width="83" height="72"></td>
+                        <img src="https://www.boltdepot.com/Images/charts/hex-head-marking-class12-9.gif" width="83" height="72"></td>
                     <td>
                         <h3>Class 12.9</h3>
                         Alloy steel, quenched and tempered</td>
@@ -766,6 +766,17 @@ ___
 
 ## Plumbing
 * [How to install a faucet hole cover](http://homeguides.sfgate.com/install-cover-extra-hole-kitchen-sink-45477.html)
+* [How to make a kitchen sink smell better](http://diy.stackexchange.com/questions/1079/how-can-i-make-my-sink-smell-better) | [More](http://diy.stackexchange.com/questions/5445/what-is-this-mysterious-odor-from-the-kitchen-sink-and-how-do-i-fix-it?rq=1)
+```
+1. Baking soda and vinegar
+	a. Pour a box of baking soda into the drain with the hot water running
+	b. Let sit for a couple hours
+	c. Pour vinegar down the drain
+	d. Run hot water to flush everything out
+
+2. Clean the trap (messy)
+```
+
 * [When to use pipe dope vs teflon tape](http://diy.stackexchange.com/questions/21117/when-should-pipe-dope-vs-thread-tape-be-used) | [Video](http://www.thisoldhouse.com/toh/video/0,,20800953,00.html)
 * [Glossary](http://www.drews-plumbing.com/glossary.html) | [More](http://www.horizonservicesinc.com/reference/glossary/plumbing-glossary) | [More](https://www.safeplumbing.org/resources/glossary)
 
@@ -815,11 +826,26 @@ ___
 ___
 
 ## Electrical
-* [American outlets (bottom row)](http://i.stack.imgur.com/2cwsD.jpg)
-![](http://i.stack.imgur.com/2cwsD.jpg)
-* [Bootleg outlet](http://diy.stackexchange.com/questions/11275/would-you-ever-wire-white-and-ground-together) | Electrical ground from the neutral side of a receptacle/fixture | Common in 2-wire buildings
+* [How to run wires/cable through walls](http://diy.stackexchange.com/questions/420/what-are-some-ways-to-wire-rear-speakers-in-a-home-theater-system/427#427) | [More](http://diy.stackexchange.com/questions/455/what-is-the-easiest-method-to-fish-cable-through-the-ceiling) | [More](http://diy.stackexchange.com/questions/1234/how-do-i-run-ethernet-speaker-wire-and-coax-through-a-wall-into-a-crawlspace)
+```
+1. Through crown moulding
+	a. Drill holes top and bottom
+	b. Fish up with string
+	c. Run along top of the wall
+	d. Drill holes top and bottom
+	e. Fish down with string
+	f. Install crown moulding to hide wires
+
+2. Run along base boards
+3. Run under floorboards
+4. Run through attic
+```
+
 * [Old work vs new work](http://homerenovations.about.com/od/electrical/ss/Types-Of-Electrical-Boxes.htm) | `New` = walls w/o drywall; `Old` = walls w/ drywall (no stud access)
 * [Plasti vs Metal box](http://homerenovations.about.com/od/electrical/ss/Types-Of-Electrical-Boxes.htm) | `Plastic` = Romex/plastic clad cable; `Metal` = metal clad cable
+* [Bootleg outlet](http://diy.stackexchange.com/questions/11275/would-you-ever-wire-white-and-ground-together) | Electrical ground from the neutral side of a receptacle/fixture | Common in 2-wire buildings
+* [American outlets (bottom row)](http://i.stack.imgur.com/2cwsD.jpg)
+![](http://i.stack.imgur.com/2cwsD.jpg)
 
 ___
 
