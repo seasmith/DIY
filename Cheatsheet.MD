@@ -2,7 +2,7 @@
 
 [Resources](#resources) | [Tools](#tools) | [Fasteners](#fasteners)
 ---|---|---
-   | [Power Tools](#power-tools); [Hand Tools](#hand-tools) | [Screws](#screws); [Anchors](#anchors); [Nails](#nails) 
+   | [Power Tools](#power-tools); [Hand Tools](#hand-tools) | [Screws](#screws); [Anchors](#anchors); [Nails](#nails); [Bolts](#bolts) 
 
 [Drywall](#drywall) | [Doors](#doors) | [Plumbing](#plumbing)
 ---|---|---
@@ -27,6 +27,7 @@
   * [Screws](#screws)
   * [Anchors](#anchors)
   * [Nails](#nails)
+  * [Bolts](#bolts)
 * [Drywall](#drywall)
 * [Doors](#doors)
 * [Plumbing](#plumbing)
@@ -155,9 +156,355 @@ ___
 * [Why do some screws have two thread types(dual threaded)?](http://diy.stackexchange.com/questions/27708/what-is-the-use-for-this-different-threading-near-the-head-of-a-large-screw) | Lateral stabilization
 * [Remove a stuck screw or bolt](http://diy.stackexchange.com/questions/16263/how-can-i-remove-a-really-stuck-screw) | Better grip, penetrating oil, hammering, manual impact driver, heat/cool, or ream out
 * [Extract a broken/stripped screw](http://diy.stackexchange.com/questions/10451/how-to-remove-screws-with-stripped-heads) | [Rubber band](http://24.media.tumblr.com/tumblr_lr5mykGo3M1qzyj1lo1_250.jpg) | [Extractor bit](https://gzunino.wordpress.com/2008/02/04/extracting-a-broken-screw/) | Dremel new grooves | Hammer and chisel
-* [Pilot hole size for screws](http://diy.stackexchange.com/questions/8800/when-pre-drilling-for-screws-how-do-you-determine-the-correct-bit-diameter#answer-8802)  
+* [Pilot hole size for screws](http://diy.stackexchange.com/questions/8800/when-pre-drilling-for-screws-how-do-you-determine-the-correct-bit-diameter#answer-8802)  | [More](http://engineershandbook.com/Tables/woodscrewpilotholes.htm)
+
 ![](http://i.stack.imgur.com/VOtay.png)
 ![](http://i.stack.imgur.com/3798q.png)
+
+<table border="0" cellpadding="5" width="500" bgcolor="#000000" align="center" cellspacing="1">
+                                      <tbody><tr bgcolor="#000066"> 
+                                        <th scope="col" colspan="5" height="54"><b><font size="4" face="Verdana, Arial, Helvetica, sans-serif" color="#FFFF00">Wood 
+                                          Screw Pilot Hole Sizes</font></b></th>
+                                      </tr>
+                                      </tbody><colgroup><col span="5" align="center" valign="top"> 
+                                      </colgroup><tbody><tr bgcolor="#CCCC99"> 
+                                        <th scope="col"> 
+                                          <div align="center">Screw<br>
+                                            Size</div>
+                                        </th>
+                                        <th scope="col"> 
+                                          <div align="center">Body Dia.</div>
+                                        </th>
+                                        <th scope="col"> 
+                                          <div align="center">Shank<br>
+                                            Pilot Hole*</div>
+                                        </th>
+                                        <th scope="col"> 
+                                          <div align="center">Pilot Hole<br>
+                                            in Softwood</div>
+                                        </th>
+                                        <th scope="col"> 
+                                          <div align="center">Pilot Hole<br>
+                                            in Hardwood</div>
+                                        </th>
+                                      </tr>
+                                      <tr bgcolor="#FFFFFF"> 
+                                        <td> 
+                                          <div align="center"><font size="2"><b>0</b></font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">0.060</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">1/16</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">1/64</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">1/32</font></div>
+                                        </td>
+                                      </tr>
+                                      <tr bgcolor="#FFFFFF"> 
+                                        <td> 
+                                          <div align="center"><font size="2"><b>1</b></font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">0.073</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">5/64</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">1/32</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">1/32</font></div>
+                                        </td>
+                                      </tr>
+                                      <tr bgcolor="#FFFFFF"> 
+                                        <td> 
+                                          <div align="center"><font size="2"><b>2</b></font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">0.086</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">3/32</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">1/32</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">3/64</font></div>
+                                        </td>
+                                      </tr>
+                                      <tr bgcolor="#FFFFFF"> 
+                                        <td> 
+                                          <div align="center"><font size="2"><b>3</b></font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">0.099</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">7/64</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">3/64</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">1/16</font></div>
+                                        </td>
+                                      </tr>
+                                      <tr bgcolor="#FFFFFF"> 
+                                        <td> 
+                                          <div align="center"><font size="2"><b>4</b></font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">0.112</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">7/64</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">3/64</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">1/16</font></div>
+                                        </td>
+                                      </tr>
+                                      <tr bgcolor="#FFFFFF"> 
+                                        <td> 
+                                          <div align="center"><font size="2"><b>5</b></font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">0.125</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">1/8</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">1/16</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">5/64</font></div>
+                                        </td>
+                                      </tr>
+                                      <tr bgcolor="#FFFFFF"> 
+                                        <td> 
+                                          <div align="center"><font size="2"><b>6</b></font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">0.138</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">9/64</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">1/16</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">5/64</font></div>
+                                        </td>
+                                      </tr>
+                                      <tr bgcolor="#FFFFFF"> 
+                                        <td> 
+                                          <div align="center"><font size="2"><b>7</b></font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">0.151</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">5/32</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">1/16</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">3/32</font></div>
+                                        </td>
+                                      </tr>
+                                      <tr bgcolor="#FFFFFF"> 
+                                        <td> 
+                                          <div align="center"><font size="2"><b>8</b></font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">0.164</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">11/64</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">5/64</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">3/32</font></div>
+                                        </td>
+                                      </tr>
+                                      <tr bgcolor="#FFFFFF"> 
+                                        <td> 
+                                          <div align="center"><font size="2"><b>9 
+                                            </b></font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">0.177 
+                                            </font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">3/16 
+                                            </font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">5/64 
+                                            </font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">7/64 
+                                            </font></div>
+                                        </td>
+                                      </tr>
+                                      <tr bgcolor="#FFFFFF"> 
+                                        <td> 
+                                          <div align="center"><font size="2"><b>10 
+                                            </b></font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">0.190 
+                                            </font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">3/16 
+                                            </font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">3/32</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">7/64</font></div>
+                                        </td>
+                                      </tr>
+                                      <tr bgcolor="#FFFFFF"> 
+                                        <td> 
+                                          <div align="center"><font size="2"><b>11</b></font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">0.203</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">13/64</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">3/32</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">1/8</font></div>
+                                        </td>
+                                      </tr>
+                                      <tr bgcolor="#FFFFFF"> 
+                                        <td> 
+                                          <div align="center"><font size="2"><b>12</b></font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">0.216</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">7/32</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">7/64</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">1/8</font></div>
+                                        </td>
+                                      </tr>
+                                      <tr bgcolor="#FFFFFF"> 
+                                        <td> 
+                                          <div align="center"><font size="2"><b>14 
+                                            </b></font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">0.242 
+                                            </font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">1/4</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">7/64</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">9/64</font></div>
+                                        </td>
+                                      </tr>
+                                      <tr bgcolor="#FFFFFF"> 
+                                        <td> 
+                                          <div align="center"><font size="2"><b>16</b></font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">0.268</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">17/64</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">9/64</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">5/32</font></div>
+                                        </td>
+                                      </tr>
+                                      <tr bgcolor="#FFFFFF"> 
+                                        <td> 
+                                          <div align="center"><font size="2"><b>18</b></font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">0.294</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">19/64</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">9/64</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">3/16</font></div>
+                                        </td>
+                                      </tr>
+                                      <tr bgcolor="#FFFFFF"> 
+                                        <td> 
+                                          <div align="center"><font size="2"><b>20</b></font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">0.320</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">21/64</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">11/64</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">13/64</font></div>
+                                        </td>
+                                      </tr>
+                                      <tr bgcolor="#FFFFFF"> 
+                                        <td> 
+                                          <div align="center"><font size="2"><b>24</b></font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">0.372</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">3/8</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">3/16</font></div>
+                                        </td>
+                                        <td> 
+                                          <div align="center"><font size="2">7/32</font></div>
+                                        </td>
+                                      </tr>
+                                    </tbody></table>
 
 ### Anchors
 * [Hanging items from ceiling drywall](http://diy.stackexchange.com/questions/11816/how-much-weight-can-i-hang-from-a-drywall-ceiling) | Toggle bolt w/ j-hook; better to anchor into joist
@@ -165,6 +512,201 @@ ___
 * [Hollow door anchors](http://diy.stackexchange.com/questions/13154/what-kind-of-screws-for-attaching-an-ikea-style-coat-hook-of-an-internal-door)
 
 ### Nails
+
+### Bolts
+* [Bolt grades](https://www.boltdepot.com/fastener-information/Materials-and-Grades/Bolt-Grade-Chart.aspx)
+
+<table class="sixteen text-center">
+                <tbody><tr>
+                    <td class="sectionheading" colspan="6">
+                        <h2><a href="../../Hex_bolts.aspx">US Bolts</a> </h2>
+                    </td>
+                </tr>
+                <tr class="toprow">
+                    <th rowspan="2">Head Marking </th>
+                    <th rowspan="2">Grade and<br>
+                        Material</th>
+                    <th rowspan="2">Nominal Size Range<br>
+                        <span class="unit">(inches)</span></th>
+                    <th colspan="3">Mechanical Properties </th>
+                </tr>
+                <tr>
+                    <th class="subheading">Proof Load<br>
+                        <span class="unit">(psi)</span></th>
+                    <th class="subheading">Min. Yield Strength<br>
+                        <span class="unit">(psi)</span></th>
+                    <th class="subheading">Min. Tensile Strength<br>
+                        <span class="unit">(psi)</span></th>
+                </tr>
+
+                <tr>
+                    <td rowspan="2">
+                        <img src="../../Images/charts/hex-head-marking-grade2.gif" width="82" height="71"><br>
+                        No Markings</td>
+                    <td rowspan="2">
+                        <h3>Grade 2</h3>
+                        Low or medium carbon steel</td>
+                    <td>1/4 thru 3/4</td>
+                    <td>55,000</td>
+                    <td>57,000</td>
+                    <td>74,000</td>
+                </tr>
+                <tr>
+                    <td>Over 3/4 thru 1-1/2</td>
+                    <td>33,000</td>
+                    <td>36,000</td>
+                    <td>60,000</td>
+                </tr>
+                <tr>
+                    <td rowspan="2">
+                        <img src="../../Images/charts/hex-head-marking-grade5.gif" width="83" height="71"><br>
+                        3 Radial Lines</td>
+                    <td rowspan="2">
+                        <h3>Grade 5</h3>
+                        Medium carbon steel, quenched and tempered</td>
+                    <td>1/4 
+					thru 1</td>
+                    <td>85,000</td>
+                    <td>92,000</td>
+                    <td>120,000</td>
+                </tr>
+                <tr>
+                    <td>Over 
+					1 thru 1-1/2</td>
+                    <td>74,000</td>
+                    <td>81,000</td>
+                    <td>105,000</td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="../../Images/charts/hex-head-marking-grade8.gif" width="82" height="71"><br>
+                        6 Radial Lines</td>
+                    <td>
+                        <h3>Grade 8</h3>
+                        Medium carbon alloy steel, quenched and tempered</td>
+                    <td>1/4 
+                    thru 1-1/2</td>
+                    <td>120,000</td>
+                    <td>130,000</td>
+                    <td>150,000</td>
+                </tr>
+                <tr>
+                    <td>Stainless markings vary. Most stainless is non-magnetic</td>
+                    <td>
+                        <h3>18-8 Stainless</h3>
+                        Steel alloy with 17-19% Chromium and 8-13% Nickel</td>
+                    <td>All Sizes thru 1</td>
+                    <td>&nbsp;</td>
+                    <td>20,000 Min. 65,000 Typical</td>
+                    <td>65,000 Min. 100,000 – 150,000 Typical</td>
+                </tr>
+
+                <tr>
+                    <td class="sectionheading" colspan="6">
+                        <h2><a href="../../Metric_hex_bolts.aspx">Metric Bolts</a></h2>
+                    </td>
+                </tr>
+                <tr class="toprow">
+                    <th rowspan="2">Head Marking</th>
+                    <th rowspan="2">Class and<br>
+                        Material</th>
+                    <th rowspan="2">Nominal Size Range<br>
+                        <span class="unit">(mm)</span></th>
+                    <th colspan="3">Mechanical Properties </th>
+                </tr>
+                <tr>
+                    <th class="subheading">Proof Load<br>
+                        <span class="unit">(MPa)</span></th>
+                    <th class="subheading">Min. Yield Strength<br>
+                        <span class="unit">(MPa)</span></th>
+                    <th class="subheading">Min. Tensile Strength<br>
+                        <span class="unit">(MPa)</span></th>
+                </tr>
+                <tr>
+                    <td rowspan="2">
+                        <img src="../../Images/charts/hex-head-marking-class8-8.gif" alt="8.8" width="82" height="72"></td>
+                    <td rowspan="2">
+                        <h3>Class 8.8</h3>
+                        Medium carbon steel, quenched and tempered</td>
+                    <td>All Sizes below  16mm</td>
+                    <td>580</td>
+                    <td>
+                        <p>640</p>
+                    </td>
+                    <td>
+                        <p>800</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>16mm - 72mm </td>
+                    <td>600</td>
+                    <td>660</td>
+                    <td>830</td>
+                </tr>
+                <tr>
+                    <td>
+                        <img src="../../Images/charts/hex-head-marking-class10-9.gif" alt="10.9" width="83" height="72"></td>
+                    <td>
+                        <h3>Class 10.9</h3>
+                        Alloy steel, quenched and tempered</td>
+                    <td>5mm - 100mm</td>
+                    <td>830</td>
+                    <td>
+                        <p>940</p>
+                    </td>
+                    <td>
+                        <p>1040</p>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <img src="../../Images/charts/hex-head-marking-class12-9.gif" alt="12.9" width="83" height="72"></td>
+                    <td>
+                        <h3>Class 12.9</h3>
+                        Alloy steel, quenched and tempered</td>
+                    <td>1.6mm - 100mm</td>
+                    <td>970</td>
+                    <td>
+                        <p>1100</p>
+                    </td>
+                    <td>
+                        <p>1220</p>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Stainless markings vary. Most stainless is non-magnetic.
+                    <br>
+                        Usually stamped A-2.</td>
+                    <td>
+                        <h3>A-2 Stainless</h3>
+                        Steel alloy with 17- 19% chromium and 8-13% nickel</td>
+                    <td>All Sizes thru 20mm</td>
+                    <td>&nbsp;</td>
+                    <td>
+                        <p>
+                            210 Min.<br>
+                            450 Typical
+                        </p>
+                    </td>
+                    <td>
+                        <p>
+                            500 Min.<br>
+                            700 Typical
+                        </p>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="6" class="explanationrow">
+                        <p><strong>Tensile Strength:</strong> The maximum load in tension (pulling apart) which a material can withstand before breaking or fracturing.</p>
+                        <p><strong>Yield Strength:</strong> The maximum load at which a material exhibits a specific permanent deformation</p>
+                        <p><strong>Proof Load:</strong> An axial tensile load which the product must withstand without evidence of any permanent set.</p>
+                        <p>1MPa = 1N/mm<sup>2</sup> = 145 pounds/inch<sup>2</sup></p>
+                    </td>
+                </tr>
+            </tbody></table>
+
 
 ___
 
