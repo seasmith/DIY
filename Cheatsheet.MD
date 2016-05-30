@@ -90,7 +90,7 @@ ___
 ##### Router
 * Types
   * Plunge = heavy duty; adjustable; can bore/drill
-  * Fixed = heavy duty; adjustable (but cannot bore/drill)
+  * Fixed = heavy duty; adjustable (but cannot bore/drill); good for table routing
   * Trim = tight spaces (i.e. cabinets)
 * Bits
 
