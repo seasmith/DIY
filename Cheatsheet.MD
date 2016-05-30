@@ -651,7 +651,7 @@ ___
 <table class="sixteen text-center">
                 <tbody><tr>
                     <td class="sectionheading" colspan="6">
-                        <h2><a href="../../Hex_bolts.aspx">US Bolts</a> </h2>
+                        <h2><a href="https://www.boltdepot.com/Hex_bolts.aspx">US Bolts</a> </h2>
                     </td>
                 </tr>
                 <tr class="toprow">
@@ -735,7 +735,7 @@ ___
 
                 <tr>
                     <td class="sectionheading" colspan="6">
-                        <h2><a href="../../Metric_hex_bolts.aspx">Metric Bolts</a></h2>
+                        <h2><a href="https://www.boltdepot.com/Metric_hex_bolts.aspx">Metric Bolts</a></h2>
                     </td>
                 </tr>
                 <tr class="toprow">
