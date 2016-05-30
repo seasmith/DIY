@@ -511,6 +511,9 @@ ___
 * [Different drywall anchor types](http://diy.stackexchange.com/questions/16771/what-benefit-do-plasterboard-drywall-screws-have)
 * [Hollow door anchors](http://diy.stackexchange.com/questions/13154/what-kind-of-screws-for-attaching-an-ikea-style-coat-hook-of-an-internal-door)
 * [Determine which concrete anchor to use](https://www.concretefasteners.com/determine-fastener.aspx)
+
+**M** = May be suitable
+**V** = Very suitable
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
 	<td colspan="6" class="chart-header-2"><b>Type of Material </b></td>
