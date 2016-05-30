@@ -140,7 +140,7 @@ ___
 * [Why do some screws have two thread types(dual threaded)?](http://diy.stackexchange.com/questions/27708/what-is-the-use-for-this-different-threading-near-the-head-of-a-large-screw) | Lateral stabilization
 * [Remove a stuck screw or bolt](http://diy.stackexchange.com/questions/16263/how-can-i-remove-a-really-stuck-screw) | Better grip, penetrating oil, hammering, manual impact driver, heat/cool, or ream out
 * [Extract a broken/stripped screw](http://diy.stackexchange.com/questions/10451/how-to-remove-screws-with-stripped-heads) | [Rubber band](http://24.media.tumblr.com/tumblr_lr5mykGo3M1qzyj1lo1_250.jpg) | [Extractor bit](https://gzunino.wordpress.com/2008/02/04/extracting-a-broken-screw/) | Dremel new grooves | Hammer and chisel
-* [Pilot hole size for screws](http://diy.stackexchange.com/questions/8800/when-pre-drilling-for-screws-how-do-you-determine-the-correct-bit-diameter#answer-8802)  | [More](http://engineershandbook.com/Tables/woodscrewpilotholes.htm)
+* [Pilot hole size for wood screws](http://diy.stackexchange.com/questions/8800/when-pre-drilling-for-screws-how-do-you-determine-the-correct-bit-diameter#answer-8802)  | [More](http://engineershandbook.com/Tables/woodscrewpilotholes.htm)
 
 ![](http://i.stack.imgur.com/VOtay.png)
 ![](http://i.stack.imgur.com/3798q.png)
@@ -489,6 +489,68 @@ ___
                                         </td>
                                       </tr>
                                     </tbody></table>
+
+* [Determine hole diameter for concrete screws](https://www.concretefasteners.com/diy-articles/tapcon-concrete-screws.aspx)
+<table cellspacing="0" cellpadding="0" border="1">
+    <tbody>
+        <tr>
+            <td valign="top" style="width: 295px;">
+            <p style="text-align: center;"><strong>Diameter of    Tapcon Concrete Screw</strong></p>
+            </td>
+            <td valign="top" style="width: 295px;">
+            <p><strong>Diameter of Carbide Bit</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 295px;" class="chart-cell-lc">
+            <p style="text-align: center;"><strong>3/16”</strong></p>
+            </td>
+            <td valign="top" style="width: 295px;" class="chart-cell-lc">
+            <p style="text-align: center;"><strong>5/32”</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 295px;" class="chart-cell-lc">
+            <p style="text-align: center;"><strong>1/4”</strong></p>
+            </td>
+            <td valign="top" style="width: 295px;" class="chart-cell-lc">
+            <p style="text-align: center;"><strong>3/16”</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 295px;" class="chart-cell-lc">
+            <p style="text-align: center;"><strong>3/8”</strong></p>
+            </td>
+            <td valign="top" style="width: 295px;" class="chart-cell-lc">
+            <p style="text-align: center;"><strong>5/16”</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 295px;" class="chart-cell-lc">
+            <p style="text-align: center;"><strong>1/2”</strong></p>
+            </td>
+            <td valign="top" style="width: 295px;" class="chart-cell-lc">
+            <p style="text-align: center;"><strong>3/8”</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 295px;" class="chart-cell-lc">
+            <p style="text-align: center;"><strong>5/8”</strong></p>
+            </td>
+            <td valign="top" style="width: 295px;" class="chart-cell-lc">
+            <p style="text-align: center;"><strong>1/2”</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" style="width: 295px;" class="chart-cell-lc">
+            <p style="text-align: center;"><strong>3/4”</strong></p>
+            </td>
+            <td valign="top" style="width: 295px;" class="chart-cell-lc">
+            <p style="text-align: center;"><strong>5/8”</strong></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ### Anchors
 * [Hanging items from ceiling drywall](http://diy.stackexchange.com/questions/11816/how-much-weight-can-i-hang-from-a-drywall-ceiling) | Toggle bolt w/ j-hook; better to anchor into joist
