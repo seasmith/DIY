@@ -491,7 +491,7 @@ ___
                                     </tbody></table>
 
 * [Determine hole diameter for concrete screws](https://www.concretefasteners.com/diy-articles/tapcon-concrete-screws.aspx)
-<table cellspacing="0" cellpadding="0" border="1">
+<table cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
             <td valign="top" style="width: 295px;">
