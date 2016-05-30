@@ -510,6 +510,135 @@ ___
 * [Hanging items from ceiling drywall](http://diy.stackexchange.com/questions/11816/how-much-weight-can-i-hang-from-a-drywall-ceiling) | Toggle bolt w/ j-hook; better to anchor into joist
 * [Different drywall anchor types](http://diy.stackexchange.com/questions/16771/what-benefit-do-plasterboard-drywall-screws-have)
 * [Hollow door anchors](http://diy.stackexchange.com/questions/13154/what-kind-of-screws-for-attaching-an-ikea-style-coat-hook-of-an-internal-door)
+* [Determine which concrete anchor to use](https://www.concretefasteners.com/determine-fastener.aspx)
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+	<td colspan="6" class="chart-header-2"><b>Type of Material </b></td>
+	</tr>
+  <tr class="chart-header">
+	<td>&nbsp;</td>
+	<td>Solid Concrete</td>
+	<td>Hollow Concrete Block</td>
+	<td>Grout Filled Block</td>
+	<td>Brick</td>
+	<td>Mortar</td>
+	</tr>
+  <tr class="chart-cell-l">
+	<td><b><a href="/anchors-fasteners/thunderstud-wedge/index.aspx">Wedge Anchor</a></b></td>
+	<td><strong>V</strong></td>
+	<td>&nbsp;</td>
+	<td><strong>M</strong></td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+	</tr>
+  <tr class="chart-cell-2">
+	<td><b><a href="/anchors-fasteners/sleeve/index.aspx">Sleeve Anchor</a></b></td>
+	<td><strong>V</strong></td>
+	<td><strong>V</strong></td>
+	<td><strong>V</strong></td>
+	<td><strong>&nbsp;V</strong></td>
+	<td><strong>V</strong></td>
+	</tr>
+  <tr class="chart-cell-l">
+	<td><b><a href="/anchors-fasteners/drop-in/index.aspx">Drop-In Anchor</a></b></td>
+	<td><strong>V</strong></td>
+	<td>&nbsp;</td>
+	<td><strong>M</strong></td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+	</tr>
+  <tr class="chart-cell-2">
+	<td><b><a href="/anchors-fasteners/machine-screw/index.aspx">Machine Screw Anchor</a></b></td>
+	<td><strong>M</strong></td>
+	<td><strong>V</strong></td>
+	<td><strong>M</strong></td>
+	<td><strong>&nbsp;V</strong></td>
+	<td><strong>V</strong></td>
+	</tr>
+  <tr class="chart-cell-l">
+	<td><b><a href="/anchors-fasteners/leadwood-screw/index.aspx">Leadwood Screw Anchor</a></b></td>
+	<td><strong>V</strong></td>
+	<td>&nbsp;</td>
+	<td><strong>V</strong></td>
+	<td><strong>V</strong></td>
+	<td><strong>V</strong></td>
+	</tr>
+  <tr class="chart-cell-2">
+	<td><b><a href="/anchors-fasteners/single-expansion/index.aspx">Single Expansion Anchor</a></b></td>
+	<td><strong>M</strong></td>
+	<td><strong>M</strong></td>
+	<td><strong>V</strong></td>
+	<td><strong>&nbsp;V</strong></td>
+	<td><strong>V</strong></td>
+	</tr>
+  <tr class="chart-cell-l">
+	<td><a href="/anchors-fasteners/double-expansion/index.aspx"><b>Double Expansion Anchor</b></a></td>
+	<td><strong>M</strong></td>
+	<td><strong>M</strong></td>
+	<td><strong>V</strong></td>
+	<td><strong>V</strong></td>
+	<td><strong>V</strong></td>
+	</tr>
+  <tr>
+	<td colspan="6" class="chart-header-2"><b>Type of Material </b></td>
+	</tr>
+  <tr class="chart-header">
+	<td>&nbsp;</td>
+	<td>Solid Concrete</td>
+	<td>Hollow Concrete Block</td>
+	<td>Grout Filled Block</td>
+	<td>Brick</td>
+	<td>Mortar</td>
+	</tr>
+  <tr class="chart-cell-2">
+	<td><b><a href="/anchors-fasteners/lag-shield/index.aspx">Lag Shield Anchor</a></b></td>
+	<td><strong>V</strong></td>
+	<td><strong>V</strong></td>
+	<td><strong>M</strong></td>
+	<td><strong>V</strong></td>
+	<td><strong>V</strong></td>
+	</tr>
+  <tr class="chart-cell-l">
+	<td><b><a href="/anchors-fasteners/tapcon-screw/index.aspx">Tapcon Concrete Screws</a></b></td>
+	<td><strong>V</strong></td>
+	<td><strong>V</strong></td>
+	<td><strong>V</strong></td>
+	<td><strong>V</strong></td>
+	<td><strong>V</strong></td>
+	</tr>
+  <tr class="chart-cell-2">
+	<td><b><a href="/anchors-fasteners/nylon-nail-it/index.aspx">Nylon Nail-it</a></b></td>
+	<td><strong>V</strong></td>
+	<td>&nbsp;</td>
+	<td><strong>M</strong></td>
+	<td><strong>V</strong></td>
+	<td><strong>V</strong></td>
+	</tr>
+  <tr class="chart-cell-l">
+	<td><b><a href="/anchors-fasteners/metal-hit/index.aspx">Metal Hit Anchor</a></b></td>
+	<td><strong>V</strong></td>
+	<td>&nbsp;</td>
+	<td><strong>M</strong></td>
+	<td><strong>M</strong></td>
+	<td><strong>M</strong></td>
+	</tr>
+  <tr class="chart-cell-2">
+	<td><b><a href="/anchors-fasteners/split-drive/index.aspx">Split Drive Anchor</a></b></td>
+	<td><strong>V</strong></td>
+	<td>&nbsp;</td>
+	<td><strong>M</strong></td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+	</tr>
+  <tr class="chart-cell-l">
+	<td><b><a href="/anchors-fasteners/strike/index.aspx">Strike Anchor</a></b></td>
+	<td><strong>V</strong></td>
+	<td>&nbsp;</td>
+	<td><strong>M</strong></td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+	</tr>
+</tbody></table>
 
 ### Nails
 
