@@ -1,44 +1,28 @@
 # Cheatsheet
 
-[Resources](#resources) | [Tools](#tools) | [Fasteners](#fasteners)
----|---|---
-   | [Power Tools](#power-tools); [Hand Tools](#hand-tools) | [Screws](#screws); [Anchors](#anchors); [Nails](#nails); [Bolts](#bolts) 
-
-[Drywall](#drywall) | [Doors](#doors) | [Plumbing](#plumbing)
----|---|---
-   |   | [Pipe Materials](#pipe-materials); [Fittings](#fittings)  
-
-[Exterior walls](#exterior-walls) | [Electrical](#electrical) | [Wood working](#wood-working)
----|---|---
-   |   | [Wood Cuts](#wood-cuts)
-
-[Climate control](#climate-control) | [Cars](#cars) | [Adhesives and Resins](#adhesives-and-resins)
----|---|---
-   |   | [Adhesives](#adhesives); [Resins](#resins)
-
 ## Table of Contents
-* [Resources](#resources)
-* [Tools](#tools)
+* [**Resources**](#resources)
+* [**Tools**](#tools)
   * [Power Tools](#power-tools)
     * [Circular Saw](#circular-saw)
     * [Router](#router)
   * [Hand Tools](#hand-tools)
-* [Fasteners](#fasteners)
+* [**Fasteners**](#fasteners)
   * [Screws](#screws)
   * [Anchors](#anchors)
   * [Nails](#nails)
   * [Bolts](#bolts)
-* [Drywall](#drywall)
-* [Doors](#doors)
-* [Plumbing](#plumbing)
+* [**Drywall**](#drywall)
+* [**Doors**](#doors)
+* [**Plumbing**](#plumbing)
   * [Pipe Materials](#pipe-materials)
   * [Fittings](#fittings)
-* [Exterior walls](#exterior-walls)
-* [Electrical](#electrical)
-* [Wood working](#wood-working)
-* [Climate control](#climate-control)
-* [Cars](#cars)
-* [Adhesives, Resins, and Sealants](#adhesives-resins-and-sealants)
+* [**Exterior walls**](#exterior-walls)
+* [**Electrical**](#electrical)
+* [**Wood working**](#wood-working)
+* [**Climate control**](#climate-control)
+* [**Cars**](#cars)
+* [**Adhesives, Resins, and Sealants**](#adhesives-resins-and-sealants)
   * [Adhesives](#adhesives)
     * [Adhesive Recommendation](#adhesive-recommendation)
     * [Adhesive Golssary](#adhesive-glossary)
