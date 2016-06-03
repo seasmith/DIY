@@ -33,6 +33,7 @@ ___
 
 ## To File
 * [Repairing and reinforcing broken plastic parts](http://woodgears.ca/misc/plastic_repair.html)
+* http://diy.stackexchange.com/questions/30926/what-types-of-electrical-outlets-are-found-in-a-typical-home-in-the-usa
 
 ___
 
