@@ -21,6 +21,8 @@
 * [**Electrical**](#electrical)
 * [**Wood working**](#wood-working)
 * [**Climate control**](#climate-control)
+* [**Drawers and Cabinets**](#drawers-and-cabinets)
+* [**Cleaning**](#cleaning)
 * [**Cars**](#cars)
 * [**Adhesives, Resins, and Sealants**](#adhesives-resins-and-sealants)
   * [Adhesives](#adhesives)
@@ -1098,6 +1100,9 @@ Winter | 30-40%
 Summer | < 65% (mold)<br>< 50% (dust mites)
 
 ___
+
+## Drawers and Cabinets
+* [How to install a false-drawer tip-out tray](http://www.lowes.com/projects/organize-store-and-move/hidden-storage-kitchen-tipout-drawer/project) | Install hinges
 
 ## Cleaning
 * [Concrete](http://www.lowes.com/projects/repair-and-maintain/remove-stains-from-concrete/project) | Follow up table instructions with mop with water and floor cleaner; dry for 24 hrs if sealing or staining
