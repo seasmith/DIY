@@ -1,4 +1,0 @@
-###Materials
-* Silicone
-* Acrylic
-* Vinyl
