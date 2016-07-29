@@ -34,6 +34,11 @@
 ___
 
 ## To File
+* [How can I insulate my garage](http://diy.stackexchange.com/questions/21454/how-can-i-insulate-my-garage/21460)
+* [What's the best way to keep my garage from freezing?](http://diy.stackexchange.com/questions/17096/whats-the-best-way-to-keep-my-garage-from-freezing)
+* [How can I insulate my garage door](http://diy.stackexchange.com/questions/3293/how-can-i-insulate-my-garage-door)
+* [Is garage door insulation beneficial in South Florida](http://diy.stackexchange.com/questions/91550/is-garage-door-insulation-beneficial-in-south-florida)
+* [How to properly insulate a garage](http://diy.stackexchange.com/questions/6473/how-to-properly-insulate-a-garage)
 * [Adhesives cheatsheet](https://d-lab.mit.edu/sites/default/files/D-Lab_Learn-It_Adhesives.pdf)
 * http://diy.stackexchange.com/questions/77786/concrete-foundation-crack?s=1|2.2370
 * [Repairing and reinforcing broken plastic parts](http://woodgears.ca/misc/plastic_repair.html)
