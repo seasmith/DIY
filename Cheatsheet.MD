@@ -701,6 +701,9 @@ ___
 
 ### Nails
 
+### Nuts
+* Jam nut = place between the surface and the regular nut; the regular nut goes on top; commonly mistakenly placed on top of the regular nut
+
 ### Bolts
 * [Bolt grades](https://www.boltdepot.com/fastener-information/Materials-and-Grades/Bolt-Grade-Chart.aspx)
 
