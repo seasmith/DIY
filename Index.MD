@@ -3,16 +3,16 @@
 [Fasteners](Fasteners.MD) | [Tools](Tools.MD) 
 --------------------------|------------------
 
-[Woodworking](Woodworking.MD) | [Drawers and Cabinets](Drawers-and-Cabinets.MD) 
+[Woodworking](Woodworking.MD) | [Drawers and Cabinets](Drawers and Cabinets.MD) 
 ------------------------------|------------------------------------------------
 
-[Doors](Doors.MD) | [Interior Walls](Interior-Walls.MD) | [Exterior Walls](Exterior-Walls.MD)
+[Doors](Doors.MD) | [Interior Walls](Interior Walls.MD) | [Exterior Walls](Exterior Walls.MD)
 ------------------|-------------------------------------|------------------------------------
 
-[Plumbing](Plumbing.MD) | [Electrical](Electrical.MD) | [Climate Control](Climate-Control.MD)
+[Plumbing](Plumbing.MD) | [Electrical](Electrical.MD) | [Climate Control](Climate Control.MD)
 ------------------------|-----------------------------|--------------------------------------
 
-[Cleaning](Cleaning.MD) | [Adhesives, Resins, and Sealants](Adhesives-Resins-and-Sealants.MD) | [Cars](Cars.MD)
+[Cleaning](Cleaning.MD) | [Adhesives, Resins, and Sealants](Adhesives Resins and Sealants.MD) | [Cars](Cars.MD)
 ------------------------|---------------------------------------------------------------------|----------------
 
 ___
