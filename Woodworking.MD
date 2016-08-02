@@ -27,6 +27,15 @@ Brad Point | Small-sized holes; minimal tearout; guided | ![Brad Point](http://i
 |                   |blade cuts here|
 ```
 
+* [Board dimensions](no.link)
+
+Thickness | Qaurters | Actual (Presurfaced)
+----------|----------|---------------------
+1"        | 4/4      | 3/4"
+1.5"      | 6/4      | < 1.5"
+2"        | 8/4      | 7/4" (1.75")
+
+* [Board foot](no.link) = `12" x 12" x 1"` | `(Width x Length x Thickness) / 144`
 * [List of wood joints](https://en.wikipedia.org/wiki/Woodworking_joints#List_of_wood_joints)
 ![Woodworking Joints](https://s-media-cache-ak0.pinimg.com/736x/b3/8b/1f/b38b1ff42c5920960cee7018a2b2d96d.jpg)
 
@@ -49,6 +58,8 @@ Varnish | [Resin (drying oil and solvent)][varnish.1] | Protective top coat | Du
 
 ### Wood Cuts
 
+Post-Sawn
+
 Type | Description
 -----|------------
 Square | 90 to edge; 90 to face
@@ -56,6 +67,14 @@ Miter | Not 90 to edge; 90 to face
 Bevel | Not 90 to face
 Double Bevel | Two cuts not 90 to face
 Compound | Miter + bevel
+
+Sawn
+
+Type | Description
+-----|------------
+Flat |
+Quarter |
+Rift |
 
 ### Wood Types
 
