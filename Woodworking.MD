@@ -78,6 +78,17 @@ Rift |
 
 ### Wood Types
 
+##### Hardwood & Softwood
+
+* The terms "hardwood" and "softwood" have no relevance to the actual hardness of the wood produced [1](http://cdn.static-economist.com/sites/default/files/imagecache/original-size/images/2016/07/blogs/graphic-detail/20160730_woc911_4.png).
+
+Category | Description
+---------|------------
+Hardwood | Typically come from a broadleaf, deciduous tree (a tree that loses its leaves annually) [1](http://web.utk.edu/~mtaylo29/pages/Hardwoods%20and%20softwood.html)
+Softwood | Come from conifers (usually remain evergreen) [1](http://www.nzwood.co.nz/faqs/what-is-the-difference-between-hardwood-and-softwood/)
+
+* [Individual Wood Type](no.link)
+
 ![Wood Types](http://classes.mst.edu/civeng120/lessons/wood/wood_grain/wood_1.gif)
 ![Wood Types 2](http://classes.mst.edu/civeng120/lessons/wood/wood_grain/wood_2.gif)  
 ![Wood Types 3](http://classes.mst.edu/civeng120/lessons/wood/wood_grain/wood_3.gif)
