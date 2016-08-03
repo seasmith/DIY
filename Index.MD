@@ -64,3 +64,4 @@ ___
 * http://diy.stackexchange.com/questions/30926/what-types-of-electrical-outlets-are-found-in-a-typical-home-in-the-usa
 * [Taping between drywall](http://www.nytimes.com/1988/08/21/nyregion/taping-between-drywall-panels.html)
 * [Should I Fix Those Little Hairline Cracks in My Walls?](http://www.nytimes.com/2014/04/10/garden/should-i-fix-those-little-hairline-cracks-in-my-walls.html)
+* [How to Dry Out a Flooded Home](http://www.nytimes.com/2006/07/09/realestate/09home.html)
