@@ -53,6 +53,9 @@ ___
 
 #### General Home Tips
 * [How to Dry Out a Flooded Home](http://www.nytimes.com/2006/07/09/realestate/09home.html)
+* Insulate coat closet doors near entrances to keep bugs out during warm months = use weatherstripping and door sweeps.
+* Use crown moulding to hide speaker wires for a home entertainment system = use holes at top of drywall and mid- to bottom of drywall to drun speaker wire behind the drywall; then run speaker wire horizontally along top of drywall where crown moulding can conseal the speaker wire.
+* Never use bare insulation in a garage to insulate the garage door = bare insulation is a fire hazard; install ignition barrier; definitely for homes WITH attached garages.
 
 #### History
 * [An Exciting History of Drywall](http://www.theatlantic.com/technology/archive/2016/07/an-exciting-history-of-drywall/493502/)
