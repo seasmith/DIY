@@ -21,6 +21,7 @@ ___
 * [Resources](#resources)
 * [Reads](#reads)
 * [To File](#to-file)
+
 ___
 
 ## Resources
@@ -48,6 +49,7 @@ ___
 ___
 ## Reads
 * [An Exciting History of Drywall](http://www.theatlantic.com/technology/archive/2016/07/an-exciting-history-of-drywall/493502/)
+* [Arthur Fischer, Inventor With More Patents Than Edison, Dies at 96](http://www.nytimes.com/2016/02/09/business/international/artur-fischer-inventor-with-more-patents-than-edison-dies-at-96.html)
 
 ___
 ## To File
@@ -60,3 +62,4 @@ ___
 * http://diy.stackexchange.com/questions/77786/concrete-foundation-crack?s=1|2.2370
 * [Repairing and reinforcing broken plastic parts](http://woodgears.ca/misc/plastic_repair.html)
 * http://diy.stackexchange.com/questions/30926/what-types-of-electrical-outlets-are-found-in-a-typical-home-in-the-usa
+* [Taping between drywall](http://www.nytimes.com/1988/08/21/nyregion/taping-between-drywall-panels.html)
