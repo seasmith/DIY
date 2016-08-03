@@ -20,6 +20,8 @@ ___
 ## Contents
 * [Resources](#resources)
 * [Reads](#reads)
+  * [General Home Tips](#general-home-tips)
+  * [History](#history)
 * [To File](#to-file)
 
 ___
@@ -48,6 +50,11 @@ ___
 
 ___
 ## Reads
+
+#### General Home Tips
+* [How to Dry Out a Flooded Home](http://www.nytimes.com/2006/07/09/realestate/09home.html)
+
+#### History
 * [An Exciting History of Drywall](http://www.theatlantic.com/technology/archive/2016/07/an-exciting-history-of-drywall/493502/)
 * [Arthur Fischer, Inventor With More Patents Than Edison, Dies at 96](http://www.nytimes.com/2016/02/09/business/international/artur-fischer-inventor-with-more-patents-than-edison-dies-at-96.html)
 
@@ -64,4 +71,4 @@ ___
 * http://diy.stackexchange.com/questions/30926/what-types-of-electrical-outlets-are-found-in-a-typical-home-in-the-usa
 * [Taping between drywall](http://www.nytimes.com/1988/08/21/nyregion/taping-between-drywall-panels.html)
 * [Should I Fix Those Little Hairline Cracks in My Walls?](http://www.nytimes.com/2014/04/10/garden/should-i-fix-those-little-hairline-cracks-in-my-walls.html)
-* [How to Dry Out a Flooded Home](http://www.nytimes.com/2006/07/09/realestate/09home.html)
+
