@@ -4,3 +4,4 @@
   * `100% mildew resistant silicone sealant`
   * `Saw blade (at least 40T)`
   * `Level`
+  * `Sander (belt)`
