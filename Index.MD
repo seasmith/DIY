@@ -3,8 +3,8 @@
 [Fasteners](Fasteners.MD) | [Tools](Tools.MD) 
 --------------------------|------------------
 
-[Woodworking](Woodworking.MD) | [Drawers and Cabinets](Drawers and Cabinets.MD) 
-------------------------------|------------------------------------------------
+[Woodworking](Woodworking.MD) | [Drawers and Cabinets](Drawers and Cabinets.MD) | [Flooring](Flooring.MD)
+------------------------------|-------------------------------------------------|------------------------
 
 [Doors](Doors.MD) | [Interior Walls](Interior Walls.MD) | [Exterior Walls](Exterior Walls.MD)
 ------------------|-------------------------------------|------------------------------------
