@@ -3,6 +3,9 @@
 * [**Tools**](#tools)
   * [Power Tools](#power-tools)
     * [Circular Saw](#circular-saw)
+    * [Table Saw](#table-saw)
+    * [Miter Saw](#miter-saw)
+    * [Circular Saw Blades](#circular-saw-blades)
     * [Router](#router)
   * [Hand Tools](#hand-tools)
   
@@ -32,6 +35,27 @@ Diamond (Continuous) | Tile
 Diamond (Segmented/Serated) | Masonry
 Silicone Carbide | Metal; abrasive
 Aluminum Oxide | Metal; abrasive
+
+___
+##### Table Saw
+
+___
+##### Miter Saw
+
+___
+##### [Circular Saw Blades](http://www.lowes.com/projects/woodworking-and-crafts/circular-saw-blade-buying-guide/project)
+
+Teeth/Design | Material 
+-------------|---------
+**Diamond Disontinuous** <br> <img src="http://mobileimages.lowes.com/product/converted/885911/885911360517.jpg" width="300"> | Concrete <br> Brick <br> Asphalt
+**Diamond Continuous Serrated/Segmented** <br> <img src="http://mobileimages.lowes.com/product/converted/028874/028874247123.jpg" width="300"> | Siding <br> Brick <br> Block
+**Diamond Continuous Unserrated/Unsegmented** <br> <img src="http://mobileimages.lowes.com/product/converted/644215/644215300397.jpg" width="300"> | Tile
+**Abrasive** <br> <img src="http://www.lowes.com/projects/images/buying-guides/Tools/circular-saw-blade-buying-guide-abrasive.jpg" width="300"> | Brick <br> Block <br> Metal <br> Vinyl (possibly)
+
+Material | Teeth/Design
+---------|-------------
+
+
 ___
 ##### Router
 * Types
