@@ -4,7 +4,7 @@
 
 ## Doors
 * [Fix door hinge with worn screw holes](http://diy.stackexchange.com/questions/5729/how-do-i-rehang-a-wooden-door-with-worn-screw-holes) | Tooth picks and glue
-* [How to drill and 2 1/8" hole over an existing 1 1/2" hole](http://diy.stackexchange.com/questions/10391/how-do-i-drill-a-2%E2%85%9B-inch-door-knob-hole-over-an-existing-1%C2%BD-inch-hole)
+* [How to drill and 2 1/8" hole over an existing 1 1/2" hole](http://diy.stackexchange.com/questions/10391/how-do-i-drill-a-2%E2%85%9B-inch-door-knob-hole-over-an-existing-1%C2%BD-inch-hole) | Stack the smaller hole saw inside the larger one
 * [How to secure french doors]() | 1 inch deadbolt; mortise lock; handle, top, and bottom deadbolt (three point)
 * [Mortise vs Cylindrical Locks](http://locknet.com/lockbytes/excerpts/whats-the-difference-mortise-vs-cylindrical-locks/) | [More](http://locknet.com/lockbytes/excerpts/faq/mortise-locks-vs-cylindrical-locks-the-basics/)
 * Cylindrical locks parts  
