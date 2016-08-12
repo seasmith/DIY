@@ -596,7 +596,7 @@ ___
 
 ##### Q & A
 * Q: When and which side should I use a washer on?
-  * A: Whenever a greater contact surface area is needed, and use on the "soft" side. Generally, washers are needed when pressure needs to be distributed over a larger area to prevent damage or increase the surface area contact to the fastened object. They can also help prevent the bolt from lossening due to vibration. In some applications they provide an aesthetic element. See these examples:
+  * A: Whenever a greater contact surface area is needed, and use on the "soft" side. Generally, washers are needed when pressure needs to be distributed over a larger area to prevent damage or increase the surface area contact to the fastened object. They can also help prevent the bolt from lossening due to vibration. In some applications they provide an aesthetic element. See these examples and [diy.stackexchange answers](http://diy.stackexchange.com/questions/21457/should-a-washer-go-on-nut-side-or-the-bolt-side)]:
     * **Drywall** = use a washer for screws driven into drywall. Washers prevent screw heads from digging into paint and mud.
     * **Wood** = use washers to prevent bolt heads and nuts from digging or marring into wood; this should both preserve the wood face and prevent a gap from forming between the nut/bolt-head and the wood - which could eventually lead to rattling and loss of tighteness
     * **Lock washers: I** = lock washers can prevent unwanted lossening of bolts; they secure to the bolt-head; many different types but some common ones are: split-lock, wave, star, Nord-lock, serrated.
