@@ -598,11 +598,11 @@ ___
 * Q: When and which side should I use a washer on?
   * A: Whenever a greater contact surface area is needed, and use on the "soft" side. Generally, washers are needed when pressure needs to be distributed over a larger area to prevent damage or increase the surface area contact to the fastened object. They can also help prevent the bolt from lossening due to vibration. In some applications they provide an aesthetic element. See these examples:
     * **Drywall** = use a washer for screws driven into drywall. Washers prevent screw heads from digging into paint and mud.
-    * **Wood** = use washers to prevent bolt heads and nuts from digging or marring into wood; this should both preserve the wood face and prevent a gap forming between the nut/bolt-head and the wood - which could eventually lead to rattling and loss of tighteness
-    * **Lock washers: I** = lock washers can prevent unwanted lossening of bolts by securing to the bolt-head; many different types but some common ones are: split-lock, wavey, star, Nord-lock, serrated.
-    * **Lock washers: II** = a flat washer can prevent a split-lock washer from digging into the fastened object
-    * **Curved surfaces** = washers can add surface area when the fastened object is a curved surface; the bolt head applies pressure to the whole area of the washer and then the washer transfers that pressure (greater than the pressure of the head alone) to the curved surface
-    * **Oversized hole** = if the hole that the bolt is being passed through is too large or larger than the bolt-head, a washer (or some other object) must be used to prevent the bolt head from slipping through
+    * **Wood** = use washers to prevent bolt heads and nuts from digging or marring into wood; this should both preserve the wood face and prevent a gap from forming between the nut/bolt-head and the wood - which could eventually lead to rattling and loss of tighteness
+    * **Lock washers: I** = lock washers can prevent unwanted lossening of bolts; they secure to the bolt-head; many different types but some common ones are: split-lock, wave, star, Nord-lock, serrated.
+    * **Lock washers: II** = a flat washer can prevent a (smaller) lock washer from digging into the fastened object
+    * **Curved surfaces** = washers can add surface area contact when the fastened object is a curved surface; the bolt-head applies pressure to the washer and the washer transfers that pressure (greater than the pressure of the head alone) to the curved surface
+    * **Oversized hole** = if the hole that the bolt is being passed through is too large to properly fasten the object or the hole is larger than the bolt-head, a washer (or some other object) must be used to prevent the bolt head from slipping through into the hole
     * **Aesthetics** = finish washers are often used for tapared head screw (phillips head; oval head)
 
 ### Bolts
