@@ -8,15 +8,17 @@
   * [Sealants](#sealants)
   
 ## Adhesives, Resins, and Sealants
+
+### General
 * [General guideline on resins and epoxies](http://www.cca.edu/sites/default/files/pdf/08/resin-guidelines.pdf)
 
 ### Adhesives
+
+##### Resources
 * [ThisToThat Adhesive Lookup Table](http://www.thistothat.com/)
 * [Adhesives table](http://www.mr-dt.com/materials/adhesives.htm)
 * [Awesome resource for different applications and substrates](http://www.masterbond.com/applications)
 * [Info on epoxies](http://diy.stackexchange.com/questions/24862/are-all-epoxy-created-equal)
-* [Gluing hardwood floors](http://diy.stackexchange.com/questions/1232/gluing-hardwood-floors) | [Helpful tips](http://www.lumberliquidators.com/blog/helpful-tips-for-glue-down-installations/)
-
 
 ##### Adhesive Recommendation  
 
