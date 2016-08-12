@@ -2,19 +2,34 @@
 
 * [**Fasteners**](#fasteners)
   * [Screws](#screws)
+    * [Q & A](#q-a)
+    * [How-to's](#how-tos)
+    * [Pilot Holes](#pilot-holes)
   * [Anchors](#anchors)
+    * [Non-masonary](#non-masonary)
+    * [Masonary](#masonary)
   * [Nails](#nails)
   * [Nuts](#nuts)
+  * [Washers](#washers)
+    * [Q & A](#q-a-1)
   * [Bolts](#bolts)
 
 ___
 ## Fasteners
 
 ### Screws
-* [Pe-drill holes in particle board for screw?](http://diy.stackexchange.com/questions/8469/do-i-need-to-pre-drill-holes-in-particle-board-for-screws) | Yes, on the edges and with screws wider than 1/8"
-* [Why do some screws have two thread types(dual threaded)?](http://diy.stackexchange.com/questions/27708/what-is-the-use-for-this-different-threading-near-the-head-of-a-large-screw) | Lateral stabilization
-* [Remove a stuck screw or bolt](http://diy.stackexchange.com/questions/16263/how-can-i-remove-a-really-stuck-screw) | Better grip, penetrating oil, hammering, manual impact driver, heat/cool, or ream out
-* [Extract a broken/stripped screw](http://diy.stackexchange.com/questions/10451/how-to-remove-screws-with-stripped-heads) | [Rubber band](http://24.media.tumblr.com/tumblr_lr5mykGo3M1qzyj1lo1_250.jpg) | [Extractor bit](https://gzunino.wordpress.com/2008/02/04/extracting-a-broken-screw/) | Dremel new grooves | Hammer and chisel
+
+##### Q & A
+* [Q: Should I pre-drill holes in particle board for screw?](http://diy.stackexchange.com/questions/8469/do-i-need-to-pre-drill-holes-in-particle-board-for-screws)
+  * A: Yes, on the edges and with screws wider than 1/8"  
+* [Q: Why do some screws have two thread types (dual threaded)?](http://diy.stackexchange.com/questions/27708/what-is-the-use-for-this-different-threading-near-the-head-of-a-large-screw)
+  * A: Lateral stabilization
+
+##### How-to's
+* [Remove a stuck screw or bolt](http://diy.stackexchange.com/questions/16263/how-can-i-remove-a-really-stuck-screw) = Better grip; penetrating oil; hammering; manual impact driver; heat/cool; ream out
+* [Extract a broken/stripped screw](http://diy.stackexchange.com/questions/10451/how-to-remove-screws-with-stripped-heads) = [Rubber band](http://24.media.tumblr.com/tumblr_lr5mykGo3M1qzyj1lo1_250.jpg); [Extractor bit](https://gzunino.wordpress.com/2008/02/04/extracting-a-broken-screw/); Dremel new grooves; Hammer and chisel
+
+##### Pilot Holes
 * [Pilot hole size for wood screws](http://diy.stackexchange.com/questions/8800/when-pre-drilling-for-screws-how-do-you-determine-the-correct-bit-diameter#answer-8802)  | [More](http://engineershandbook.com/Tables/woodscrewpilotholes.htm)
 
 ![](http://i.stack.imgur.com/VOtay.png)
@@ -431,9 +446,13 @@ ___
 </table>
 
 ### Anchors
+
+##### Non-masonary
 * [Hanging items from ceiling drywall](http://diy.stackexchange.com/questions/11816/how-much-weight-can-i-hang-from-a-drywall-ceiling) | Toggle bolt w/ j-hook; better to anchor into joist
 * [Different drywall anchor types](http://diy.stackexchange.com/questions/16771/what-benefit-do-plasterboard-drywall-screws-have)
 * [Hollow door anchors](http://diy.stackexchange.com/questions/13154/what-kind-of-screws-for-attaching-an-ikea-style-coat-hook-of-an-internal-door)
+
+##### Masonary
 * [Determine which concrete anchor to use](https://www.concretefasteners.com/determine-fastener.aspx)
 
 **M** = May be suitable
@@ -571,6 +590,17 @@ ___
 
 ### Nuts
 * [Jam nut](http://www.boltscience.com/pages/twonuts.htm) = place between the surface and the regular nut; the regular nut goes on top; commonly mistakenly placed on top of the regular nut; see also [here](http://mysite.du.edu/~jcalvert/tech/jamnut.htm)
+* Nylon lock-nut = single use nut with a nylon insert; bolt threads dig into nylon and secure nut from loosening due to vibration and rattling
+
+### Washers
+
+##### Q & A
+* Q: When and which side should I use a washer on?
+  * A: Whenever a greater contact surface area is needed, and use on the "soft" side. Generally, washers are needed when pressure needs to be distributed over a larger area to prevent damage or increase the surface area contact to the fastened object. See these examples:
+    * Drywall = use a washer for screws driven into drywall. Washers prevent screw heads from digging into paint and mud.
+    * Wood = use washers to prevent bolt heads and nuts from digging or marring into wood; this should both preserve the wood face and prevent a gap forming between the nut/bolt-head and the wood - which could eventually lead to rattling and loss of tighteness
+    * Split-lock washers = a flat washer can prevent a split-lock washer from digging into the fastened object
+    * Curved surfaces = washers can add surface area when the fastened object is a curved surface; the bolt head applies pressure to the whole area of the washer and then the washer transfers that pressure (greater than the pressure of the head alone) to the curved surface
 
 ### Bolts
 * [Bolt grades](https://www.boltdepot.com/fastener-information/Materials-and-Grades/Bolt-Grade-Chart.aspx)
