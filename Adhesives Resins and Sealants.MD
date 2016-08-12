@@ -53,24 +53,25 @@ Cyanoacrylate | Superglue | Single component, solvent-free adhesives; readily cu
 * [Fiberglass resin]() | [Bondo](http://bondo.com/tips#fzypgDIRToTbGRwa.97) | Repairs on concrete, wood, fiberglass, metals, and plastic
 
 ### Sealants
-* How to preserve caulk? | Insert a galvanized nail | Cap with a wire-nut
+* Q: How to preserve caulk?
+  * A: Insert a galvanized nail; cap with a wire-nut
 * [Different types of caulk](http://www.lowes.com/projects/paint-stain-and-wallpaper/caulk-buying-guide/project) | [More](http://www.thisoldhouse.com/toh/article/0,,203227-2,00.html)
 
-*Latex and Silicone Comparison*
+##### Latex vs. Silicone Caulk
 
-Latex (Acrylic/Painter's) Cualk | Silicone Caulk
-------|--------
-Easier to apply than silicone | Needs meticulous surface preparation
-Can be painted | Some can be painted (check specific product)
-Cleans up easily with soap and water | Requires mineral spirits for cleaning
-Less odor | More odor
-Easily removed | Difficult to remove
-Weakens and losses flexibility in direct sunlight and extreme temperature | Is more flexible and durable than latex; holds up well in direct sunlight and temperature extremes
-Doesn't last as long as silicone (under most circumstances) | Lasts longer than latex caulk (under most circumstances)
-Can be applied on porous and nonporous surfaces | Works best on nonporous surfaces
-Better suited for gaps that stay constant | Works well in gaps that expand and contract
+Category | Latex (Acrylic/Painter's) Cualk | Silicone Caulk
+---------|---------------------------------|---------------
+Purposes | Better suited for gaps that stay constant | Works well in gaps that expand and contract
+Application | Easier to apply than silicone | Needs meticulous surface preparation
+Surface | Can be applied on porous and nonporous surfaces | Works best on nonporous surfaces
+Oder | Less odor | More odor
+Cleaning | Cleans up easily with soap and water | Requires mineral spirits for cleaning
+Painting | Can be painted | Some can be painted (check specific product)
+Removal | Easily removed | Difficult to remove
+Strength | Weakens and losses flexibility in direct sunlight and extreme temperature | Is more flexible and durable than latex; holds up well in direct sunlight and temperature extremes
+Durability | Doesn't last as long as silicone (under most circumstances) | Lasts longer than latex caulk (under most circumstances)
 
-*Speciality Caulks*
+##### Speciality Caulks
 
 Caulk Type | Projects | Key Features
 -----------|----------|-------------
