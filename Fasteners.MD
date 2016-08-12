@@ -3,7 +3,7 @@
 * [**Fasteners**](#fasteners)
   * [Screws](#screws)
     * [Q & A](#q--a)
-    * [How-to's](#how-tos)
+    * [How-to](#how-to)
     * [Pilot Holes](#pilot-holes)
   * [Anchors](#anchors)
     * [Non-masonary](#non-masonary)
@@ -25,7 +25,7 @@ ___
 * [Q: Why do some screws have two thread types (dual threaded)?](http://diy.stackexchange.com/questions/27708/what-is-the-use-for-this-different-threading-near-the-head-of-a-large-screw)
   * A: Lateral stabilization
 
-##### How-to's
+##### How-to
 * [Remove a stuck screw or bolt](http://diy.stackexchange.com/questions/16263/how-can-i-remove-a-really-stuck-screw) = Better grip; penetrating oil; hammering; manual impact driver; heat/cool; ream out
 * [Extract a broken/stripped screw](http://diy.stackexchange.com/questions/10451/how-to-remove-screws-with-stripped-heads) = [Rubber band](http://24.media.tumblr.com/tumblr_lr5mykGo3M1qzyj1lo1_250.jpg); [Extractor bit](https://gzunino.wordpress.com/2008/02/04/extracting-a-broken-screw/); Dremel new grooves; Hammer and chisel
 
