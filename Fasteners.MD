@@ -2,7 +2,7 @@
 
 * [**Fasteners**](#fasteners)
   * [Screws](#screws)
-    * [Q & A](#q-a)
+    * [Q & A](#q--a)
     * [How-to's](#how-tos)
     * [Pilot Holes](#pilot-holes)
   * [Anchors](#anchors)
@@ -11,7 +11,7 @@
   * [Nails](#nails)
   * [Nuts](#nuts)
   * [Washers](#washers)
-    * [Q & A](#q-a-1)
+    * [Q & A](#q--a-1)
   * [Bolts](#bolts)
 
 ___
