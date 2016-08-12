@@ -24,12 +24,15 @@
 
 Material 1 | Material 2 | Products
 -----------|------------|---------
-Rubber | Wood | [Contact cement][1.1.1]
-Metal | Glass | [JB ClearWeld][1.2.1]
-Clay | Clay | [Cyanoacrylate (food-safe)][1.3.1]
+Wood | Rubber | [Contact cement][1.1.1]
 Wood | Wood | [TiteBond II (non-toxic)][1.4.1]
+Metal | Glass | [JB ClearWeld][1.2.1]
 Metal | Metal | [JB Weld][1.5.1], [LePage's Metal Epoxy][1.5.2]
 Hardwood | Concrete | [Titebond III][1.6.1]
+Masonary | Masonary |
+Masonary | Wood |
+Masonary | Metal |
+Clay | Clay | [Cyanoacrylate (food-safe)][1.3.1]
 
 
 [1.1.1]: http://diy.stackexchange.com/questions/11441/adhesive-for-gluing-rubber-to-wood "Contact cement"
