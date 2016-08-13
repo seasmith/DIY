@@ -450,6 +450,8 @@ ___
 ##### Non-masonary
 * [Hanging items from ceiling drywall](http://diy.stackexchange.com/questions/11816/how-much-weight-can-i-hang-from-a-drywall-ceiling) | Toggle bolt w/ j-hook; better to anchor into joist
 * [Different drywall anchor types](http://diy.stackexchange.com/questions/16771/what-benefit-do-plasterboard-drywall-screws-have)
+cheap
+* [How to deal with a hole too big for a drywall anchor](http://diy.stackexchange.com/questions/8727/drilled-holes-too-wide-for-drywall-anchors-how-to-fix) = Get bigger anchors; use toggle bolts; patch and drill and adjacent hole. 
 * [Hollow door anchors](http://diy.stackexchange.com/questions/13154/what-kind-of-screws-for-attaching-an-ikea-style-coat-hook-of-an-internal-door)
 
 ##### Masonary
