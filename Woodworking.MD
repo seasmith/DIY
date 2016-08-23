@@ -3,7 +3,7 @@
 ## Table of Contents
 * [**Wood working**](#wood-working)
   * [General](#general)
-  * [Woodworking Tools](#woodworking-tools]
+  * [Woodworking Tools](#woodworking-tools)
   * [Wood cuts](#wood-cuts)
   * [Wood coatings](#wood-coating)
   * [Wood types](#wood-types)
