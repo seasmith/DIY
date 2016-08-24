@@ -7,11 +7,19 @@
     * [Miter Saw](#miter-saw)
     * [Circular Saw Blades](#circular-saw-blades)
     * [Router](#router)
+    * [Nailer](#nailer)
   * [Hand Tools](#hand-tools)
   
 
 ___
 ## Power Tools
+
+Tool |  Use | Materials | Features | Accessories | Safety 
+-----|------|-----------|----------|-------------|-------
+Circular Saw | Rip/cross cuts | Wood; Masonry; Steel | Bevel; Fence guide | Cross-cut guide | Guard
+Router | Grooves/Joints | Wood | Fixed/Plunging base; variable speed | Table mount; Saw dust bag; Guides |  
+Trim Router | Grooves/Joints | Wood | Tight spaces | | Big bits will overheat and burn wood
+
 #### Circular Saw
 * Gear
   * Worm drive = driving gear rotation at right angle to blade rotation
@@ -79,25 +87,14 @@ Collar | Holds the bit; different sizes for different sized shanks
 ![Bit profiles 2](https://www.pmcrouterbits.com/media//routertypes.jpg)
 
 ___
-#### Nailers
+#### Nailer
 
 ##### Cleaning
-* Cordless battery powered
-* 
-https://www.youtube.com/watch?v=PqIOKI02CB4&feature=youtu.be
+* [Cordless battery powered](https://www.youtube.com/watch?v=PqIOKI02CB4&feature=youtu.be) | [More](https://www.youtube.com/watch?v=g2DNLmP30FI&feature=youtu.be) | [More](https://www.youtube.com/watch?v=C5AfbU9vI88)
 
 ___
-## Tool Table
-
-Tool |  Use | Materials | Features | Accessories | Safety 
------|------|-----------|----------|-------------|-------
-Circular Saw | Rip/cross cuts | Wood; Masonry; Steel | Bevel; Fence guide | Cross-cut guide | Guard
-Router | Grooves/Joints | Wood | Fixed/Plunging base; variable speed | Table mount; Saw dust bag; Guides |  
-Trim Router | Grooves/Joints | Wood | Tight spaces | | Big bits will overheat and burn wood
-
-### Hand Tools
-
-##### Tool Table
+___
+## Hand Tools
 
 Tool | Description
 -----|------------
