@@ -22,26 +22,26 @@
 * [Bolts](#bolts)
 
 ___
-### Screws
+## Screws
 
-##### Screw Types
+#### Screw Types
 
 Type | Length | Material | Head |Description
 -----|--------|---------|------|------------
 Drywall | 1 5/8 to 3" | Phosphate coating; helps mud adhere to screw | Phillips; some have textured heads for mud to adhere to | For holding sheetrock/drywall to studs (course threaded for wood; fine threaded for metal)
 Deck | 1 5/8" to 3" | Epoxy coating or stainless steel; prevents rusting | Star or square; to prevent camming-out (stripping) which can lead to exposed metal (rusting) | For fastening deckboards
 
-##### Q & A
+#### Q & A
 * [Q: Should I pre-drill holes in particle board for screw?](http://diy.stackexchange.com/questions/8469/do-i-need-to-pre-drill-holes-in-particle-board-for-screws)
   * A: Yes, on the edges and with screws wider than 1/8"  
 * [Q: Why do some screws have two thread types (dual threaded)?](http://diy.stackexchange.com/questions/27708/what-is-the-use-for-this-different-threading-near-the-head-of-a-large-screw)
   * A: Lateral stabilization
 
-##### How-to
+#### How-to
 * [Remove a stuck screw or bolt](http://diy.stackexchange.com/questions/16263/how-can-i-remove-a-really-stuck-screw) = Better grip; penetrating oil; hammering; manual impact driver; heat/cool; ream out
 * [Extract a broken/stripped screw](http://diy.stackexchange.com/questions/10451/how-to-remove-screws-with-stripped-heads) = [Rubber band](http://24.media.tumblr.com/tumblr_lr5mykGo3M1qzyj1lo1_250.jpg); [Extractor bit](https://gzunino.wordpress.com/2008/02/04/extracting-a-broken-screw/); Dremel new grooves; Hammer and chisel
 
-##### Pilot Holes
+#### Pilot Holes
 * [Pilot hole size for wood screws](http://diy.stackexchange.com/questions/8800/when-pre-drilling-for-screws-how-do-you-determine-the-correct-bit-diameter#answer-8802)  | [More](http://engineershandbook.com/Tables/woodscrewpilotholes.htm)
 
 ![](http://i.stack.imgur.com/VOtay.png)
@@ -459,16 +459,16 @@ Deck | 1 5/8" to 3" | Epoxy coating or stainless steel; prevents rusting | Star 
 </table>
 
 ___
-### Anchors
+## Anchors
 
-##### Non-masonary
+#### Non-masonary
 * [Hanging items from ceiling drywall](http://diy.stackexchange.com/questions/11816/how-much-weight-can-i-hang-from-a-drywall-ceiling) | Toggle bolt w/ j-hook; better to anchor into joist
 * [Different drywall anchor types](http://diy.stackexchange.com/questions/16771/what-benefit-do-plasterboard-drywall-screws-have)
 cheap
 * [How to deal with a hole too big for a drywall anchor](http://diy.stackexchange.com/questions/8727/drilled-holes-too-wide-for-drywall-anchors-how-to-fix) = Get bigger anchors; use toggle bolts; patch and drill and adjacent hole. 
 * [Hollow door anchors](http://diy.stackexchange.com/questions/13154/what-kind-of-screws-for-attaching-an-ikea-style-coat-hook-of-an-internal-door)
 
-##### Masonary
+#### Masonary
 * [Determine which concrete anchor to use](https://www.concretefasteners.com/determine-fastener.aspx)
 
 **M** = May be suitable
@@ -603,9 +603,9 @@ cheap
 </tbody></table>
 
 ___
-### Nails
+## Nails
 
-#### Nail Types
+### Nail Types
 
 #### Hand Driven
 
@@ -637,9 +637,9 @@ Degree | Type
 21 |
 30 |
 
-#### Nail Features
+### Nail Features
 
-##### Gauge
+#### Gauge
 
 Type | Gauge | Diameter | Purpose
 -----|-------|----------|--------
@@ -647,7 +647,7 @@ Finishing | 15-16 | 0.064-0.072" | Trim, baseboards
 Brad | 18 | 0.040" | Concealment (head or no head); Moulding, trim
 Pin | 23 |0.025" | Maximum concealment; beadings, moulding, baseboards, and casing
 
-##### Head Type
+#### Head Type
 
 Type | Description
 -----|------------
@@ -656,14 +656,14 @@ Clipped head | A round head nail with a small missing section that has been "cli
 
 
 ___
-### Nuts
+## Nuts
 * [Jam nut](http://www.boltscience.com/pages/twonuts.htm) = place between the surface and the regular nut; the regular nut goes on top; commonly mistakenly placed on top of the regular nut; see also [here](http://mysite.du.edu/~jcalvert/tech/jamnut.htm)
 * Nylon lock-nut = single use nut with a nylon insert; bolt threads dig into nylon and secure nut from loosening due to vibration and rattling
 
 ___
-### Washers
+## Washers
 
-##### Q & A
+#### Q & A
 * Q: When and which side should I use a washer on?
   * A: Whenever a greater contact surface area is needed, and use on the "soft" side. Generally, washers are needed when pressure needs to be distributed over a larger area to prevent damage or increase the surface area contact to the fastened object. They can also help prevent the bolt from lossening due to vibration. In some applications they provide an aesthetic element. See these examples and [diy.stackexchange answers](http://diy.stackexchange.com/questions/21457/should-a-washer-go-on-nut-side-or-the-bolt-side):
     * **Drywall** = use a washer for screws driven into drywall. Washers prevent screw heads from digging into paint and mud.
@@ -675,7 +675,7 @@ ___
     * **Aesthetics** = finish washers are often used for tapared head screw (phillips head; oval head)
 
 ___
-### Bolts
+## Bolts
 * [Bolt grades](https://www.boltdepot.com/fastener-information/Materials-and-Grades/Bolt-Grade-Chart.aspx)
 
 <table class="sixteen text-center">
