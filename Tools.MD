@@ -53,7 +53,7 @@ ___
 ___
 #### [Circular Saw Blades](http://www.lowes.com/projects/woodworking-and-crafts/circular-saw-blade-buying-guide/project)
 
-Teeth/Design | Material 
+Teeth Design | Material 
 -------------|---------
 **Diamond Disontinuous** <br> <img src="http://mobileimages.lowes.com/product/converted/885911/885911360517.jpg" width="300"> | Concrete <br> Brick <br> Asphalt
 **Diamond Continuous Serrated/Segmented** <br> <img src="http://mobileimages.lowes.com/product/converted/028874/028874247123.jpg" width="300"> | Siding <br> Brick <br> Block
@@ -62,6 +62,15 @@ Teeth/Design | Material
 
 Material | Teeth/Design
 ---------|-------------
+
+Teeth Count | Cut Type
+------|---------
+32 | Ripping
+40 | Ripping/Crosscutting
+60 | Crosscutting
+80 | Trim
+120+ | Plywood
+
 
 ___
 #### Router
