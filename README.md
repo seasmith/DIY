@@ -2,4 +2,4 @@
 
 > Measure twice, cut once, sand to fit.
 
-Use the [Index](Index.MD) file to navigate the various topics. There are also resources available in the index file.
+Use the [Index file](Index.MD) to navigate the various topics. There are also external resources available in the index file.
