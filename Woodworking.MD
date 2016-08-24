@@ -27,16 +27,7 @@ Thickness | Qaurters | Actual (Presurfaced)
 
 ___
 ### Woodworking Tools
-* [Which circular saw blade to use?]()
- 
-Teeth | Cut Type
-------|---------
-32 | Ripping
-40 | Ripping/Crosscutting
-60 | Crosscutting
-80 | Trim
-120+ | Plywood
-
+* Circular saw blades, see: [Tools.MD#circular-saw-blades](Tools.MD#circular-saw-blades)
 * [How to account for saw blade width/thickness (kerf)](http://diy.stackexchange.com/questions/7628/whats-the-best-way-to-account-for-saw-blade-width-kerf-when-cutting-boards) | Cut on the waste side 
 ```
 |the detail you want|line|remaining material|
