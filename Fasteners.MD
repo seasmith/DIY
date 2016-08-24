@@ -10,12 +10,12 @@
   * [Non-masonary](#non-masonary)
   * [Masonary](#masonary)
 * [Nails](#nails)
-  * [Nail Types](#nail-types)
-    * [Hand Driven](#hand-driven)
-    * [Nail guns](#nail-guns)
-  * [Nail Features](#nail-features)
+  * [Hand Driven](#hand-driven)
+  * [Nail guns](#nail-guns)
     * [Gauge](#gauge)
     * [Head Type](#head-type)
+    * [Degree](#degree)
+    * [Collation](#collation)
 * [Nuts](#nuts)
 * [Washers](#washers)
   * [Q & A](#q--a-1)
@@ -605,9 +605,7 @@ cheap
 ___
 ## Nails
 
-### Nail Types
-
-#### Hand Driven
+### Hand Driven
 
 Type | Purpose
 -----|--------
@@ -621,23 +619,15 @@ Drywall | Drywall installation; often placed on exterior of drywall to prevent b
 
 [More](http://www.ebay.com/gds/What-Are-the-Different-Types-of-Nails-/10000000177628299/g.html)
 
-#### Nail Guns
-* Nail gun nails are generally classified by three features: gauge (diameter); degree (angle of collation); collation type (coiled or stick)
+### Nail Guns
+* Nail gun nails are generally classified by four features: gauge (diameter); head type; degree (angle of collation); collation type (coiled or stick)
 
-Gauge | Type
-------|--------
-15 | Finishing
-16 | Finishing
-18 | Brad
-23 | Pin
-
-Degree | Type
--------|-----
-15 |
-21 |
-30 |
-
-### Nail Features
+Type | Gauge | Purpose
+-----|-------|--------
+Finishing | 15
+Finishing | 16
+Brad | 18 | Trim
+Pin | 23
 
 #### Gauge
 
@@ -647,6 +637,8 @@ Finishing | 15-16 | 0.064-0.072" | Trim, baseboards
 Brad | 18 | 0.040" | Concealment (head or no head); Moulding, trim
 Pin | 23 |0.025" | Maximum concealment; beadings, moulding, baseboards, and casing
 
+[More](http://www.homedepot.com/c/nail_guns_nailers_buying_guide_HT_BG_HA#types)
+
 #### Head Type
 
 Type | Description
@@ -654,6 +646,18 @@ Type | Description
 Round head | Full circular head; required by code in many cases
 Clipped head | A round head nail with a small missing section that has been "clipped"; clipped to create greater density of nails in a package
 
+#### Degree
+
+Type | Degree
+-----|-------
+ | 15
+ | 21
+ | 30
+ 
+#### Collation
+
+Type | Collation
+-----|----------
 
 ___
 ## Nuts
