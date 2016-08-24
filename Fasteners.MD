@@ -19,8 +19,6 @@
   * [Bolts](#bolts)
 
 ___
-## Fasteners
-
 ### Screws
 
 ##### Q & A
@@ -450,6 +448,7 @@ ___
     </tbody>
 </table>
 
+___
 ### Anchors
 
 ##### Non-masonary
@@ -593,6 +592,7 @@ cheap
 	</tr>
 </tbody></table>
 
+___
 ### Nails
 
 #### Gauge
@@ -636,10 +636,12 @@ Gauge | Type
 Degree | Type
 -------|-----
 
+___
 ### Nuts
 * [Jam nut](http://www.boltscience.com/pages/twonuts.htm) = place between the surface and the regular nut; the regular nut goes on top; commonly mistakenly placed on top of the regular nut; see also [here](http://mysite.du.edu/~jcalvert/tech/jamnut.htm)
 * Nylon lock-nut = single use nut with a nylon insert; bolt threads dig into nylon and secure nut from loosening due to vibration and rattling
 
+___
 ### Washers
 
 ##### Q & A
@@ -653,6 +655,7 @@ Degree | Type
     * **Oversized hole** = if the hole that the bolt is being passed through is too large to properly fasten the object or the hole is larger than the bolt-head, a washer (or some other object) must be used to prevent the bolt head from slipping through into the hole
     * **Aesthetics** = finish washers are often used for tapared head screw (phillips head; oval head)
 
+___
 ### Bolts
 * [Bolt grades](https://www.boltdepot.com/fastener-information/Materials-and-Grades/Bolt-Grade-Chart.aspx)
 
