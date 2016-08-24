@@ -9,10 +9,10 @@
     * [Router](#router)
   * [Hand Tools](#hand-tools)
   
-## Tools
 
-### Power Tools
-##### Circular Saw
+___
+## Power Tools
+#### Circular Saw
 * Gear
   * Worm drive = driving gear rotation at right angle to blade rotation
   * Side winder = driving gear rotation parallel to blade rotation
@@ -37,13 +37,13 @@ Silicone Carbide | Metal; abrasive
 Aluminum Oxide | Metal; abrasive
 
 ___
-##### Table Saw
+#### Table Saw
 
 ___
-##### Miter Saw
+#### Miter Saw
 
 ___
-##### [Circular Saw Blades](http://www.lowes.com/projects/woodworking-and-crafts/circular-saw-blade-buying-guide/project)
+#### [Circular Saw Blades](http://www.lowes.com/projects/woodworking-and-crafts/circular-saw-blade-buying-guide/project)
 
 Teeth/Design | Material 
 -------------|---------
@@ -55,9 +55,8 @@ Teeth/Design | Material
 Material | Teeth/Design
 ---------|-------------
 
-
 ___
-##### Router
+#### Router
 * Types
   * Plunge = heavy duty; adjustable; can bore/drill
   * Fixed = heavy duty; adjustable (but cannot bore/drill); good for table routing
@@ -80,7 +79,15 @@ Collar | Holds the bit; different sizes for different sized shanks
 ![Bit profiles 2](https://www.pmcrouterbits.com/media//routertypes.jpg)
 
 ___
-##### Tool Table
+#### Nailers
+
+##### Cleaning
+* Cordless battery powered
+* 
+https://www.youtube.com/watch?v=PqIOKI02CB4&feature=youtu.be
+
+___
+## Tool Table
 
 Tool |  Use | Materials | Features | Accessories | Safety 
 -----|------|-----------|----------|-------------|-------
