@@ -606,6 +606,7 @@ ___
 ## Nails
 
 ### Hand Driven
+* [What are the different types of nails](http://www.ebay.com/gds/What-Are-the-Different-Types-of-Nails-/10000000177628299/g.html)
 
 Type | Purpose
 -----|--------
@@ -617,10 +618,9 @@ Roofing | Fasten shingles, roofing felt, or sheet metal to wood; treated to prev
 Masonary | Brick and other masonary; three types: round, square, and fluted
 Drywall | Drywall installation; often placed on exterior of drywall to prevent breakout; may be ringed; may have indented head
 
-[More](http://www.ebay.com/gds/What-Are-the-Different-Types-of-Nails-/10000000177628299/g.html)
-
 ### Nail Guns
 * Nail gun nails are generally classified by four features: gauge (diameter); head type; degree (angle of collation); collation type (coiled or stick)
+* [Nail guns nailers buying guide](http://www.homedepot.com/c/nail_guns_nailers_buying_guide_HT_BG_HA#types) | [More](http://www.lowes.com/projects/woodworking-and-crafts/nail-gun-buying-guide/project)
 
 Type | Gauge | Purpose
 -----|-------|--------
@@ -633,11 +633,11 @@ Pin | 23
 
 Type | Gauge | Diameter | Purpose
 -----|-------|----------|--------
+Framing | NA | 0.113-0.131" | Fixing studs and posts
 Finishing | 15-16 | 0.064-0.072" | Trim, baseboards
 Brad | 18 | 0.040" | Concealment (head or no head); Moulding, trim
 Pin | 23 |0.025" | Maximum concealment; beadings, moulding, baseboards, and casing
 
-[More](http://www.homedepot.com/c/nail_guns_nailers_buying_guide_HT_BG_HA#types)
 
 #### Head Type
 
@@ -650,14 +650,21 @@ Clipped head | A round head nail with a small missing section that has been "cli
 
 Type | Degree
 -----|-------
- | 15
- | 21
- | 30
+Framing, siding, roofing | 15
+Framing | 21
+Framing | 28
+Framing | 30
  
 #### Collation
 
 Type | Collation
 -----|----------
+
+#### Other Features
+
+Feature | Purpose
+--------|--------
+Jam Clearing | Tool-free or built-in features to clear jammed nails
 
 ___
 ## Nuts
