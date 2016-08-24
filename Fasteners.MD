@@ -34,6 +34,7 @@ ___
 * [Extract a broken/stripped screw](http://diy.stackexchange.com/questions/10451/how-to-remove-screws-with-stripped-heads) = [Rubber band](http://24.media.tumblr.com/tumblr_lr5mykGo3M1qzyj1lo1_250.jpg); [Extractor bit](https://gzunino.wordpress.com/2008/02/04/extracting-a-broken-screw/); Dremel new grooves; Hammer and chisel
 
 ##### Pilot Holes
+###### Wood
 * [Pilot hole size for wood screws](http://diy.stackexchange.com/questions/8800/when-pre-drilling-for-screws-how-do-you-determine-the-correct-bit-diameter#answer-8802)  | [More](http://engineershandbook.com/Tables/woodscrewpilotholes.htm)
 
 ![](http://i.stack.imgur.com/VOtay.png)
@@ -384,7 +385,7 @@ ___
                                       </tr>
                                     </tbody></table>
 
-
+###### Masonary
 * [Determine hole diameter for concrete screws](https://www.concretefasteners.com/diy-articles/tapcon-concrete-screws)  
 
 
