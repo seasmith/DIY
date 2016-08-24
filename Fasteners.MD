@@ -1,25 +1,33 @@
 # Fasteners
 
-* [**Fasteners**](#fasteners)
-  * [Screws](#screws)
-    * [Q & A](#q--a)
-    * [How-to](#how-to)
-    * [Pilot Holes](#pilot-holes)
-  * [Anchors](#anchors)
-    * [Non-masonary](#non-masonary)
-    * [Masonary](#masonary)
-  * [Nails](#nails)
-    * [Gauge](#gauge)
-    * [Head Type](#head-type)
-    * [Hand Driven](#hand-driven)
-    * [Nail guns](#nail-guns)
-  * [Nuts](#nuts)
-  * [Washers](#washers)
-    * [Q & A](#q--a-1)
-  * [Bolts](#bolts)
+## Table of Contents
+* [Screws](#screws)
+  * [Screw Types](#screw-types)
+  * [Q & A](#q--a)
+  * [How-to](#how-to)
+  * [Pilot Holes](#pilot-holes)
+* [Anchors](#anchors)
+  * [Non-masonary](#non-masonary)
+  * [Masonary](#masonary)
+* [Nails](#nails)
+  * [Gauge](#gauge)
+  * [Head Type](#head-type)
+  * [Hand Driven](#hand-driven)
+  * [Nail guns](#nail-guns)
+* [Nuts](#nuts)
+* [Washers](#washers)
+  * [Q & A](#q--a-1)
+* [Bolts](#bolts)
 
 ___
 ### Screws
+
+##### Screw Types
+
+Type | Description
+-----|------------
+Drywall | Usually 1 5/8" to 3" long; for holding sheetrock/drywall to studs (course threaded for wood; fine threaded for metal); special head design for mud to adhere to and prevent breakout; textured heads specially designed to hold mud
+Deck | Usually 1 5/8" to 3"; for fastening deckboards; either epoxy coated or stainless steel; epoxy coated heads are usually star or square drive (to prevent camming-out which xould strip the exoxy, expose bare metal to elements, and lead to rusting)
 
 ##### Q & A
 * [Q: Should I pre-drill holes in particle board for screw?](http://diy.stackexchange.com/questions/8469/do-i-need-to-pre-drill-holes-in-particle-board-for-screws)
