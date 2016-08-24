@@ -619,7 +619,7 @@ Masonary | Brick and other masonary; three types: round, square, and fluted
 Drywall | Drywall installation; often placed on exterior of drywall to prevent breakout; may be ringed; may have indented head
 
 ### Nail Guns
-* Nail gun nails are generally classified by four features: gauge (diameter); head type; degree (angle of collation); collation type (coiled or stick)
+* Nail gun nails are generally classified by four features: [gauge (diameter)](#gauge); [head type](#head-type); [degree (angle of collation)](#degree); [collation type (coiled or stick)](#collation). [Other features](#other-features) define easy of use.
 * [Nail guns nailers buying guide](http://www.homedepot.com/c/nail_guns_nailers_buying_guide_HT_BG_HA#types) | [More](http://www.lowes.com/projects/woodworking-and-crafts/nail-gun-buying-guide/project)
 
 Type | Gauge | Purpose
