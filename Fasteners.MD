@@ -10,10 +10,12 @@
   * [Non-masonary](#non-masonary)
   * [Masonary](#masonary)
 * [Nails](#nails)
-  * [Gauge](#gauge)
-  * [Head Type](#head-type)
-  * [Hand Driven](#hand-driven)
-  * [Nail guns](#nail-guns)
+  * [Nail Types](#nail-types)
+    * [Hand Driven](#hand-driven)
+    * [Nail guns](#nail-guns)
+  * [Nail Features](#nail-features)
+    * [Gauge](#gauge)
+    * [Head Type](#head-type)
 * [Nuts](#nuts)
 * [Washers](#washers)
   * [Q & A](#q--a-1)
@@ -24,10 +26,10 @@ ___
 
 ##### Screw Types
 
-Type | Description
------|------------
-Drywall | Usually 1 5/8" to 3" long; for holding sheetrock/drywall to studs (course threaded for wood; fine threaded for metal); special head design for mud to adhere to and prevent breakout; textured heads specially designed to hold mud
-Deck | Usually 1 5/8" to 3"; for fastening deckboards; either epoxy coated or stainless steel; epoxy coated heads are usually star or square drive (to prevent camming-out which xould strip the exoxy, expose bare metal to elements, and lead to rusting)
+Type | Length | Material | Head |Description
+-----|--------|---------|------|------------
+Drywall | 1 5/8 to 3" | Phosphate coating; helps mud adhere to screw | Phillips; some have textured heads for mud to adhere to | For holding sheetrock/drywall to studs (course threaded for wood; fine threaded for metal)
+Deck | 1 5/8" to 3" | Epoxy coating or stainless steel; prevents rusting | Star or square; to prevent camming-out (stripping) which can lead to exposed metal (rusting) | For fastening deckboards
 
 ##### Q & A
 * [Q: Should I pre-drill holes in particle board for screw?](http://diy.stackexchange.com/questions/8469/do-i-need-to-pre-drill-holes-in-particle-board-for-screws)
@@ -603,20 +605,7 @@ cheap
 ___
 ### Nails
 
-#### Gauge
-
-Type | Gauge | Diameter | Purpose
------|-------|----------|--------
-Finishing | 15-16 | 0.064-0.072" | Trim, baseboards
-Brad | 18 | 0.040" | Concealment (head or no head); Moulding, trim
-Pin | 23 |0.025" | Maximum concealment; beadings, moulding, baseboards, and casing
-
-#### Head Type
-
-Type | Description
------|------------
-Round head | Full circular head; required by code in many cases
-Clipped head | A round head nail with a small missing section that has been "clipped"; clipped to create greater density of nails in a package
+#### Nail Types
 
 #### Hand Driven
 
@@ -633,6 +622,7 @@ Drywall | Drywall installation; often placed on exterior of drywall to prevent b
 [More](http://www.ebay.com/gds/What-Are-the-Different-Types-of-Nails-/10000000177628299/g.html)
 
 #### Nail Guns
+* Nail gun nails are generally classified by three features: gauge (diameter); degree (angle of collation); collation type (coiled or stick)
 
 Gauge | Type
 ------|--------
@@ -643,6 +633,27 @@ Gauge | Type
 
 Degree | Type
 -------|-----
+15 |
+21 |
+30 |
+
+#### Nail Features
+
+##### Gauge
+
+Type | Gauge | Diameter | Purpose
+-----|-------|----------|--------
+Finishing | 15-16 | 0.064-0.072" | Trim, baseboards
+Brad | 18 | 0.040" | Concealment (head or no head); Moulding, trim
+Pin | 23 |0.025" | Maximum concealment; beadings, moulding, baseboards, and casing
+
+##### Head Type
+
+Type | Description
+-----|------------
+Round head | Full circular head; required by code in many cases
+Clipped head | A round head nail with a small missing section that has been "clipped"; clipped to create greater density of nails in a package
+
 
 ___
 ### Nuts
