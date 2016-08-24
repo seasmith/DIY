@@ -642,11 +642,11 @@ Pin | 23 |0.025" | Maximum concealment; beadings, moulding, baseboards, and casi
 #### Head Type
 * [Clipped-Head vs Round-Head Nail Gun](http://www.ehow.com/about_6297439_clipped_head-vs_-round_head-nail-gun.html)
 
-Type | Description
------|------------
-Full head | Full circular head; required by code in many cases; greater holding power and overdriving prevention than clipped
-Clipped head | A round head nail with a small missing section that has been "clipped"; clipped to create greater density of nails in a package; cheaper than full head
-Offset Head | Full circular head in which the center of the head does not align with the center diameter of the nail shaft; fired from a clipped-head nailer
+Type | Description | Picture
+-----|-------------|--------
+Full head | Full circular head; required by code in many cases; greater holding power and overdriving prevention than clipped |
+Clipped head | A round head nail with a small missing section that has been "clipped"; clipped to create greater density of nails in a package; cheaper than full head |
+Offset Head | Full circular head in which the center of the head does not align with the center diameter of the nail shaft; fired from a clipped-head nailer |
 
 #### Degree
 
