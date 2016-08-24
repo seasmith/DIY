@@ -16,9 +16,9 @@ ___
 
 Tool |  Use | Materials | Features | Accessories | Safety 
 -----|------|-----------|----------|-------------|-------
-Circular Saw | Rip/cross cuts | Wood; Masonry; Steel | Bevel; Fence guide | Cross-cut guide | Guard
-Router | Grooves/Joints | Wood | Fixed/Plunging base; variable speed | Table mount; Saw dust bag; Guides |  
-Trim Router | Grooves/Joints | Wood | Tight spaces | | Big bits will overheat and burn wood
+[Circular Saw](#circular-saw) | Rip/cross cuts | Wood; Masonry; Steel | Bevel; Fence guide | Cross-cut guide | Guard
+[Router](#router) | Grooves/Joints | Wood | Fixed/Plunging base; variable speed | Table mount; Saw dust bag; Guides |  
+[Trim Router](#router) | Grooves/Joints | Wood | Tight spaces | | Big bits will overheat and burn wood
 
 #### Circular Saw
 * Gear
@@ -88,6 +88,7 @@ Collar | Holds the bit; different sizes for different sized shanks
 
 ___
 #### Nailer
+* [Paslode tech support](http://www.paslode.com/tech-support/)
 
 ##### Cleaning
 * [Cordless battery powered](https://www.youtube.com/watch?v=PqIOKI02CB4&feature=youtu.be) | [More](https://www.youtube.com/watch?v=g2DNLmP30FI&feature=youtu.be) | [More](https://www.youtube.com/watch?v=C5AfbU9vI88)
