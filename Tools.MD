@@ -65,11 +65,13 @@ Material | Teeth/Design
 
 Teeth Count | Cut Type
 ------|---------
-32 | Ripping
-40 | Ripping/Crosscutting
-60 | Crosscutting
-80 | Trim
-120+ | Plywood
+**18** <br> <img src="http://www.homedepot.com/catalog/productImages/400/3b/3baaa48a-8c4a-4e45-8c1d-6a242f8f7f52_400.jpg" width="300">  | Ripping (very rough)
+**24** <br> <img src="http://itslondon.s3.amazonaws.com/p/xl/PRO26032.jpg" width="300"> | Ripping (rough)
+**32** <br> <img src="http://i.ebayimg.com/images/i/281922268357-0-1/s-l1000.jpg" width="300"> | Ripping/Crosscutting (fine)
+**40** <img src="https://tse2.mm.bing.net/th?id=OIP.Me4ef16a296c47dc6c675bdf549ff7ce7o0&pid=15.1" width="300"> | Ripping/Crosscutting (fine)
+60 | Crosscutting (very fine)
+80 | Trim (smooth)
+120+ | Plywood (very smooth)
 
 
 ___
