@@ -9,6 +9,7 @@
     * [Non-masonary](#non-masonary)
     * [Masonary](#masonary)
   * [Nails](#nails)
+    * [Nail guns](#nail-guns)
   * [Nuts](#nuts)
   * [Washers](#washers)
     * [Q & A](#q--a-1)
@@ -589,6 +590,35 @@ cheap
 </tbody></table>
 
 ### Nails
+
+#### Overview
+
+##### Gauge
+
+Type | Gauge | Diameter | Purpose
+-----|-------|----------|--------
+Finishing | 15-16 | 0.064-0.072" | Trim, baseboards
+Brad | 18 | 0.040" | Concealment (head or no head); Moulding, trim
+Pin | 23 |0.025" | Maximum concealment; beadings, moulding, baseboards, and casing
+
+##### Head Type
+
+Type | Description
+-----|------------
+Round head | Full circular head; required by code in many cases
+Clipped head | A round head nail with a small missing section that has been "clipped"; clipped to create greater density of nails in a package
+
+#### Nail Guns
+
+Gauge | Type
+------|--------
+15 | Finishing
+16 | Finishing
+18 | Brad
+23 | Pin
+
+Degree | Type
+-------|-----
 
 ### Nuts
 * [Jam nut](http://www.boltscience.com/pages/twonuts.htm) = place between the surface and the regular nut; the regular nut goes on top; commonly mistakenly placed on top of the regular nut; see also [here](http://mysite.du.edu/~jcalvert/tech/jamnut.htm)
