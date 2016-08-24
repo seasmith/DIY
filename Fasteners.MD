@@ -641,6 +641,7 @@ Pin | 23 |0.025" | Maximum concealment; beadings, moulding, baseboards, and casi
 
 #### Head Type
 * [Clipped-Head vs Round-Head Nail Gun](http://www.ehow.com/about_6297439_clipped_head-vs_-round_head-nail-gun.html)
+* [Source image below](http://www.framingnailerhub.com/wp-content/uploads/2014/08/clipped-head-vs-round-head.png)
 
 Type | Description | Picture
 -----|-------------|--------
