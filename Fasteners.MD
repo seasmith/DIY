@@ -643,8 +643,9 @@ Pin | 23 |0.025" | Maximum concealment; beadings, moulding, baseboards, and casi
 
 Type | Description
 -----|------------
-Round head | Full circular head; required by code in many cases
+Full head | Full circular head; required by code in many cases
 Clipped head | A round head nail with a small missing section that has been "clipped"; clipped to create greater density of nails in a package
+Offset Head | Full circular head in which the center of the head does not align with the center diameter of the nail shaft
 
 #### Degree
 
