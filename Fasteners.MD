@@ -9,6 +9,9 @@
     * [Non-masonary](#non-masonary)
     * [Masonary](#masonary)
   * [Nails](#nails)
+    * [Gauge](#gauge)
+    * [Head Type](#head-type)
+    * [Hand Driven](#hand-driven)
     * [Nail guns](#nail-guns)
   * [Nuts](#nuts)
   * [Washers](#washers)
@@ -591,9 +594,7 @@ cheap
 
 ### Nails
 
-#### Overview
-
-##### Gauge
+#### Gauge
 
 Type | Gauge | Diameter | Purpose
 -----|-------|----------|--------
@@ -601,12 +602,26 @@ Finishing | 15-16 | 0.064-0.072" | Trim, baseboards
 Brad | 18 | 0.040" | Concealment (head or no head); Moulding, trim
 Pin | 23 |0.025" | Maximum concealment; beadings, moulding, baseboards, and casing
 
-##### Head Type
+#### Head Type
 
 Type | Description
 -----|------------
 Round head | Full circular head; required by code in many cases
 Clipped head | A round head nail with a small missing section that has been "clipped"; clipped to create greater density of nails in a package
+
+#### Hand Driven
+
+Type | Purpose
+-----|--------
+Common | Construction; galvanized can be used outdoors
+Box | Light construction; household use; lighter and smaller than common
+Casing | Light work with fine appearance
+Finishing | Fastening with discreet appearance; has head and regularly requires filling/painting for satisfactory concealment
+Roofing | Fasten shingles, roofing felt, or sheet metal to wood; treated to prevent rusting; may contain a metal or plastic washer
+Masonary | Brick and other masonary; three types: round, square, and fluted
+Drywall | Drywall installation; often placed on exterior of drywall to prevent breakout; may be ringed; may have indented head
+
+[More](http://www.ebay.com/gds/What-Are-the-Different-Types-of-Nails-/10000000177628299/g.html)
 
 #### Nail Guns
 
