@@ -88,10 +88,16 @@ Collar | Holds the bit; different sizes for different sized shanks
 
 ___
 #### Nailer
+* [Framing Nailer Hub](http://www.framingnailerhub.com/)
 * [Paslode tech support](http://www.paslode.com/tech-support/)
+* [Different Types of Nail Guns](http://www.framingnailerhub.com/different-types-of-nail-guns/)
+* [Which type of nailer do you need for the job?](https://dengarden.com/home-improvement/which-type-of-nailer-do-you-need)
 
 ##### Cleaning
 * [Cordless battery powered](https://www.youtube.com/watch?v=PqIOKI02CB4&feature=youtu.be) | [More](https://www.youtube.com/watch?v=g2DNLmP30FI&feature=youtu.be) | [More](https://www.youtube.com/watch?v=C5AfbU9vI88)
+
+##### Nailer Nails
+* See: [Fasteners#nail-guns](Fasteners.MD#nail-guns)
 
 ___
 ___
