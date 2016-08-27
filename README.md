@@ -6,20 +6,20 @@ Use the [Topic Quick Links](#topic-quick-links) below to navigate the various DI
 
 ##### Topic Quick Links
 
-[Fasteners](Fasteners.MD) | [Tools](Tools.MD) 
---------------------------|------------------
+[Fasteners](Topics/Fasteners.MD) | [Tools](Topics/Tools.MD) 
+---------------------------------|-------------------------
 
-[Woodworking](Woodworking.MD) | [Drawers and Cabinets](Drawers and Cabinets.MD) | [Flooring](Flooring.MD)
-------------------------------|-------------------------------------------------|------------------------
+[Woodworking](Topics/Woodworking.MD) | [Drawers and Cabinets](Topics/Drawers and Cabinets.MD) | [Flooring](Topics/Flooring.MD)
+-------------------------------------|--------------------------------------------------------|-------------------------------
 
-[Doors](Doors.MD) | [Interior Walls](Interior Walls.MD) | [Exterior Walls](Exterior Walls.MD)
-------------------|-------------------------------------|------------------------------------
+[Doors](Topics/Doors.MD) | [Interior Walls](Topics/Interior Walls.MD) | [Exterior Walls](Topics/Exterior Walls.MD)
+-------------------------|--------------------------------------------|-------------------------------------------
 
-[Plumbing](Plumbing.MD) | [Electrical](Electrical.MD) | [Climate Control](Climate Control.MD)
-------------------------|-----------------------------|--------------------------------------
+[Plumbing](Topics/Plumbing.MD) | [Electrical](Topics/Electrical.MD) | [Climate Control](Topics/Climate Control.MD)
+-------------------------------|------------------------------------|---------------------------------------------
 
-[Cleaning](Cleaning.MD) | [Adhesives, Resins, and Sealants](Adhesives Resins and Sealants.MD) | [Cars](Cars.MD)
-------------------------|---------------------------------------------------------------------|----------------
+[Cleaning](Topics/Cleaning.MD) | [Adhesives, Resins, and Sealants](Topics/Adhesives Resins and Sealants.MD) | [Cars](Topics/Cars.MD)
+-------------------------------|----------------------------------------------------------------------------|-----------------------
 
 ___
 
