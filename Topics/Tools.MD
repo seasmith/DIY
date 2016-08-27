@@ -108,7 +108,7 @@ ___
 * [Cordless battery powered](https://www.youtube.com/watch?v=PqIOKI02CB4&feature=youtu.be) | [More](https://www.youtube.com/watch?v=g2DNLmP30FI&feature=youtu.be) | [More](https://www.youtube.com/watch?v=C5AfbU9vI88)
 
 ##### Nailer Nails
-* See: [Fasteners#nail-guns](Topics/Fasteners.MD#nail-guns)
+* See: [Fasteners#nail-guns](Fasteners.MD#nail-guns)
 
 ___
 ___
