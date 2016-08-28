@@ -21,6 +21,11 @@
   * [Q & A](#q--a-1)
 * [Bolts](#bolts)
 
+http://sizes.com/tools/nails.htm  
+http://www.uvm.edu/~histpres/203/nails.html  
+http://www.digitalpresence.com/histarch/nails.html  
+
+
 ___
 ## Screws
 
