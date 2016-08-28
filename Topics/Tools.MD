@@ -1,15 +1,14 @@
 # Tools
 
-* [**Tools**](#tools)
-  * [Power Tools](#power-tools)
-    * [Circular Saw](#circular-saw)
-    * [Table Saw](#table-saw)
-    * [Miter Saw](#miter-saw)
-    * [Circular Saw Blades](#circular-saw-blades)
-    * [Router](#router)
-    * [Nailer](#nailer)
-  * [Hand Tools](#hand-tools)
-  
+* [Power Tools](#power-tools)
+  * [Circular Saw](#circular-saw)
+  * [Table Saw](#table-saw)
+  * [Miter Saw](#miter-saw)
+  * [Circular Saw Blades](#circular-saw-blades)
+  * [Router](#router)
+  * [Nailer](#nailer)
+* [Hand Tools](#hand-tools)
+  * [Measurement](#measurement)
 
 ___
 ## Power Tools
@@ -68,10 +67,10 @@ Teeth Count | Cut Type
 **18** <br> <img src="http://www.homedepot.com/catalog/productImages/400/3b/3baaa48a-8c4a-4e45-8c1d-6a242f8f7f52_400.jpg" width="300">  | Ripping (very rough)
 **24** <br> <img src="http://itslondon.s3.amazonaws.com/p/xl/PRO26032.jpg" width="300"> | Ripping (rough)
 **32** <br> <img src="http://i.ebayimg.com/images/i/281922268357-0-1/s-l1000.jpg" width="300"> | Ripping/Crosscutting (fine)
-**40** <img src="https://tse2.mm.bing.net/th?id=OIP.Me4ef16a296c47dc6c675bdf549ff7ce7o0&pid=15.1" width="300"> | Ripping/Crosscutting (fine)
-60 | Crosscutting (very fine)
-80 | Trim (smooth)
-120+ | Plywood (very smooth)
+**40** <br> <img src="https://tse2.mm.bing.net/th?id=OIP.Me4ef16a296c47dc6c675bdf549ff7ce7o0&pid=15.1" width="300"> | Ripping/Crosscutting (fine)
+**60** | Crosscutting (very fine)
+**80** | Trim (smooth)
+**120+** | Plywood (very smooth)
 
 
 ___
@@ -123,3 +122,9 @@ Nail Setter | Spring and hammer driven
 [brad.pusher.1]: https://www.youtube.com/watch?v=nJORdI7LJTE "Brad Pusher"
 [seat.wrench.1]: http://homeguides.sfgate.com/use-plumbing-seat-wrench-29228.html "Seat Wrench"
 [seat.wrench.2]: https://www.youtube.com/watch?v=qF_4BGZLP1E "Seat Wrench"
+
+### Measurement
+
+Tool | Description | Picture
+-----|-------------|--------
+`Torpedo Level` | For checking vertical (plumb), horizontal (level), and diagonal (45°) angles. | <img src="http://i.ebayimg.com/00/$T2eC16RHJIIE9qTYKC6EBRY0lfSVPg~~_35.JPG" width="300">
