@@ -414,7 +414,7 @@ Deck | 1 5/8" to 3" | Epoxy coating or stainless steel; prevents rusting | Star 
         </tr>
         <tr>
             <td valign="top" style="width: 295px;" class="chart-cell-lc">
-            <p style="text-align: center;"><strong>3/16”</strong></p>
+            <p style="text-align: center;"><strong>3/16” (~#10)</strong></p>
             </td>
             <td valign="top" style="width: 295px;" class="chart-cell-lc">
             <p style="text-align: center;"><strong>5/32”</strong></p>
@@ -422,7 +422,7 @@ Deck | 1 5/8" to 3" | Epoxy coating or stainless steel; prevents rusting | Star 
         </tr>
         <tr>
             <td valign="top" style="width: 295px;" class="chart-cell-lc">
-            <p style="text-align: center;"><strong>1/4”</strong></p>
+            <p style="text-align: center;"><strong>1/4” (~#14)</strong></p>
             </td>
             <td valign="top" style="width: 295px;" class="chart-cell-lc">
             <p style="text-align: center;"><strong>3/16”</strong></p>
