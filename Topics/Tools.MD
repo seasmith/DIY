@@ -9,6 +9,7 @@
   * [Nailer](#nailer)
 * [Hand Tools](#hand-tools)
   * [Measurement](#measurement)
+  * [Electrical](#electrical)
 
 ___
 ## Power Tools
