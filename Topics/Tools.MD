@@ -69,7 +69,7 @@ Teeth Count | Cut Type
 **32** <br> <img src="http://i.ebayimg.com/images/i/281922268357-0-1/s-l1000.jpg" width="300"> | Ripping/Crosscutting (fine)
 **40** <br> <img src="https://tse2.mm.bing.net/th?id=OIP.Me4ef16a296c47dc6c675bdf549ff7ce7o0&pid=15.1" width="300"> | Ripping/Crosscutting (fine)
 **60** | Crosscutting (very fine)
-**80** | Trim (smooth)
+**80** | Trim/miter (smooth)
 **120+** | Plywood (very smooth)
 
 
@@ -128,3 +128,9 @@ Nail Setter | Spring and hammer driven
 Tool | Description | Picture
 -----|-------------|--------
 `Torpedo Level` | For checking vertical (plumb), horizontal (level), and diagonal (45°) angles. | <img src="http://i.ebayimg.com/00/$T2eC16RHJIIE9qTYKC6EBRY0lfSVPg~~_35.JPG" width="300">
+
+### Electircal
+
+Tool | Description | Picture
+-----|-------------|--------
+`Cable Ripper` | Splits NM-B (non-metallic sheathed Romex) jackets. [More](http://www.southwiretools.com/tools/tools.thumb.do?tool_images_id=354) | <img src="http://www.southwiretools.com/tools/tools.thumb.do?tool_images_id=354" width="300">
