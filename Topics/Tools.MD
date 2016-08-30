@@ -129,7 +129,7 @@ Nail Setter | Spring and hammer driven
 Tool | Description | Picture
 -----|-------------|--------
 `Torpedo Level` | For checking vertical (plumb), horizontal (level), and diagonal (45°) angles. | <img src="http://i.ebayimg.com/00/$T2eC16RHJIIE9qTYKC6EBRY0lfSVPg~~_35.JPG" width="300">
-`Shingle Gauge` | Measures shingle thickness and estimates the waranty (lifetime) of the shingle; designed for specific type and manufactured year of shingles; also known as a Haag gauge | <img src="http://haagglobal.com/am-site/media/112-shingle-gaugeproduct-photo.jpg" width="300">
+`Shingle Gauge` | Measures shingle thickness and estimates the waranty (lifetime) of the shingle; designed for specific type and manufactured date-range of a shingle; also known as a Haag gauge | <img src="http://haagglobal.com/am-site/media/112-shingle-gaugeproduct-photo.jpg" width="300">
 
 ### Electircal
 
