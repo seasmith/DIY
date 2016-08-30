@@ -69,9 +69,9 @@ Teeth Count | Cut Type
 **24** <br> <img src="http://itslondon.s3.amazonaws.com/p/xl/PRO26032.jpg" width="300"> | Ripping (rough)
 **32** <br> <img src="http://i.ebayimg.com/images/i/281922268357-0-1/s-l1000.jpg" width="300"> | Ripping/Crosscutting (fine)
 **40** <br> <img src="https://tse2.mm.bing.net/th?id=OIP.Me4ef16a296c47dc6c675bdf549ff7ce7o0&pid=15.1" width="300"> | Ripping/Crosscutting (fine)
-**60** | Crosscutting (very fine)
-**80** | Trim/miter (smooth)
-**120+** | Plywood (very smooth)
+**60** <br> <img src="http://cf-t.com/wp-content/uploads/DW3106.jpg" width="300"> | Crosscutting (very fine)
+**80** <br> <img src="http://i.ebayimg.com/images/g/DRMAAOSwNSxVBGQJ/s-l300.jpg" width="300"> | Trim/miter (smooth)
+**120+** <br> <img src="http://i.ebayimg.com/00/s/NDgzWDUwMA==/z/ScEAAOSwgQ9V6Z2X/$_35.JPG" width="300"> | Plywood (very smooth)
 
 
 ___
