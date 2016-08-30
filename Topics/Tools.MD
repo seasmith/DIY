@@ -6,6 +6,7 @@
   * [Miter Saw](#miter-saw)
   * [Circular Saw Blades](#circular-saw-blades)
   * [Router](#router)
+  * [Dremel](#dremel)
   * [Nailer](#nailer)
 * [Hand Tools](#hand-tools)
   * [Measurement](#measurement)
@@ -93,6 +94,16 @@ Collar | Holds the bit; different sizes for different sized shanks
 ![Bit profiles](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Router_bit_profiles_en.svg/191px-Router_bit_profiles_en.svg.png)
 
 ![Bit profiles 2](https://www.pmcrouterbits.com/media//routertypes.jpg)
+
+___
+#### Dremel
+
+Part | Description | Picture
+-----|-------------|--------
+Chuck | Radial clamp for holding shanks of collets, bits, or mandrels. | <img src="http://mdm.boschwebservices.com/files/Dremel%20Rotary%20Tool%20Accessory%204486%20(EN)%20r19835v15.jpg" width="200"> 
+Collet | Holds the shank of a bit or mandrel; a subtype of chuck; forms the "collar" for the bit or mandrel. | <img src="http://mdm.boschwebservices.com/files/Dremel%20Rotary%20Tool%20Accessory%20481%20(EN)%20r19832v15.jpg" width="200">
+Mandrel | Shank with a tool-holding head; fits into the collete. | <img src="http://mdm.boschwebservices.com/files/Dremel%20EZ%20Lock%20Mandrel%20EZ402,%20EZ686-01,%20SC402%20(EN)%20r21752v15.jpg" width="200>
+Blower | Fixed fan attached in-line with the mandrel. | <img src="http://mdm.boschwebservices.com/files/Dremel%20Dust%20Blower%20490-hero%20(EN)%20r46920v15.jpg" width="200">
 
 ___
 #### Nailer
