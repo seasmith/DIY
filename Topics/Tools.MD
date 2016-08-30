@@ -60,9 +60,6 @@ Teeth Design | Material
 **Diamond Continuous Unserrated/Unsegmented** <br> <img src="http://mobileimages.lowes.com/product/converted/644215/644215300397.jpg" width="300"> | Tile
 **Abrasive** <br> <img src="http://www.lowes.com/projects/images/buying-guides/Tools/circular-saw-blade-buying-guide-abrasive.jpg" width="300"> | Brick <br> Block <br> Metal <br> Vinyl (possibly)
 
-Material | Teeth/Design
----------|-------------
-
 Teeth Count | Cut Type
 ------|---------
 **18** <br> <img src="http://www.homedepot.com/catalog/productImages/400/3b/3baaa48a-8c4a-4e45-8c1d-6a242f8f7f52_400.jpg" width="300">  | Ripping (very rough)
