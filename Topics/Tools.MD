@@ -21,6 +21,7 @@ Tool |  Use | Materials | Features | Accessories | Safety
 [Router](#router) | Grooves/Joints | Wood | Fixed/Plunging base; variable speed | Table mount; Saw dust bag; Guides |  
 [Trim Router](#router) | Grooves/Joints | Wood | Tight spaces | | Big bits will overheat and burn wood
 
+___
 #### Circular Saw
 * Gear
   * Worm drive = driving gear rotation at right angle to blade rotation
@@ -119,6 +120,7 @@ ___
 * See: [Fasteners#nail-guns](Fasteners.MD#nail-guns)
 
 ___
+===
 ___
 ## Hand Tools
 
