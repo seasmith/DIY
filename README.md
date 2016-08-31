@@ -18,8 +18,11 @@ Use the [Topic Quick Links](#topic-quick-links) below to navigate the various DI
 [Plumbing](Topics/Plumbing.MD) | [Electrical](Topics/Electrical.MD) | [Climate Control](Topics/Climate Control.MD)
 -------------------------------|------------------------------------|---------------------------------------------
 
-[Cleaning](Topics/Cleaning.MD) | [Adhesives, Resins, and Sealants](Topics/Adhesives Resins and Sealants.MD) | [Cars](Topics/Cars.MD)
--------------------------------|----------------------------------------------------------------------------|-----------------------
+[Adhesives, Resins, and Sealants](Topics/Adhesives Resins and Sealants.MD) | [Paint](Topics.MD)
+---------------------------------------------------------------------------|-------------------
+
+[Cleaning](Topics/Cleaning.MD)  | [Cars](Topics/Cars.MD)
+--------------------------------|-----------------------
 
 ___
 
