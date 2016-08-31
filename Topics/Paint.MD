@@ -12,4 +12,4 @@ Japan Drier | |
 Denatured Alcohol | |
 Boiled Linseed Oil | |
 Xlol Xylene | |
-MEK | Methyl Ethyl Keton |
+MEK | Methyl Ethyl Ketone |
