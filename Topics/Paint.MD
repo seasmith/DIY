@@ -7,7 +7,7 @@
 
 Chemical | Description | Use
 ---------|-------------|----
-Acetone |  | • Thinner and remover for: polyester and epoxy resin, ink, adhesive, and contact cement. <br> • Thins and cleans fiberglass resins. <br> • Cleans up dried paint, uncured lacquers, and label adhesives.
+Acetone |  | • Thins and removes: polyester and epoxy resin, ink, adhesive, and contact cement. <br> • Thins and cleans fiberglass resins. <br> • Cleans up dried paint, uncured lacquers, and label adhesives.
 Japan Drier | |
 Denatured Alcohol | |
 Boiled Linseed Oil | |
