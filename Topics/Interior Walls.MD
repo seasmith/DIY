@@ -1,8 +1,8 @@
 # Interior Walls
 
 ## Table of Contents
-* [Interior Walls](#interior-walls)
-  * [Drywall](#drywall)
+* [Drywall](#drywall)
+* [Tile](#tile)
 
 ## Drywall
 * [Why use drywall tape on butt joints?](http://diy.stackexchange.com/questions/8281/what-is-the-purpose-of-tape-when-taping-and-mudding-drywall#answer-8283) | Prevent grounding of drywall mud into powder
