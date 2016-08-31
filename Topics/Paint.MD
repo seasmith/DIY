@@ -1,8 +1,17 @@
 # Paint
 
 ## Table of Contents
+* [Speciality Paint](#speciality-paint)
 * [Solvents and Thinners](#solvents-and-thinners)
 
+___
+## Speciality Paint
+
+Type | Use
+-----|----
+Mirror Finish Spray | <ul><li>Transforms glass and acrylic glass into a reflective mirror-like surface.</li><li>For added protection and enhanced reflectivity, add a thin or thick coat of ultra cover 2x matte clear or flat black to the painted side.</li></ul>
+
+___
 ## Solvents and Thinners
 
 Chemical | Description | Use
