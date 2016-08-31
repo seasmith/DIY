@@ -146,4 +146,4 @@ Tool | Description | Picture
 
 Tool | Description | Picture
 -----|-------------|--------
-`Cable Ripper` | Splits NM-B (non-metallic sheathed Romex) jackets. [More](http://www.southwiretools.com/tools/tools.thumb.do?tool_images_id=354) | <img src="http://www.southwiretools.com/tools/tools.thumb.do?tool_images_id=354" width="300">
+`Cable Ripper` | Splits NM-B (non-metallic sheathed Romex) jackets. [More](http://www.southwiretools.com/tools/tools.thumb.do?tool_images_id=354) | <img src="http://www.insidespaces.org/dictionary/tool-pictures/cable-ripper.JPG" width="300">
