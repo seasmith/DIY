@@ -138,6 +138,7 @@ Nail Setter | Spring and hammer driven
 
 Tool | Description | Picture
 -----|-------------|--------
+`Combination Square` | Metal ruler (12-16") with a sliding headpiece set at 90° and 45° to the ruler.<br>Can be used to:<ul><li>Make long (straight lines)</li><li>Quickly making straight lines on a long board</li><li>Checking/setting height of table saw/router blade/bit.</li></ul> | <img src="http://s3.amazonaws.com/bvsystem_tmp/pages/1326/original/Northern%20Tool%20combination%20square%20bob%20vila%20toolsSnapshot%202011-08-28%2023-45-14.jpg" width="300">
 `Torpedo Level` | For checking vertical (plumb), horizontal (level), and diagonal (45°) angles. | <img src="http://i.ebayimg.com/00/$T2eC16RHJIIE9qTYKC6EBRY0lfSVPg~~_35.JPG" width="300">
 `Shingle Gauge` | Measures shingle thickness and estimates the waranty (lifetime) of the shingle; designed for specific type and manufactured date-range of a shingle; also known as a Haag gauge | <img src="http://haagglobal.com/am-site/media/112-shingle-gaugeproduct-photo.jpg" width="300">
 
