@@ -10,6 +10,7 @@ ___
 Type | Use
 -----|----
 Mirror Finish Spray | <ul><li>Transforms glass and acrylic glass into a reflective mirror-like surface.</li><li>For added protection and enhanced reflectivity, add a thin or thick coat of ultra cover 2x matte clear or flat black to the painted side.</li></ul>
+Enamel | A top-coating to prevent damage from rust, corrosion, tarnishing, and chipping. Can be clear, white, black, and other colors.
 
 ___
 ## Solvents and Thinners
