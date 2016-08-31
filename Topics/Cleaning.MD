@@ -25,7 +25,7 @@ ___
 
 Type | Process | Instructions
 -----|---------|-------------
-Marble | Polishing [[1]](http://www.ehow.com/how_4733276_sand-marble.html) | <ul><li>Use wet sanding.</li><li>Starting grit:</li><ul><li>220 (or less) = irregularities</li><li>400 = small blemishes</li><li>600 = if no blemishes</li></ul><li>Progress upwards toward 1600 or 2000, skipping grits if needed based on looks.</li><li>Apply marble sealer to the sanded area with a rag.</li><li>Clean-up excess with a clean, white cloth.</li></ul>
+Marble | Polishing [[1]](http://www.ehow.com/how_4733276_sand-marble.html) [[2]](http://diy.stackexchange.com/questions/23334/how-do-i-know-when-to-switch-to-a-finer-grit-when-polishing-marble) | <ul><li>Use wet sanding.</li><li>Starting grit:</li><ul><li>220 (or less) = irregularities</li><li>400 = small blemishes</li><li>600 = if no blemishes</li></ul><li>Progress upwards toward 1600 or 2000, skipping grits if needed based on looks.</li><li>Apply marble sealer to the sanded area with a rag.</li><li>Clean-up excess with a clean, white cloth.</li></ul>
 
 ___
 ## [Concrete](http://www.lowes.com/projects/repair-and-maintain/remove-stains-from-concrete/project)
