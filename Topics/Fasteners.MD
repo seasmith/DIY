@@ -33,8 +33,15 @@ ___
 
 Type | Length | Material | Head |Description
 -----|--------|---------|------|------------
-Drywall | 1 5/8 to 3" | Phosphate coating; helps mud adhere to screw | Phillips; some have textured heads for mud to adhere to | For holding sheetrock/drywall to studs (course threaded for wood; fine threaded for metal)
-Deck | 1 5/8" to 3" | Epoxy coating or stainless steel; prevents rusting | Star or square; to prevent camming-out (stripping) which can lead to exposed metal (rusting) | For fastening deckboards
+Drywall | 1 5/8 to 3" | Phosphate coating (helps mud adhere to screw) | Phillips; some have textured heads for mud to adhere to | For holding sheetrock/drywall to studs (course threaded for wood; fine threaded for metal)
+Deck | 1 5/8" to 3" | Epoxy coating or stainless steel (prevents rusting) | Star or square; to prevent camming-out (stripping) which can lead to exposed metal (rusting) | For fastening deckboards
+
+Common Application | Screw Type
+-------------------|-----------
+Cabinet knobs and handles | 8-32
+Electrical outlet | 6-32
+Switch plate |
+Ceiling fan mount |
 
 #### Q & A
 * [Q: Should I pre-drill holes in particle board for screw?](http://diy.stackexchange.com/questions/8469/do-i-need-to-pre-drill-holes-in-particle-board-for-screws)
