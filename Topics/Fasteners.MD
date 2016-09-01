@@ -72,7 +72,9 @@ Torx/Star | This screw drive looks like a six-pointed asterisk and prevents the 
 ### Pilot Holes
 * [Pilot hole size for wood screws](http://diy.stackexchange.com/questions/8800/when-pre-drilling-for-screws-how-do-you-determine-the-correct-bit-diameter#answer-8802)  | [More](http://engineershandbook.com/Tables/woodscrewpilotholes.htm)
 
-**Wood Screw Diameter**
+#### Wood Screws
+
+##### Pilot Holes Size
 
 Screw Size | Hard Wood | Soft Wood | Countersink Size
 -----------|-----------|-----------|-----------------
@@ -92,7 +94,7 @@ Screw Size | Hard Wood | Soft Wood | Countersink Size
 20 | 15/64 | 7/32 | 3/4
 24 | 17/64 | 1/4 | 3/4
 
-**Wood Screw Diameter**
+##### Diameter
 
 Size Number | Decimal | Nearest Fraction
 ------------|---------|-----------------
@@ -115,416 +117,40 @@ Size Number | Decimal | Nearest Fraction
 20 | .320 | 5/16
 
 
-<table border="0" cellpadding="5" width="500" bgcolor="#000000" align="center" cellspacing="1">
-                                      <tbody><tr bgcolor="#000066"> 
-                                        <th scope="col" colspan="5" height="54"><b><font size="4" face="Verdana, Arial, Helvetica, sans-serif" color="#FFFF00">Wood 
-                                          Screw Pilot Hole Sizes</font></b></th>
-                                      </tr>
-                                      </tbody><colgroup><col span="5" align="center" valign="top"> 
-                                      </colgroup><tbody><tr bgcolor="#CCCC99"> 
-                                        <th scope="col"> 
-                                          <div align="center">Screw<br>
-                                            Size</div>
-                                        </th>
-                                        <th scope="col"> 
-                                          <div align="center">Body Dia.</div>
-                                        </th>
-                                        <th scope="col"> 
-                                          <div align="center">Shank<br>
-                                            Pilot Hole*</div>
-                                        </th>
-                                        <th scope="col"> 
-                                          <div align="center">Pilot Hole<br>
-                                            in Softwood</div>
-                                        </th>
-                                        <th scope="col"> 
-                                          <div align="center">Pilot Hole<br>
-                                            in Hardwood</div>
-                                        </th>
-                                      </tr>
-                                      <tr bgcolor="#FFFFFF"> 
-                                        <td> 
-                                          <div align="center"><font size="2"><b>0</b></font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">0.060</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">1/16</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">1/64</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">1/32</font></div>
-                                        </td>
-                                      </tr>
-                                      <tr bgcolor="#FFFFFF"> 
-                                        <td> 
-                                          <div align="center"><font size="2"><b>1</b></font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">0.073</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">5/64</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">1/32</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">1/32</font></div>
-                                        </td>
-                                      </tr>
-                                      <tr bgcolor="#FFFFFF"> 
-                                        <td> 
-                                          <div align="center"><font size="2"><b>2</b></font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">0.086</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">3/32</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">1/32</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">3/64</font></div>
-                                        </td>
-                                      </tr>
-                                      <tr bgcolor="#FFFFFF"> 
-                                        <td> 
-                                          <div align="center"><font size="2"><b>3</b></font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">0.099</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">7/64</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">3/64</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">1/16</font></div>
-                                        </td>
-                                      </tr>
-                                      <tr bgcolor="#FFFFFF"> 
-                                        <td> 
-                                          <div align="center"><font size="2"><b>4</b></font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">0.112</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">7/64</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">3/64</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">1/16</font></div>
-                                        </td>
-                                      </tr>
-                                      <tr bgcolor="#FFFFFF"> 
-                                        <td> 
-                                          <div align="center"><font size="2"><b>5</b></font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">0.125</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">1/8</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">1/16</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">5/64</font></div>
-                                        </td>
-                                      </tr>
-                                      <tr bgcolor="#FFFFFF"> 
-                                        <td> 
-                                          <div align="center"><font size="2"><b>6</b></font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">0.138</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">9/64</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">1/16</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">5/64</font></div>
-                                        </td>
-                                      </tr>
-                                      <tr bgcolor="#FFFFFF"> 
-                                        <td> 
-                                          <div align="center"><font size="2"><b>7</b></font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">0.151</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">5/32</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">1/16</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">3/32</font></div>
-                                        </td>
-                                      </tr>
-                                      <tr bgcolor="#FFFFFF"> 
-                                        <td> 
-                                          <div align="center"><font size="2"><b>8</b></font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">0.164</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">11/64</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">5/64</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">3/32</font></div>
-                                        </td>
-                                      </tr>
-                                      <tr bgcolor="#FFFFFF"> 
-                                        <td> 
-                                          <div align="center"><font size="2"><b>9 
-                                            </b></font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">0.177 
-                                            </font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">3/16 
-                                            </font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">5/64 
-                                            </font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">7/64 
-                                            </font></div>
-                                        </td>
-                                      </tr>
-                                      <tr bgcolor="#FFFFFF"> 
-                                        <td> 
-                                          <div align="center"><font size="2"><b>10 
-                                            </b></font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">0.190 
-                                            </font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">3/16 
-                                            </font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">3/32</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">7/64</font></div>
-                                        </td>
-                                      </tr>
-                                      <tr bgcolor="#FFFFFF"> 
-                                        <td> 
-                                          <div align="center"><font size="2"><b>11</b></font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">0.203</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">13/64</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">3/32</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">1/8</font></div>
-                                        </td>
-                                      </tr>
-                                      <tr bgcolor="#FFFFFF"> 
-                                        <td> 
-                                          <div align="center"><font size="2"><b>12</b></font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">0.216</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">7/32</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">7/64</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">1/8</font></div>
-                                        </td>
-                                      </tr>
-                                      <tr bgcolor="#FFFFFF"> 
-                                        <td> 
-                                          <div align="center"><font size="2"><b>14 
-                                            </b></font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">0.242 
-                                            </font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">1/4</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">7/64</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">9/64</font></div>
-                                        </td>
-                                      </tr>
-                                      <tr bgcolor="#FFFFFF"> 
-                                        <td> 
-                                          <div align="center"><font size="2"><b>16</b></font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">0.268</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">17/64</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">9/64</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">5/32</font></div>
-                                        </td>
-                                      </tr>
-                                      <tr bgcolor="#FFFFFF"> 
-                                        <td> 
-                                          <div align="center"><font size="2"><b>18</b></font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">0.294</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">19/64</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">9/64</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">3/16</font></div>
-                                        </td>
-                                      </tr>
-                                      <tr bgcolor="#FFFFFF"> 
-                                        <td> 
-                                          <div align="center"><font size="2"><b>20</b></font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">0.320</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">21/64</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">11/64</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">13/64</font></div>
-                                        </td>
-                                      </tr>
-                                      <tr bgcolor="#FFFFFF"> 
-                                        <td> 
-                                          <div align="center"><font size="2"><b>24</b></font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">0.372</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">3/8</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">3/16</font></div>
-                                        </td>
-                                        <td> 
-                                          <div align="center"><font size="2">7/32</font></div>
-                                        </td>
-                                      </tr>
-                                    </tbody></table>
+**Wood Screw Pilot Hole Size**
 
+Screw Size | Body Diameter | Shank Pilot Hole | Pilot Hole in Soft Wood | Pilot Hole in Hardwood
+-----------|---------------|------------------|-------------------------|-----------------------
+0 | .060 | 1/16 | 1/64 | 1/32
+1 | .073 | 5/64 | 1/32 | 1/32
+2 | .086 | 3/32 | 1/32 | 3/64
+3 | .099 | 7/64 | 3/64 | 1/16
+4 | .112 | 7/64 | 3/64 | 1/16
+5 | .125 | 1/8 | 1/16 | 5/64
+7 | .151 | 5/32 | 1/16 | 3/32
+8 | .164 | 11/64 | 5/64 | 3/32
+9 | .177 | 3/16 | 5/64 | 7/64
+10 | .190 | 3/16 | 3/32 | 7/64
+11 | .203 | 13/64 | 3/32 | 1/8
+12 | .216 | 7/32 | 7/64 | 1/8
+14 | .242 | 1/4 | 7/64 | 9/64
+16 | .268 | 17/64 | 9/64 | 5/32
+18 | .294 | 19/64 | 9/64 | 3/16
+20 | .320 | 21/64 | 11/64 | 13/64
+24 | .372 | 3/8 | 3/16 | 7/32
 
+#### Masonary
 
-* [Determine hole diameter for concrete screws](https://www.concretefasteners.com/diy-articles/tapcon-concrete-screws)  
+##### [Pilot Hole Size](https://www.concretefasteners.com/diy-articles/tapcon-concrete-screws)  
 
-
-<table cellspacing="0" cellpadding="0">
-    <tbody>
-        <tr>
-            <td valign="top" style="width: 295px;">
-            <p style="text-align: center;"><strong>Diameter of    Tapcon Concrete Screw</strong></p>
-            </td>
-            <td valign="top" style="width: 295px;">
-            <p><strong>Diameter of Carbide Bit</strong></p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top" style="width: 295px;" class="chart-cell-lc">
-            <p style="text-align: center;"><strong>3/16” (~#10)</strong></p>
-            </td>
-            <td valign="top" style="width: 295px;" class="chart-cell-lc">
-            <p style="text-align: center;"><strong>5/32”</strong></p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top" style="width: 295px;" class="chart-cell-lc">
-            <p style="text-align: center;"><strong>1/4” (~#14)</strong></p>
-            </td>
-            <td valign="top" style="width: 295px;" class="chart-cell-lc">
-            <p style="text-align: center;"><strong>3/16”</strong></p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top" style="width: 295px;" class="chart-cell-lc">
-            <p style="text-align: center;"><strong>3/8”</strong></p>
-            </td>
-            <td valign="top" style="width: 295px;" class="chart-cell-lc">
-            <p style="text-align: center;"><strong>5/16”</strong></p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top" style="width: 295px;" class="chart-cell-lc">
-            <p style="text-align: center;"><strong>1/2”</strong></p>
-            </td>
-            <td valign="top" style="width: 295px;" class="chart-cell-lc">
-            <p style="text-align: center;"><strong>3/8”</strong></p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top" style="width: 295px;" class="chart-cell-lc">
-            <p style="text-align: center;"><strong>5/8”</strong></p>
-            </td>
-            <td valign="top" style="width: 295px;" class="chart-cell-lc">
-            <p style="text-align: center;"><strong>1/2”</strong></p>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top" style="width: 295px;" class="chart-cell-lc">
-            <p style="text-align: center;"><strong>3/4”</strong></p>
-            </td>
-            <td valign="top" style="width: 295px;" class="chart-cell-lc">
-            <p style="text-align: center;"><strong>5/8”</strong></p>
-            </td>
-        </tr>
-    </tbody>
-</table>
+Screw Size (Tapcon) | Bit Size
+--------------------|---------
+3/16 (~#10) | 5/32
+1/4 (~#14) | 3/16
+3/8 | 5/16
+1/2 | 3/8
+5/8 | 1/2
+3/4 | 5/8
 
 ___
 ## Anchors
