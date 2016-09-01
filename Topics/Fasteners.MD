@@ -6,6 +6,8 @@
   * [Q & A](#q--a)
   * [How-to](#how-to)
   * [Pilot Holes](#pilot-holes)
+    * [Wood](#wood-screws)
+    * [Masonary](#masonary-screws)
 * [Anchors](#anchors)
   * [Non-masonary](#non-masonary)
   * [Masonary](#masonary)
@@ -139,7 +141,7 @@ Screw Size | Body Diameter | Shank Pilot Hole | Pilot Hole in Soft Wood | Pilot 
 20 | .320 | 21/64 | 11/64 | 13/64
 24 | .372 | 3/8 | 3/16 | 7/32
 
-#### Masonary
+#### Masonary Screw
 
 ##### [Pilot Hole Size](https://www.concretefasteners.com/diy-articles/tapcon-concrete-screws)  
 
