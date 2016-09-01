@@ -72,8 +72,48 @@ Torx/Star | This screw drive looks like a six-pointed asterisk and prevents the 
 ### Pilot Holes
 * [Pilot hole size for wood screws](http://diy.stackexchange.com/questions/8800/when-pre-drilling-for-screws-how-do-you-determine-the-correct-bit-diameter#answer-8802)  | [More](http://engineershandbook.com/Tables/woodscrewpilotholes.htm)
 
-![](http://i.stack.imgur.com/VOtay.png)
-![](http://i.stack.imgur.com/3798q.png)
+**Wood Screw Diameter**
+
+Screw Size | Hard Wood | Soft Wood | Countersink Size
+-----------|-----------|-----------|-----------------
+2 | 1/16 | 1/16 | 1/4
+3 | 5/64 | 1/16 | 1/4
+4 | 5/64 | 1/16 | 1/4
+5 | 3/32 | 5/64 | 5/16
+6 | 7/64 | 3/32 | 5/16
+7 | 7/64 | 3/32 | 5/16
+8 | 1/8 | 7/64 | 3/8
+9 | 9/64 | 1/8 | 3/8
+1 | 9/64 | 1/8 | 7/16
+12 | 5/32 | 9/64 | 7/16
+14 | 11/64 | 5/32 | 1/2
+16 | 3/16 | 11/64 | 9/16
+18 | 7/32 | 13/64 | 5/8
+20 | 15/64 | 7/32 | 3/4
+24 | 17/64 | 1/4 | 3/4
+
+**Wood Screw Diameter**
+
+Size Number | Decimal | Nearest Fraction
+------------|---------|-----------------
+0 | .060. | 1/16
+1 | .073 | 5/64
+2 | .086 | 3/32
+3 | .099 | 7/64
+4 | .112 | 7/64
+5 | .125 | 1/8
+6 | .138 | 9/64
+7 | .151 | 5/32
+8 | .164 | 5/32
+9 | .177 | 11/64
+10 | .190 | 3/16
+11 | .203 | 13/64
+12 | .216 | 7/32
+14 | .242 | 1/4
+16 | .268 | 17/64
+18 | .294 | 19/64
+20 | .320 | 5/16
+
 
 <table border="0" cellpadding="5" width="500" bgcolor="#000000" align="center" cellspacing="1">
                                       <tbody><tr bgcolor="#000066"> 
