@@ -49,7 +49,7 @@ Adhesive Type | Brand Names | Description
 --------------|------------------------|------------
 Cyanoacrylate (Superglue) | Many | <ul><li>Single component, solvent-free adhesive</li><li>Readily cures upon exposure to moisture at room temperature [[1]][cy.1]</li></ul>
 Wood Glue | TiteBond (I, II, and III) |
-Wood Adhesive | LiquidNails | <ul><li>Construction adhesive.</li><li>Requires bracing or clamping for 24-hours.</li><li>Full week curing time.</li>Gives off fumes and has toxic solvents. [[1]][woad.1]</li></ul>
+Wood Adhesive | LiquidNails | <ul><li>Construction adhesive.</li><li>Requires bracing or clamping for 24-hours.</li><li>Full week curing time.</li><li>Gives off fumes and has toxic solvents. [[1]][woad.1]</li></ul>
 
 [cy.1]: http://www.masterbond.com/products/cyanoacrylate-adhesive-systems "1"
 [woad.1]: http://homeguides.sfgate.com/wood-glue-vs-liquid-nails-86846.html
