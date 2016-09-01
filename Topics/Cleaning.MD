@@ -5,6 +5,7 @@
   * [Tub](#tub)
 * [Stone](#stone)
 * [Concrete](#concrete)
+* [Metal](#metal)
 
 ___
 ## Bathroom
