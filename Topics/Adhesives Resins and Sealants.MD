@@ -28,6 +28,7 @@ Wood | Rubber | [Contact cement][1.1.1]
 Wood | Wood | [TiteBond II (non-toxic)][1.4.1]
 Metal | Glass | [JB ClearWeld][1.2.1]
 Metal | Metal | [JB Weld][1.5.1], [LePage's Metal Epoxy][1.5.2]
+Metal | Plastic | [JB Weld][1.5.1], [LePage's Metal Epoxy][1.5.2]
 Hardwood | Concrete | [Titebond III][1.6.1]
 Masonary | Masonary |
 Masonary | Wood |
