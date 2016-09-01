@@ -6,7 +6,7 @@
 * [Pipe Materials](#pipe-materials)
 * [Fittings](#fittings)
 
-* http://www.ebay.com/gds/How-to-Repair-a-Faucet-/10000000177770596/g.html
+http://www.ebay.com/gds/How-to-Repair-a-Faucet-/10000000177770596/g.html  
 
 ___
 ## General Plumbing
