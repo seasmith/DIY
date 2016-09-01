@@ -2,25 +2,24 @@
 
 * [**Adhesives, Resins, and Sealants**](#adhesives-resins-and-sealants)
   * [Adhesives](#adhesives)
-    * [Adhesive Recommendation](#adhesive-recommendation)
+    * [Adhesive Matching](#adhesive-matching)
     * [Adhesive Golssary](#adhesive-glossary)
   * [Resins](#resins)
   * [Sealants](#sealants)
-  
-## Adhesives, Resins, and Sealants
 
-### General
+## General
 * [General guideline on resins and epoxies](http://www.cca.edu/sites/default/files/pdf/08/resin-guidelines.pdf)
 
-### Adhesives
+___
+## Adhesives
 
-##### Resources
+### Adhesive Resources
 * [ThisToThat Adhesive Lookup Table](http://www.thistothat.com/)
 * [Adhesives table](http://www.mr-dt.com/materials/adhesives.htm)
 * [Awesome resource for different applications and substrates](http://www.masterbond.com/applications)
 * [Info on epoxies](http://diy.stackexchange.com/questions/24862/are-all-epoxy-created-equal)
 
-##### Adhesive Recommendation  
+### Adhesive Matching
 
 Material 1 | Material 2 | Products
 -----------|------------|---------
@@ -44,24 +43,29 @@ Clay | Clay | [Cyanoacrylate (food-safe)][1.3.1]
 [1.5.2]: http://diy.stackexchange.com/questions/2231/what-is-a-strong-glue-for-bonding-metal "LePage's Metal Epoxy"
 [1.6.1]: http://diy.stackexchange.com/questions/9137/what-type-of-glue-should-i-use-to-repair-my-hardwood-floor "Titebond III"
 
-##### Adhesive Glossary  
+### Adhesive Glossary  
 
-Adhesive Type | Common Names | Description
---------------|--------------|------------
-Cyanoacrylate | Superglue | Single component, solvent-free adhesives; readily cure upon exposure to moisture at room temperature [1][2.1.1]
+Adhesive Type | Brand Names | Description
+--------------|------------------------|------------
+Cyanoacrylate (Superglue) | Many | <ul><li>Single component, solvent-free adhesive</li><li>Readily cures upon exposure to moisture at room temperature [[1]][cy.1]</li></ul>
+Wood Glue | TiteBond (I, II, and III) |
+Wood Adhesive | LiquidNails | <ul><li>Construction adhesive.</li><li>Requires bracing or clamping for 24-hours.</li><li>Full week curing time.</li>Gives off fumes and has toxic solvents. [[1]][woad.1]</li></ul>
 
-[2.1.1]: http://www.masterbond.com/products/cyanoacrylate-adhesive-systems "1"
+[cy.1]: http://www.masterbond.com/products/cyanoacrylate-adhesive-systems "1"
+[woad.1]: http://homeguides.sfgate.com/wood-glue-vs-liquid-nails-86846.html
 
-### Resins
+___
+## Resins
 * [General guideline on resins and epoxies](http://www.cca.edu/sites/default/files/pdf/08/resin-guidelines.pdf)
 * [Fiberglass resin]() | [Bondo](http://bondo.com/tips#fzypgDIRToTbGRwa.97) | Repairs on concrete, wood, fiberglass, metals, and plastic
 
-### Sealants
+___
+## Sealants
 * Q: How to preserve caulk?
   * A: Insert a galvanized nail; cap with a wire-nut
 * [Different types of caulk](http://www.lowes.com/projects/paint-stain-and-wallpaper/caulk-buying-guide/project) | [More](http://www.thisoldhouse.com/toh/article/0,,203227-2,00.html)
 
-##### Latex vs. Silicone Caulk
+### Latex vs. Silicone Caulk
 
 Category | Latex (Acrylic/Painter's) Cualk | Silicone Caulk
 ---------|---------------------------------|---------------
@@ -75,7 +79,7 @@ Removal | Easily removed | Difficult to remove
 Strength | Weakens and losses flexibility in direct sunlight and extreme temperature | Is more flexible and durable than latex; holds up well in direct sunlight and temperature extremes
 Durability | Doesn't last as long as silicone (under most circumstances) | Lasts longer than latex caulk (under most circumstances)
 
-##### Speciality Caulks
+### Speciality Caulks
 
 Caulk Type | Projects | Key Features
 -----------|----------|-------------
