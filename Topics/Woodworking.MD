@@ -9,7 +9,7 @@
 
 ___
 ## General
-* How to drill a hole to a certain depth every time | Tape | [Collars](http://woodworking.stackexchange.com/questions/3384/how-do-i-make-a-drill-hole-the-same-depth-every-time#answer-3390)
+* How to drill a hole to a certain depth every time = tape to mark spot | [Collars](http://woodworking.stackexchange.com/questions/3384/how-do-i-make-a-drill-hole-the-same-depth-every-time#answer-3390)
 * [Why and how to create wood plugs](http://www.woodworkingtips.com/etips/etip120100sn.html) | A: To avoid heterogenous staining (end grain plugs will soak up a lot of stainer)
 * [Board dimensions](no.link)
 
