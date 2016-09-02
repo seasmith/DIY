@@ -2,8 +2,8 @@
 
 ## Table of Contents
 * [General](#general)
-* [Sanding](#sanding)
 * [Woodworking Tools](#woodworking-tools)
+  * [Sanding](#sanding)
 * [Wood cuts](#wood-cuts)
 * [Wood coatings](#wood-coatings)
 * [Wood types](#wood-types)
@@ -26,17 +26,6 @@ Thickness | Qaurters | Actual (Presurfaced)
 
 
 ___
-## Sanding
-
-### Methods
-
-Type | Description
------|------------
-Block | <ul><li>Good for dry sanding and sanding with high grit count (180+).</li></ul>
-Sponge | <ul><li>Good for wet sanding (i.e. after applying varnish). Sponge does not slip around unlike a block. [[1]](https://www.youtube.com/watch?v=Zcy2tPa3hw8&feature=youtu.be&start=249)</li></ul>
-Orbital Sander | <ul><li>Leaves unnoticeable sanding marks.</li><li>Ultra-smooth sanding.</li><li>Rounding over sharp edges.</li><li>Sand off hardened wood putty.</li><li>Knocking down dried coats of paint or varnish.</li></ul>
-Random Orbit Sander | <ul><li>Similar to the orbital sander but can be used for some stock removal (similar to belt sanders).</li><li>Has a circular sander surface, compared to the orbital's square surface.</li></ul>
-Belt Sander | <ul><li>For smoothing large flat surfaces.</li><li>Smoothing rough or coarse surfaces.</li></ul>
 
 ___
 ## Woodworking Tools
@@ -56,6 +45,17 @@ Auger | Deep hole; straight; studs; guided; LOW RPM (dangerous at high RPM) | ![
 Spade | Quick; coarse cuts; slip into adjacent holes; guided | ![Spade](http://i.stack.imgur.com/lU9Yos.jpg)
 Brad Point | Small-sized holes; minimal tearout; guided | ![Brad Point](http://i.stack.imgur.com/sf8ECs.jpg)
 * [Why use auger bits (over forstner and spade)?](http://woodworking.stackexchange.com/questions/2040/do-auger-bits-have-advantages) | Deep holes; straight holes; carries out debris better than forstener; rigid; cheaper than forstner bits; best when drilling by hand
+
+### Sanding
+
+Type | Description
+-----|------------
+Block | <ul><li>Good for dry sanding and sanding with high grit count (180+).</li></ul>
+Sponge | <ul><li>Good for wet sanding (i.e. after applying varnish). Sponge does not slip around unlike a block. [[1]](https://www.youtube.com/watch?v=Zcy2tPa3hw8&feature=youtu.be&start=249)</li></ul>
+Orbital Sander | <ul><li>Leaves unnoticeable sanding marks.</li><li>Ultra-smooth sanding.</li><li>Rounding over sharp edges.</li><li>Sand off hardened wood putty.</li><li>Knocking down dried coats of paint or varnish.</li></ul>
+Random Orbit Sander | <ul><li>Similar to the orbital sander but can be used for some stock removal (similar to belt sanders).</li><li>Has a circular sander surface, compared to the orbital's square surface.</li></ul>
+Belt Sander | <ul><li>For smoothing large flat surfaces.</li><li>Smoothing rough or coarse surfaces.</li></ul>
+
 
 ___
 ## Wood Cuts
