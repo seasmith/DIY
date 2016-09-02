@@ -32,10 +32,11 @@ ___
 
 Type | Description
 -----|------------
-Block | Good for dry sanding and sanding with high grit count (180+)
-Sponge | Good for wet sanding (i.e. after applying varnish). Sponge does not slip around unlike a block. [[1]](https://www.youtube.com/watch?v=Zcy2tPa3hw8&feature=youtu.be&start=249)
-Random Orbit Sander |
-Belt Sander |
+Block | <ul><li>Good for dry sanding and sanding with high grit count (180+).</li></ul>
+Sponge | <ul><li>Good for wet sanding (i.e. after applying varnish). Sponge does not slip around unlike a block. [[1]](https://www.youtube.com/watch?v=Zcy2tPa3hw8&feature=youtu.be&start=249)</li></ul>
+Orbital Sander | <ul><li>Leaves unnoticeable sanding marks.</li><li>Ultra-smooth sanding.</li><li>Rounding over sharp edges.</li><li>Sand off hardened wood putty.</li><li>Knocking down dried coats of paint or varnish.</li></ul>
+Random Orbit Sander | <ul><li>Similar to the orbital sander but can be used for some stock removal (similar to belt sanders).</li><li>Has a circular sander surface, compared to the orbital's square surface.</li></ul>
+Belt Sander | <ul><li>For smoothing large flat surfaces.</li><li>Smoothing rough or coarse surfaces.</li></ul>
 
 ___
 ## Woodworking Tools
