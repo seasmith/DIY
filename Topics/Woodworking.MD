@@ -48,14 +48,26 @@ Brad Point | Small-sized holes; minimal tearout; guided | ![Brad Point](http://i
 
 ### Sanding
 
+#### Sander Types
+
 Type | Description
 -----|------------
 Block | <ul><li>Good for dry sanding and sanding with high grit count (180+).</li></ul>
 Sponge | <ul><li>Good for wet sanding (i.e. after applying varnish). Sponge does not slip around unlike a block. [[1]](https://www.youtube.com/watch?v=Zcy2tPa3hw8&feature=youtu.be&start=249)</li></ul>
-Orbital Sander | <ul><li>Leaves unnoticeable sanding marks.</li><li>Ultra-smooth sanding.</li><li>Rounding over sharp edges.</li><li>Sand off hardened wood putty.</li><li>Knocking down dried coats of paint or varnish.</li></ul>
-Random Orbit Sander | <ul><li>Similar to the orbital sander but can be used for some stock removal (similar to belt sanders).</li><li>Has a circular sander surface, compared to the orbital's square surface.</li><li>Velcro (hook-and-loop) and PSA (pressure sensitive adhesive) discs.</li></ul>
-Belt Sander | <ul><li>For smoothing large flat surfaces.</li><li>Smoothing rough or coarse surfaces.</li></ul>
+Orbital | <ul><li>Leaves unnoticeable sanding marks.</li><li>Ultra-smooth sanding.</li><li>Rounding over sharp edges.</li><li>Sand off hardened wood putty.</li><li>Knocking down dried coats of paint or varnish.</li></ul>
+Random Orbit | <ul><li>Similar to the orbital sander but can be used for some stock removal (similar to belt sanders).</li><li>Has a circular sander surface, compared to the orbital's square surface.</li><li>Velcro (hook-and-loop) and PSA (pressure sensitive adhesive) discs.</li></ul>
+Belt | <ul><li>For smoothing large flat surfaces.</li><li>Smoothing rough or coarse surfaces.</li></ul>
 
+#### Sandpaper Material
+
+Material | Description
+---------|------------
+Aluminum Oxide | <ul><li>Most common.</li><li>Durable.</li><li>Friable - grit breaks apart and creates more sharp edges.</li>Consistent sanding.</li><li>Wood, plastic, metal, and paint.</li>
+Garnet | <ul><li>Raw wood.</li><li>Not friable - grit edges breakdown.</li><li>Would leave a smoother surface than aluminum oxide of the same grit type due to lack of friability.</li></ul>
+Ceramic | <ul><li>Durable and tough.</li><li>Heavy stock or finish removal.</li><li>Common on belt sanders.</li></ul>
+Silicon Carbide | <ul><li>Sanding and polishing finishes.</li><li>Wet or dry sanding.</li><li>Gray or blue color.</li></ul>
+
+[Sanding Efficiency - The Wood Whisperer](https://www.youtube.com/watch?v=XtkIuWcW3cE)  
 
 ___
 ## Wood Cuts
