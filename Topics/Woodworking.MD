@@ -1,15 +1,14 @@
 # Woodworking
 
 ## Table of Contents
-* [**Wood working**](#wood-working)
-  * [General](#general)
-  * [Woodworking Tools](#woodworking-tools)
-  * [Wood cuts](#wood-cuts)
-  * [Wood coatings](#wood-coating)
-  * [Wood types](#wood-types)
+* [General](#general)
+* [Woodworking Tools](#woodworking-tools)
+* [Wood cuts](#wood-cuts)
+* [Wood coatings](#wood-coatings0)
+* [Wood types](#wood-types)
 
 ___
-### General
+## General
 * How to drill a hole to a certain depth every time | Tape | [Collars](http://woodworking.stackexchange.com/questions/3384/how-do-i-make-a-drill-hole-the-same-depth-every-time#answer-3390)
 * [Why and how to create wood plugs](http://www.woodworkingtips.com/etips/etip120100sn.html) | A: To avoid heterogenous staining (end grain plugs will soak up a lot of stainer)
 * [Board dimensions](no.link)
@@ -26,7 +25,7 @@ Thickness | Qaurters | Actual (Presurfaced)
 
 
 ___
-### Woodworking Tools
+## Woodworking Tools
 * Circular saw blades, see: [Tools.MD#circular-saw-blades](Tools.MD#circular-saw-blades)
 * [How to account for saw blade width/thickness (kerf)](http://diy.stackexchange.com/questions/7628/whats-the-best-way-to-account-for-saw-blade-width-kerf-when-cutting-boards) | Cut on the waste side 
 ```
@@ -45,7 +44,7 @@ Brad Point | Small-sized holes; minimal tearout; guided | ![Brad Point](http://i
 * [Why use auger bits (over forstner and spade)?](http://woodworking.stackexchange.com/questions/2040/do-auger-bits-have-advantages) | Deep holes; straight holes; carries out debris better than forstener; rigid; cheaper than forstner bits; best when drilling by hand
 
 ___
-### Wood Cuts
+## Wood Cuts
 
 Post-Sawn
 
@@ -66,7 +65,7 @@ Quarter |
 Rift |
 
 ___
-### Wood Coatings
+## Wood Coatings
 * [Shellac vs Polyurethane vs Varnish vs Lacquer and Others](http://www.diynetwork.com/how-to/skills-and-know-how/painting/whats-the-difference-between-polyurethane-varnish-shellac-and-lacquer)
 
 Finisher | What it is | How it looks | How it stands up
@@ -86,9 +85,9 @@ Varnish | [Resin (drying oil and solvent)][varnish.1] | Protective top coat | Du
 * [Which sandpaper to use for polyurethane coats](http://diy.stackexchange.com/questions/4469/what-grit-sandpaper-should-i-use-between-coats-of-polyurethane#answer-4470) | 220 grit
 
 ___
-### Wood Types
+## Wood Types
 
-##### Hardwood & Softwood
+### Hardwood & Softwood
 
 * The terms "hardwood" and "softwood" have no relevance to the actual hardness of the wood produced [1](http://cdn.static-economist.com/sites/default/files/imagecache/original-size/images/2016/07/blogs/graphic-detail/20160730_woc911_4.png).
 
