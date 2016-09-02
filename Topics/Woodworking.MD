@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [General](#general)
+* [Sanding](#sanding)
 * [Woodworking Tools](#woodworking-tools)
 * [Wood cuts](#wood-cuts)
 * [Wood coatings](#wood-coatings)
@@ -23,6 +24,18 @@ Thickness | Qaurters | Actual (Presurfaced)
 * [List of wood joints](https://en.wikipedia.org/wiki/Woodworking_joints#List_of_wood_joints)
 ![Woodworking Joints](https://s-media-cache-ak0.pinimg.com/736x/b3/8b/1f/b38b1ff42c5920960cee7018a2b2d96d.jpg)
 
+
+___
+## Sanding
+
+### Methods
+
+Type | Description
+-----|------------
+Block | Good for dry sanding and sanding with high grit count (180+)
+Sponge | Good for wet sanding (i.e. after applying varnish). Sponge does not slip around unlike a block. [[1]](https://www.youtube.com/watch?v=Zcy2tPa3hw8&feature=youtu.be&start=249)
+Random Orbit Sander |
+Belt Sander |
 
 ___
 ## Woodworking Tools
