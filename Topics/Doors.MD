@@ -1,16 +1,14 @@
 # Doors
 
-* [**Doors**](#doors)
+## Table of Contents
+* [General Doors](#general-doors)
+* [Wood Doors](#wood-doors)
+* [Screen Doors](#screen-doors)
+* [Bifold Doors](#bifold-doors)
+* [Locks](#locks)
 
-## Doors
-* [Fix door hinge with worn screw holes](http://diy.stackexchange.com/questions/5729/how-do-i-rehang-a-wooden-door-with-worn-screw-holes) | Tooth picks and glue
-* [How to drill and 2 1/8" hole over an existing 1 1/2" hole](http://diy.stackexchange.com/questions/10391/how-do-i-drill-a-2%E2%85%9B-inch-door-knob-hole-over-an-existing-1%C2%BD-inch-hole) | Stack the smaller hole saw inside the larger one
-* [How to secure french doors]() | 1 inch deadbolt; mortise lock; handle, top, and bottom deadbolt (three point)
-* [Mortise vs Cylindrical Locks](http://locknet.com/lockbytes/excerpts/whats-the-difference-mortise-vs-cylindrical-locks/) | [More](http://locknet.com/lockbytes/excerpts/faq/mortise-locks-vs-cylindrical-locks-the-basics/)
-* Cylindrical locks parts  
-![Cylindrical lock parts](http://cdn-1.hometips.com/wp-content/uploads/2012/06/doorknob_lock_parts_diagram.jpg)
-* Mortise door lock parts  
-![Door lever parts](http://www.hometips.com/wp-content/uploads/2012/06/mortise_lockset_parts_diagram.jpg)
+___
+## General Doors
 * [Types of interior doors](http://www.homedit.com/types-of-interior-doors-for-home/)
 
 Type | Picture
@@ -24,7 +22,11 @@ Dutch | ![](http://cdn.homedit.com/wp-content/uploads/2011/06/dutch-door-type.jp
 Roller | ![](http://cdn.homedit.com/wp-content/uploads/2011/06/roller-door-type.jpg)
 Pivot | ![](http://cdn.homedit.com/wp-content/uploads/2011/06/pivot-door.jpg)
 
-* [How to install bifold doors](http://www.lowes.com/projects/build-and-remodel/install-bifold-doors/project) | [Video]()
+___
+## Wood Doors
+* [How to drill and 2 1/8" hole over an existing 1 1/2" hole](http://diy.stackexchange.com/questions/10391/how-do-i-drill-a-2%E2%85%9B-inch-door-knob-hole-over-an-existing-1%C2%BD-inch-hole) | Stack the smaller hole saw inside the larger one
+* [Fix door hinge with worn screw holes](http://diy.stackexchange.com/questions/5729/how-do-i-rehang-a-wooden-door-with-worn-screw-holes) | Tooth picks and glue
+* [How to secure french doors]() | 1 inch deadbolt; mortise lock; handle, top, and bottom deadbolt (three point)
 * [How to create weatherstripping jamb groove](http://www.thisoldhouse.com/toh/how-to/step/0,,20152571_730023,00.html) | Corner grooving tool
 * [Weatherstripping](http://www.thisoldhouse.com/toh/how-to/intro/0,,20152571,00.html) | [More](http://diy.stackexchange.com/questions/8508/what-is-the-best-kind-of-weatherstripping-door-set-to-use)
 
@@ -41,3 +43,18 @@ Type | Description
 [foam.tape.1]: http://www.thisoldhouse.com/toh/photos/0,,20441335_20875461,00.html "Foam Tape"
 [door.sweeps.1]: http://www.thisoldhouse.com/toh/photos/0,,20441335_20875463,00.html "Door Sweeps"
 [trvs.1]: http://www.thisoldhouse.com/toh/photos/0,,20441335_20875466,00.html "Tubular Rubber, Vinyl, or Silicone"
+
+___
+## Screen Doors
+
+___
+## Bifold Doors
+* [How to install bifold doors](http://www.lowes.com/projects/build-and-remodel/install-bifold-doors/project) | [Video]()
+
+___
+## Locks
+* [Mortise vs Cylindrical Locks](http://locknet.com/lockbytes/excerpts/whats-the-difference-mortise-vs-cylindrical-locks/) | [More](http://locknet.com/lockbytes/excerpts/faq/mortise-locks-vs-cylindrical-locks-the-basics/)
+* Cylindrical locks parts  
+![Cylindrical lock parts](http://cdn-1.hometips.com/wp-content/uploads/2012/06/doorknob_lock_parts_diagram.jpg)
+* Mortise door lock parts  
+![Door lever parts](http://www.hometips.com/wp-content/uploads/2012/06/mortise_lockset_parts_diagram.jpg)
