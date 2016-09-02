@@ -86,7 +86,7 @@ ___
 
 Tip | Description
 ----|------------
-Sanding | Use 120 and 220 to create a smooth surface for conditioners, stainers, and protectors
+Sanding | <ul><li>Use 120 and 220 to create a smooth surface for conditioners, stainers, and protectors.</li><li>[Use 220-grit for polyurethane.](http://diy.stackexchange.com/questions/4469/what-grit-sandpaper-should-i-use-between-coats-of-polyurethane#answer-4470)</li></ul>
 Conditioning | Pre-stain conditioner to help apply stainers
 Staining | Use brush, rag, or pneumatic gun
 Cleaning | Wipe of excess stain which is not absorbed. You want stain to dry in the wood NOT on top of the wood. Wipe in direction of grain
@@ -115,7 +115,7 @@ Varnish | [Resin (drying oil and solvent)][varnish.1] | Protective top coat | Du
 [lacquer.1]: http://www.wisegeek.com/what-is-lacquer.htm "Lacquer"
 [linseed.1]: http://www.naturalhandyman.com/iip/infpai/inflin.html "Linseed Oil"
 
-* [Which sandpaper to use for polyurethane coats](http://diy.stackexchange.com/questions/4469/what-grit-sandpaper-should-i-use-between-coats-of-polyurethane#answer-4470) | 220 grit
+[Oil-Based Finish Basics - The Wood Whisperer](https://www.youtube.com/watch?v=pCzblO0f8P8)
 
 ___
 ## Wood Types
