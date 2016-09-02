@@ -4,7 +4,7 @@
 * [General](#general)
 * [Woodworking Tools](#woodworking-tools)
 * [Wood cuts](#wood-cuts)
-* [Wood coatings](#wood-coatings0)
+* [Wood coatings](#wood-coatings)
 * [Wood types](#wood-types)
 
 ___
@@ -67,6 +67,21 @@ Rift |
 ___
 ## Wood Coatings
 * [Shellac vs Polyurethane vs Varnish vs Lacquer and Others](http://www.diynetwork.com/how-to/skills-and-know-how/painting/whats-the-difference-between-polyurethane-varnish-shellac-and-lacquer)
+
+### Coating Tips
+
+Tip | Description
+----|------------
+Sanding | Use 120 and 220 to create a smooth surface for conditioners, stainers, and protectors
+Conditioning | Pre-stain conditioner to help apply stainers
+Staining | Use brush, rag, or pneumatic gun
+Cleaning | Wipe of excess stain which is not absorbed. You want stain to dry in the wood NOT on top of the wood. Wipe in direction of grain
+Drying | 8 hours. 12+ hours for high humidity or cold weather
+Protection | Polyurethane (clear). Stir can; DO NOT shake (you do not want bubbles)
+Like With Like | Use all water-based or all oil-based products - DO NOT mix
+
+
+### Coating Types
 
 Finisher | What it is | How it looks | How it stands up
 ---------|------------|--------------|-----------------
