@@ -80,6 +80,10 @@ Drying | 8 hours. 12+ hours for high humidity or cold weather
 Protection | Polyurethane (clear). Stir can; DO NOT shake (you do not want bubbles)
 Like With Like | Use all water-based or all oil-based products - DO NOT mix
 
+[Staining and Finishing Wood - This Old House](https://www.youtube.com/watch?v=-qnjLSdHb4U)  
+[How to Finish Wood in 3 Easy Steps - Just Ask Bruce](https://www.youtube.com/watch?v=kt7lrXy7D9A)  
+
+===
 
 ### Coating Types
 
