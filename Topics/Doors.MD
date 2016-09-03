@@ -24,10 +24,10 @@ Pivot | ![](http://cdn.homedit.com/wp-content/uploads/2011/06/pivot-door.jpg)
 
 ___
 ## Wood Doors
-* [How to drill and 2 1/8" hole over an existing 1 1/2" hole](http://diy.stackexchange.com/questions/10391/how-do-i-drill-a-2%E2%85%9B-inch-door-knob-hole-over-an-existing-1%C2%BD-inch-hole) | Stack the smaller hole saw inside the larger one
-* [Fix door hinge with worn screw holes](http://diy.stackexchange.com/questions/5729/how-do-i-rehang-a-wooden-door-with-worn-screw-holes) | Tooth picks and glue
-* [How to secure french doors]() | 1 inch deadbolt; mortise lock; handle, top, and bottom deadbolt (three point)
-* [How to create weatherstripping jamb groove](http://www.thisoldhouse.com/toh/how-to/step/0,,20152571_730023,00.html) | Corner grooving tool
+* [How to drill and 2 1/8" hole over an existing 1 1/2" hole](http://diy.stackexchange.com/questions/10391/how-do-i-drill-a-2%E2%85%9B-inch-door-knob-hole-over-an-existing-1%C2%BD-inch-hole) = Place the smaller hole saw inside the larger one. The smaller hole saw can now act as a guide.
+* [Fix door hinge with worn screw holes](http://diy.stackexchange.com/questions/5729/how-do-i-rehang-a-wooden-door-with-worn-screw-holes) = Tooth picks and wood glue
+* [How to secure french doors](no.link) | 3 point deadbolt (top, bottom, and handle); 1" deadbolt; mortise lock
+* [How to create weatherstripping jamb groove](http://www.thisoldhouse.com/toh/how-to/step/0,,20152571_730023,00.html) = Use a corner grooving tool
 * [Weatherstripping](http://www.thisoldhouse.com/toh/how-to/intro/0,,20152571,00.html) | [More](http://diy.stackexchange.com/questions/8508/what-is-the-best-kind-of-weatherstripping-door-set-to-use)
 
 Type | Description
@@ -46,6 +46,7 @@ Type | Description
 
 ___
 ## Screen Doors
+* [How to fix damaged sliding screen door track](http://diy.stackexchange.com/questions/36387/how-can-i-fix-this-portion-of-sliding-screen-door-track) = aluminum/tin cup edge-top and JB weld
 
 ___
 ## Bifold Doors
