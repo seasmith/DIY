@@ -124,11 +124,11 @@ ___
 ___
 ## Hand Tools
 
-Tool | Description
------|------------
-[Brad Pusher][brad.pusher.1] | Holds a single brad nail and allows insertion by pushing or tapping with a hammer
-Nail Setter | Spring and hammer driven
-[Seat Wrench][seat.wrench.1] [[1]][seat.wrench.2] | For tightening and loosening valve seats
+Tool | Description | Picture
+-----|-------------|---------
+[Brad Pusher][brad.pusher.1] | Holds a single brad nail and allows insertion by pushing or tapping with a hammer. | <img src="http://www.toolman.co.uk/acatalog/TM559.jpg" width="300">
+Spring Nail Setter | Sping powered cylinder to drive nails (small nails). | <img src="http://www.leevalley.com/en/images/item/Woodworking/Drilling/24k0101s1.jpg" width="300">
+[Seat Wrench][seat.wrench.1] [[1]][seat.wrench.2] | For tightening and loosening valve seats. | <img src="http://images.lowes.com/product/converted/017197/017197037658.jpg" width="300">
 
 [brad.pusher.1]: https://www.youtube.com/watch?v=nJORdI7LJTE "Brad Pusher"
 [seat.wrench.1]: http://homeguides.sfgate.com/use-plumbing-seat-wrench-29228.html "Seat Wrench"
@@ -138,7 +138,7 @@ Nail Setter | Spring and hammer driven
 
 Tool | Description | Picture
 -----|-------------|--------
-`Combination Square` | Metal ruler (12-16") with a sliding headpiece set at 90° and 45° to the ruler. May include a center and a protractor. [[1]](http://www.woodmagazine.com/woodworking-tips/techniques/intermediate/using-a-combination-square/)<br><br>Can be used to:<ul><li>Make long (straight lines)</li><li>Quickly making straight lines on a long board</li><li>Checking/setting height of table saw/router blade/bit.</li></ul> | <img src="http://s3.amazonaws.com/bvsystem_tmp/pages/1326/original/Northern%20Tool%20combination%20square%20bob%20vila%20toolsSnapshot%202011-08-28%2023-45-14.jpg" width="300">
+`Combination Square` | Metal ruler (12-16") with a sliding headpiece (square head) set at 90° and 45° to the ruler. May include a center head and a protractor. [[1]](http://www.woodmagazine.com/woodworking-tips/techniques/intermediate/using-a-combination-square/)<br><br>Square head uses:<ul><li>Make long (straight lines)</li><li>Quickly make straight lines on a long board.</li><li>Check/sett depth/height of table saw/router blade/bit.</li></ul><br><br>Center head uses:<ul><li>Mark the center of a cylinder head (round).</li><li>Mark the true diameter of a cylinder head.</li><li>Create bisecting 45° angles to a corner.</li></ul> | <img src="http://s3.amazonaws.com/bvsystem_tmp/pages/1326/original/Northern%20Tool%20combination%20square%20bob%20vila%20toolsSnapshot%202011-08-28%2023-45-14.jpg" width="300">
 `Torpedo Level` | For checking vertical (plumb), horizontal (level), and diagonal (45°) angles. | <img src="http://i.ebayimg.com/00/$T2eC16RHJIIE9qTYKC6EBRY0lfSVPg~~_35.JPG" width="300">
 `Shingle Gauge` | Measures shingle thickness and estimates the waranty (lifetime) of the shingle; designed for specific type and manufactured date-range of a shingle; also known as a Haag gauge | <img src="http://haagglobal.com/am-site/media/112-shingle-gaugeproduct-photo.jpg" width="300">
 
