@@ -47,6 +47,19 @@ Type | Description
 ___
 ## Screen Doors
 * [How to fix damaged sliding screen door track](http://diy.stackexchange.com/questions/36387/how-can-i-fix-this-portion-of-sliding-screen-door-track) = aluminum/tin cup edge-top and JB weld
+* [How to patch a screen](https://www.youtube.com/watch?v=3L6XTiOueWg)
+  * Aluminum = Apply screen door patch; you will need to remove horizontal threads in order to push the vertical threads through the damaged area, then flatten the vertical threads once pushed through
+  * Fiberglass = Remove adhesive cover and apply to damaged area
+* [How to replace screen](https://www.youtube.com/watch?v=9Isv6RW5G44)
+  1. Cut spline and remove from frame.
+  2. Remove screen and clean the spline grooves.
+  3. Overlay screen on the frame.
+  4. Align threads with the door frame.
+  5. Trim screen with at least 1" excess screen on all sides.
+  6. Cut screen corners at 45° down to the inside frame.
+  7. Lay spline over screen and grooves.
+  8. Use spline roller (fiberglass = concave; aluminum = convex) to press spline and screen into the grooves.
+  9. Trim off excess screen (with knife or scissors).
 
 ___
 ## Bifold Doors
