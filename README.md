@@ -2,7 +2,7 @@
 
 > Measure twice, cut once, sand to fit.
 
-Use the [Topic Quick Links](#topic-quick-links) below to navigate the various DIY topics. There are also external resources available, in the [Resources](#resources) section. See the [Table of Contents](#table-of-contents) for a complete listing of other material not covered in the topic quick links.
+Use the [Topic Quick Links](#topic-quick-links) below to navigate the various DIY topics. See the [Table of Contents](#table-of-contents) for a complete listing of other material such as video guides, how-to's, and other resources.
 
 ##### Topic Quick Links
 
