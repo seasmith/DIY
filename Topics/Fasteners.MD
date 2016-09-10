@@ -14,9 +14,7 @@
 * [Nails](#nails)
   * [Hand Driven](#hand-driven)
   * [Nail guns](#nail-guns)
-    * [Gauge](#gauge)
     * [Head Type](#head-type)
-    * [Degree](#degree)
     * [Collation](#collation)
 * [Nuts](#nuts)
 * [Washers](#washers)
@@ -319,15 +317,6 @@ Drywall | Drywall installation; often placed on exterior of drywall to prevent b
 * Nail gun nails are generally classified by four features: [gauge (diameter)](#gauge); [head type](#head-type); [degree (angle of collation)](#degree); [collation type (coiled or stick)](#collation). [Other features](#other-features) define easy of use.
 * [Nail guns nailers buying guide](http://www.homedepot.com/c/nail_guns_nailers_buying_guide_HT_BG_HA#types) | [More](http://www.lowes.com/projects/woodworking-and-crafts/nail-gun-buying-guide/project)
 
-Type | Gauge | Purpose
------|-------|--------
-Finishing | 15
-Finishing | 16
-Brad | 18 | Trim
-Pin | 23
-
-#### Gauge
-
 Type | Degree | Gauge | Diameter | Purpose
 -----|--------|-------|----------|--------
 Framing | 21°-30° | NA | 0.113-0.131" | Fixing studs and posts
@@ -344,9 +333,9 @@ Pin | 0° | 23 | 0.025" | Maximum concealment; beadings, moulding, baseboards, a
 
 Type | Description | Picture
 -----|-------------|--------
-Full head | Full circular head; required by code in many cases; greater holding power and overdriving prevention than clipped | ![](Images/fullhead.png)
-Clipped head | A round head nail with a small missing section that has been "clipped"; clipped to create greater density of nails in a package; cheaper than full head | ![](Images/clippedhead.png)
-Offset Head | Full circular head in which the center of the head does not align with the center diameter of the nail shaft; fired from a clipped-head nailer | ![](Images/offsethead.png)
+Full head | Full circular head; required by code in many cases; greater holding power and overdriving prevention than clipped | ![](https://github.com/seasmith/DIY/blob/master/Images/fullhead.png)
+Clipped head | A round head nail with a small missing section that has been "clipped"; clipped to create greater density of nails in a package; cheaper than full head | ![](https://github.com/seasmith/DIY/blob/master/Images/clippedhead.png)
+Offset Head | Full circular head in which the center of the head does not align with the center diameter of the nail shaft; fired from a clipped-head nailer | ![](https://github.com/seasmith/DIY/blob/master/Images/offsethead.png)
 
 #### Degree
 
