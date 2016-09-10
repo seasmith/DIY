@@ -21,8 +21,9 @@ Tool |  Use | Materials | Features | Accessories | Safety
 [Router](#router) | Grooves/Joints | Wood | Fixed/Plunging base; variable speed | Table mount; Saw dust bag; Guides |  
 [Trim Router](#router) | Grooves/Joints | Wood | Tight spaces | | Big bits will overheat and burn wood
 
-___
-#### Circular Saw
+===
+
+### Circular Saw
 * Gear
   * Worm drive = driving gear rotation at right angle to blade rotation
   * Side winder = driving gear rotation parallel to blade rotation
@@ -46,14 +47,17 @@ Diamond (Segmented/Serated) | Masonry
 Silicone Carbide | Metal; abrasive
 Aluminum Oxide | Metal; abrasive
 
-___
-#### Table Saw
+===
 
-___
-#### Miter Saw
+### Table Saw
 
-___
-#### [Circular Saw Blades](http://www.lowes.com/projects/woodworking-and-crafts/circular-saw-blade-buying-guide/project)
+===
+
+### Miter Saw
+
+===
+
+### [Circular Saw Blades](http://www.lowes.com/projects/woodworking-and-crafts/circular-saw-blade-buying-guide/project)
 
 Teeth Design | Material 
 -------------|---------
@@ -74,14 +78,19 @@ Teeth Count | Cut Type
 
 
 ___
-#### Router
-* Types
-  * Plunge = heavy duty; adjustable; can bore/drill
-  * Fixed = heavy duty; adjustable (but cannot bore/drill); good for table routing
-  * Trim = tight spaces (i.e. cabinets)
-* Bits
+### Router
+#### Router Types
+* Plunge = heavy duty; adjustable; can bore/drill
+* Fixed = heavy duty; adjustable (but cannot bore/drill); good for table routing
+* Trim = tight spaces (i.e. cabinets)
 
-*Features*
+#### Router Cleaning
+* Clean bits with mineral spirits (lacquer thinner).
+* Wax the router base for reduced-friction during operation.
+
+#### Router Bits
+
+##### Router Bit Features
 
 Feature | Description
 --------|------------
@@ -90,14 +99,15 @@ Guide | a bearing (bottom or top) that allows the bit to ride an edge; requires 
 Shank | goes into the collar (1/4", 1/2", etc)
 Collar | Holds the bit; different sizes for different sized shanks
 
-*Profiles*
+##### Router Bit Profiles
 
 ![Bit profiles](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Router_bit_profiles_en.svg/191px-Router_bit_profiles_en.svg.png)
 
 ![Bit profiles 2](https://www.pmcrouterbits.com/media//routertypes.jpg)
 
-___
-#### Dremel
+===
+
+### Dremel
 
 Part | Description | Picture
 -----|-------------|--------
@@ -106,17 +116,18 @@ Collet | Holds the shank of a bit or mandrel; a subtype of chuck; forms the "col
 Mandrel | Shank with a tool-holding head; fits into the collete. Known as an arbor on other tools (angle grinders, hole saws, etc). | <img src="http://mdm.boschwebservices.com/files/Dremel%20EZ%20Lock%20Mandrel%20EZ402,%20EZ686-01,%20SC402%20(EN)%20r21752v15.jpg" width="200>
 Blower | Fixed fan attached in-line with the mandrel. | <img src="http://mdm.boschwebservices.com/files/Dremel%20Dust%20Blower%20490-hero%20(EN)%20r46920v15.jpg" width="200">
 
-___
-#### Nailer
+===
+
+### Nailer
 * [Framing Nailer Hub](http://www.framingnailerhub.com/)
 * [Paslode tech support](http://www.paslode.com/tech-support/)
 * [Different Types of Nail Guns](http://www.framingnailerhub.com/different-types-of-nail-guns/)
 * [Which type of nailer do you need for the job?](https://dengarden.com/home-improvement/which-type-of-nailer-do-you-need)
 
-##### Cleaning
+#### Cleaning
 * [Cordless battery powered](https://www.youtube.com/watch?v=PqIOKI02CB4&feature=youtu.be) | [More](https://www.youtube.com/watch?v=g2DNLmP30FI&feature=youtu.be) | [More](https://www.youtube.com/watch?v=C5AfbU9vI88)
 
-##### Nailer Nails
+#### Nailer Nails
 * See: [Fasteners#nail-guns](Fasteners.MD#nail-guns)
 
 ___
