@@ -337,15 +337,6 @@ Full head | Full circular head; required by code in many cases; greater holding 
 Clipped head | A round head nail with a small missing section that has been "clipped"; clipped to create greater density of nails in a package; cheaper than full head | ![](https://github.com/seasmith/DIY/blob/master/Images/clippedhead.png)
 Offset Head | Full circular head in which the center of the head does not align with the center diameter of the nail shaft; fired from a clipped-head nailer | ![](https://github.com/seasmith/DIY/blob/master/Images/offsethead.png)
 
-#### Degree
-
-Type | Degree
------|-------
-Framing, siding, roofing | 15
-Framing | 21
-Framing | 28
-Framing | 30
- 
 #### Collation
 
 Type | Collation
