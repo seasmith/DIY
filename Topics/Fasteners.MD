@@ -328,12 +328,14 @@ Pin | 23
 
 #### Gauge
 
-Type | Gauge | Diameter | Purpose
------|-------|----------|--------
-Framing | NA | 0.113-0.131" | Fixing studs and posts
-Finishing | 15-16 | 0.064-0.072" | Trim, baseboards
-Brad | 18 | 0.040" | Concealment (head or no head); Moulding, trim
-Pin | 23 |0.025" | Maximum concealment; beadings, moulding, baseboards, and casing
+Type | Degree | Gauge | Diameter | Purpose
+-----|--------|-------|----------|--------
+Framing | 21°-30° | NA | 0.113-0.131" | Fixing studs and posts
+Roofing | 15° | NA | | Nailing shingles to a roof
+Siding | 15° | NA | 0.092"
+Finishing | 0° | 15-16 | 0.064-0.072" | Trim, baseboards
+Brad | 0° | 18 | 0.040" | Concealment (head or no head); Moulding, trim
+Pin | 0° | 23 | 0.025" | Maximum concealment; beadings, moulding, baseboards, and casing
 
 
 #### Head Type
