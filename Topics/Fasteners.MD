@@ -312,6 +312,11 @@ Finishing | Fastening with discreet appearance; has head and regularly requires 
 Roofing | Fasten shingles, roofing felt, or sheet metal to wood; treated to prevent rusting; may contain a metal or plastic washer
 Masonary | Brick and other masonary; three types: round, square, and fluted
 Drywall | Drywall installation; often placed on exterior of drywall to prevent breakout; may be ringed; may have indented head
+Siding | Installation of HardiePlank siding to wood, steel, or OSB. Generally requires 2" (6d) nails. [More](http://www.jameshardie.com/d2w/installation/hardieplank-hz10-us-en.pdf) | [More](http://www.hardieinstallation.com/best-practices-hz10.shtml)
+
+* [Penny sizes](http://sizes.com/units/penny.htm)
+
+![](http://sizes.com/units/uimages/penny.gif)
 
 ### Nail Guns
 * Nail gun nails are generally classified by four features: [gauge (diameter)](#gauge); [head type](#head-type); [degree (angle of collation)](#degree); [collation type (coiled or stick)](#collation). [Other features](#other-features) define easy of use.
