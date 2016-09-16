@@ -4,10 +4,13 @@
   * [Circular Saw](#circular-saw)
   * [Table Saw](#table-saw)
   * [Miter Saw](#miter-saw)
-  * [Circular Saw Blades](#circular-saw-blades)
   * [Router](#router)
   * [Dremel](#dremel)
   * [Nailer](#nailer)
+* [Power Tool Accessories](#power-tool-accessories)
+  * [Circular Saw Blades](#circular-saw-blades)
+  * [Drill Bits](#drill-bits)
+  	* [Masonary Bits](#masonary-bits)
 * [Hand Tools](#hand-tools)
   * [Measurement](#measurement)
   * [Electrical](#electrical)
@@ -57,27 +60,6 @@ Aluminum Oxide | Metal; abrasive
 
 ===
 
-### [Circular Saw Blades](http://www.lowes.com/projects/woodworking-and-crafts/circular-saw-blade-buying-guide/project)
-
-Teeth Design | Material 
--------------|---------
-**Diamond Disontinuous** <br> <img src="http://mobileimages.lowes.com/product/converted/885911/885911360517.jpg" width="300"> | Concrete <br> Brick <br> Asphalt
-**Diamond Continuous Serrated/Segmented** <br> <img src="http://mobileimages.lowes.com/product/converted/028874/028874247123.jpg" width="300"> | Siding <br> Brick <br> Block
-**Diamond Continuous Unserrated/Unsegmented** <br> <img src="http://mobileimages.lowes.com/product/converted/644215/644215300397.jpg" width="300"> | Tile
-**Abrasive** <br> <img src="http://www.lowes.com/projects/images/buying-guides/Tools/circular-saw-blade-buying-guide-abrasive.jpg" width="300"> | Brick <br> Block <br> Metal <br> Vinyl (possibly)
-
-Teeth Count | Cut Type
-------|---------
-**18** <br> <img src="http://www.homedepot.com/catalog/productImages/400/3b/3baaa48a-8c4a-4e45-8c1d-6a242f8f7f52_400.jpg" width="300">  | Ripping (very rough)
-**24** <br> <img src="http://itslondon.s3.amazonaws.com/p/xl/PRO26032.jpg" width="300"> | Ripping (rough)
-**32** <br> <img src="http://i.ebayimg.com/images/i/281922268357-0-1/s-l1000.jpg" width="300"> | Ripping/Crosscutting (fine)
-**40** <br> <img src="https://tse2.mm.bing.net/th?id=OIP.Me4ef16a296c47dc6c675bdf549ff7ce7o0&pid=15.1" width="300"> | Ripping/Crosscutting (fine)
-**60** <br> <img src="http://cf-t.com/wp-content/uploads/DW3106.jpg" width="300"> | Crosscutting (very fine)
-**80** <br> <img src="http://i.ebayimg.com/images/g/DRMAAOSwNSxVBGQJ/s-l300.jpg" width="300"> | Trim/miter (smooth)
-**120+** <br> <img src="http://i.ebayimg.com/00/s/NDgzWDUwMA==/z/ScEAAOSwgQ9V6Z2X/$_35.JPG" width="300"> | Plywood (very smooth)
-
-
-___
 ### Router
 #### Router Types
 * Plunge = heavy duty; adjustable; can bore/drill
@@ -129,6 +111,36 @@ Blower | Fixed fan attached in-line with the mandrel. | <img src="http://mdm.bos
 
 #### Nailer Nails
 * See: [Fasteners#nail-guns](Fasteners.MD#nail-guns)
+
+___
+===
+
+## Power Tool Accessories
+### [Circular Saw Blades](http://www.lowes.com/projects/woodworking-and-crafts/circular-saw-blade-buying-guide/project)
+
+Teeth Design | Material 
+-------------|---------
+**Diamond Disontinuous** <br> <img src="http://mobileimages.lowes.com/product/converted/885911/885911360517.jpg" width="300"> | Concrete <br> Brick <br> Asphalt
+**Diamond Continuous Serrated/Segmented** <br> <img src="http://mobileimages.lowes.com/product/converted/028874/028874247123.jpg" width="300"> | Siding <br> Brick <br> Block
+**Diamond Continuous Unserrated/Unsegmented** <br> <img src="http://mobileimages.lowes.com/product/converted/644215/644215300397.jpg" width="300"> | Tile
+**Abrasive** <br> <img src="http://www.lowes.com/projects/images/buying-guides/Tools/circular-saw-blade-buying-guide-abrasive.jpg" width="300"> | Brick <br> Block <br> Metal <br> Vinyl (possibly)
+
+Teeth Count | Cut Type
+------|---------
+**18** <br> <img src="http://www.homedepot.com/catalog/productImages/400/3b/3baaa48a-8c4a-4e45-8c1d-6a242f8f7f52_400.jpg" width="300">  | Ripping (very rough)
+**24** <br> <img src="http://itslondon.s3.amazonaws.com/p/xl/PRO26032.jpg" width="300"> | Ripping (rough)
+**32** <br> <img src="http://i.ebayimg.com/images/i/281922268357-0-1/s-l1000.jpg" width="300"> | Ripping/Crosscutting (fine)
+**40** <br> <img src="https://tse2.mm.bing.net/th?id=OIP.Me4ef16a296c47dc6c675bdf549ff7ce7o0&pid=15.1" width="300"> | Ripping/Crosscutting (fine)
+**60** <br> <img src="http://cf-t.com/wp-content/uploads/DW3106.jpg" width="300"> | Crosscutting (very fine)
+**80** <br> <img src="http://i.ebayimg.com/images/g/DRMAAOSwNSxVBGQJ/s-l300.jpg" width="300"> | Trim/miter (smooth)
+**120+** <br> <img src="http://i.ebayimg.com/00/s/NDgzWDUwMA==/z/ScEAAOSwgQ9V6Z2X/$_35.JPG" width="300"> | Plywood (very smooth)
+
+===
+
+### Drill Bits
+
+#### Masonary Bits
+* [SDS Bits](http://durablepowertools.com/56/general/what-is-sds-plus-and-are-sds-drills-better/) = Allows bit to move within the chuck and results in less absorption by the chuck. More powerful drilling and reduces the vibration experience by the operator. Usually found on larger hammer drill systems like rotary hammers. Insert and twist bit to secure into the chuck.
 
 ___
 ===
