@@ -4,6 +4,7 @@
   * [Circular Saw](#circular-saw)
   * [Table Saw](#table-saw)
   * [Miter Saw](#miter-saw)
+  * [Reciprocating Saw](#reciprocating-saw)
   * [Router](#router)
   * [Dremel](#dremel)
   * [Nailer](#nailer)
@@ -37,6 +38,7 @@ Tool |  Use | Materials | Features | Accessories | Safety
   * Carbide Tip
   * Fine tooth = veneers/plywood
   * Carborundum = masonry/steel
+* Feature: cross/rip cut guide; bevel (for bevel cuts); blade incline (for cutting grooves); water inlet (for masonary)
 * [Video guide](https://www.youtube.com/watch?v=1APf46AhM4g)
 * [Blades](http://www.lowes.com/projects/woodworking-and-crafts/circular-saw-blade-buying-guide/project)
 
@@ -57,6 +59,11 @@ Aluminum Oxide | Metal; abrasive
 ===
 
 ### Miter Saw
+
+===
+
+### Reciprocating Saw
+* Features = horizontal and vertical blade attachment; multi-tool accessory attachment (for reciprocating brushes); offset cutter (for flush cutting and cutting baseboards)
 
 ===
 
