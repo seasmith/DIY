@@ -17,7 +17,7 @@
 3. Run under floorboards
 4. Run through attic
 ```
-* [How to run wirse through pipe](http://diy.stackexchange.com/questions/100279/how-can-i-pull-a-wire-through-a-pipe-that-has-too-many-turns-for-fish-tape)
+* [How to run wires/cable through pipe](http://diy.stackexchange.com/questions/100279/how-can-i-pull-a-wire-through-a-pipe-that-has-too-many-turns-for-fish-tape)
 ```
 1. Fish tape
 2. Measuring tape
