@@ -22,6 +22,7 @@ ___
 2. Clean the trap (messy)
 ```
 
+* [How to wrap pipe with teflon tape](http://diy.stackexchange.com/questions/2821/how-do-i-wrap-pipe-threads-with-teflon-tape) = clockwise (like tightening a nut)
 * [When to use pipe dope vs teflon tape](http://diy.stackexchange.com/questions/21117/when-should-pipe-dope-vs-thread-tape-be-used) | [Video](http://www.thisoldhouse.com/toh/video/0,,20800953,00.html)
 * [Glossary](http://www.drews-plumbing.com/glossary.html) | [More](http://www.horizonservicesinc.com/reference/glossary/plumbing-glossary) | [More](https://www.safeplumbing.org/resources/glossary)
 
