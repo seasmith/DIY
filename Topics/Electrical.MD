@@ -17,7 +17,14 @@
 3. Run under floorboards
 4. Run through attic
 ```
-
+* [How to run wirse through pipe](http://diy.stackexchange.com/questions/100279/how-can-i-pull-a-wire-through-a-pipe-that-has-too-many-turns-for-fish-tape)
+```
+1. Fish tape
+2. Measuring tape
+3. Vacuum and a 'mouse' (plastic bag)
+4. Leaf-blower (air hose) and a 'mouse'
+5. An actual mouse
+```
 * [Old work vs new work](http://homerenovations.about.com/od/electrical/ss/Types-Of-Electrical-Boxes.htm) | `New` = walls w/o drywall; `Old` = walls w/ drywall (no stud access)
 * [Plasti vs Metal box](http://homerenovations.about.com/od/electrical/ss/Types-Of-Electrical-Boxes.htm) | `Plastic` = Romex/plastic clad cable; `Metal` = metal clad cable
 * [Bootleg outlet](http://diy.stackexchange.com/questions/11275/would-you-ever-wire-white-and-ground-together) | Electrical ground from the neutral side of a receptacle/fixture | Common in 2-wire buildings
