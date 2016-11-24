@@ -52,21 +52,24 @@ Diamond (Segmented/Serated) | Masonry
 Silicone Carbide | Metal; abrasive
 Aluminum Oxide | Metal; abrasive
 
-===
-
+___
 ### Table Saw
 
-===
-
+___
 ### Miter Saw
 
-===
-
+___
 ### Reciprocating Saw
-* Features = horizontal and vertical blade attachment; multi-tool accessory attachment (for reciprocating brushes); offset cutter (for flush cutting and cutting baseboards)
+* Features:
+  * Horizontal and vertical blade attachment
+  * multi-tool accessory attachment (for reciprocating brushes)
+  * offset cutter (for flush cutting and cutting baseboards)
+* Purpose:
+  * Demo
+  * Rough cuts
+  * Multi-purpose tool (with accessories)
 
-===
-
+___
 ### Router
 #### Router Types
 * Plunge = heavy duty; adjustable; can bore/drill
@@ -94,8 +97,7 @@ Collar | Holds the bit; different sizes for different sized shanks
 
 ![Bit profiles 2](https://www.pmcrouterbits.com/media//routertypes.jpg)
 
-===
-
+___
 ### Dremel
 
 Part | Description | Picture
@@ -105,8 +107,7 @@ Collet | Holds the shank of a bit or mandrel; a subtype of chuck; forms the "col
 Mandrel | Shank with a tool-holding head; fits into the collete. Known as an arbor on other tools (angle grinders, hole saws, etc). | <img src="http://mdm.boschwebservices.com/files/Dremel%20EZ%20Lock%20Mandrel%20EZ402,%20EZ686-01,%20SC402%20(EN)%20r21752v15.jpg" width="200">
 Blower | Fixed fan attached in-line with the mandrel. | <img src="http://mdm.boschwebservices.com/files/Dremel%20Dust%20Blower%20490-hero%20(EN)%20r46920v15.jpg" width="200">
 
-===
-
+___
 ### Nailer
 * [Framing Nailer Hub](http://www.framingnailerhub.com/)
 * [Paslode tech support](http://www.paslode.com/tech-support/)
@@ -129,8 +130,11 @@ Finishing | 0° | 15-16 | 0.064-0.072" | Trim, baseboards
 Brad | 0° | 18 | 0.040" | Concealment (head or no head); Moulding, trim
 Pin | 0° | 23 | 0.025" | Maximum concealment; beadings, moulding, baseboards, and casing
 
-#### Cleaning
+#### Maintenance
 * [Cordless battery powered](https://www.youtube.com/watch?v=PqIOKI02CB4&feature=youtu.be) | [More](https://www.youtube.com/watch?v=g2DNLmP30FI&feature=youtu.be) | [More](https://www.youtube.com/watch?v=C5AfbU9vI88)
+* Oil:
+  * Two drops at the start of each day of use
+  * Two drops every hour of use
 
 #### Nailer Nails
 * See: [Fasteners#nail-guns](Fasteners.MD#nail-guns)
