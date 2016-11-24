@@ -102,7 +102,7 @@ Part | Description | Picture
 -----|-------------|--------
 Chuck | Radial clamp for holding shanks of collets, bits, or mandrels. | <img src="http://mdm.boschwebservices.com/files/Dremel%20Rotary%20Tool%20Accessory%204486%20(EN)%20r19835v15.jpg" width="200"> 
 Collet | Holds the shank of a bit or mandrel; a subtype of chuck; forms the "collar" for the bit or mandrel. | <img src="http://mdm.boschwebservices.com/files/Dremel%20Rotary%20Tool%20Accessory%20481%20(EN)%20r19832v15.jpg" width="200">
-Mandrel | Shank with a tool-holding head; fits into the collete. Known as an arbor on other tools (angle grinders, hole saws, etc). | <img src="http://mdm.boschwebservices.com/files/Dremel%20EZ%20Lock%20Mandrel%20EZ402,%20EZ686-01,%20SC402%20(EN)%20r21752v15.jpg" width="200>
+Mandrel | Shank with a tool-holding head; fits into the collete. Known as an arbor on other tools (angle grinders, hole saws, etc). | <img src="http://mdm.boschwebservices.com/files/Dremel%20EZ%20Lock%20Mandrel%20EZ402,%20EZ686-01,%20SC402%20(EN)%20r21752v15.jpg" width="200">
 Blower | Fixed fan attached in-line with the mandrel. | <img src="http://mdm.boschwebservices.com/files/Dremel%20Dust%20Blower%20490-hero%20(EN)%20r46920v15.jpg" width="200">
 
 ===
@@ -112,6 +112,22 @@ Blower | Fixed fan attached in-line with the mandrel. | <img src="http://mdm.bos
 * [Paslode tech support](http://www.paslode.com/tech-support/)
 * [Different Types of Nail Guns](http://www.framingnailerhub.com/different-types-of-nail-guns/)
 * [Which type of nailer do you need for the job?](https://dengarden.com/home-improvement/which-type-of-nailer-do-you-need)
+* Nail gun nails are generally classified by four features: 
+	* [gauge (diameter)](#gauge)
+	* [head type](#head-type)
+	* [degree (angle of collation)](#degree)
+	* [collation type (coiled or stick)](#collation)
+	* [Other features](#other-features) may define easy of use.
+* [Nail guns nailers buying guide](http://www.homedepot.com/c/nail_guns_nailers_buying_guide_HT_BG_HA#types) | [More](http://www.lowes.com/projects/woodworking-and-crafts/nail-gun-buying-guide/project)
+
+Type | Degree | Gauge | Diameter | Purpose
+-----|--------|-------|----------|--------
+Framing | 21°-30° | NA | 0.113-0.131" | Fixing studs and posts
+Roofing | 15° | NA | | Nailing shingles to a roof
+Siding | 15° | 13-14 | 0.092" | Fastening hardie siding; fencing; non-structural framing
+Finishing | 0° | 15-16 | 0.064-0.072" | Trim, baseboards
+Brad | 0° | 18 | 0.040" | Concealment (head or no head); Moulding, trim
+Pin | 0° | 23 | 0.025" | Maximum concealment; beadings, moulding, baseboards, and casing
 
 #### Cleaning
 * [Cordless battery powered](https://www.youtube.com/watch?v=PqIOKI02CB4&feature=youtu.be) | [More](https://www.youtube.com/watch?v=g2DNLmP30FI&feature=youtu.be) | [More](https://www.youtube.com/watch?v=C5AfbU9vI88)
