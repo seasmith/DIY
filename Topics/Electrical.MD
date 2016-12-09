@@ -1,9 +1,11 @@
 # Electrical
 
-* [**Electrical**](#electrical)
+* [Electrical](#electrical)
+  * [Wiring](#wiring)
+  * [Outlets](#outlets)
 
-## Electrical
-### Wiring
+___
+## Wiring
 
 Wire Color | Type
 -----------|-----
@@ -35,7 +37,8 @@ Blue        | Ground
 5. An actual mouse
 ```
 
-### Outlets
+___
+## Outlets
 
 Screw Color | Wire Type
 ------------|----------
