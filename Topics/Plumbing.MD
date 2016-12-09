@@ -5,6 +5,7 @@
 * [Definitions](#definitions)
 * [Pipe Materials](#pipe-materials)
 * [Fittings](#fittings)
+* [Common Problems](#common-problems)
 
 http://www.ebay.com/gds/How-to-Repair-a-Faucet-/10000000177770596/g.html  
 
@@ -45,7 +46,7 @@ Material | Use
 ---------|-----
 **Black Pipe**<br><img src="http://i.stack.imgur.com/j3ZdX.jpg" width="300"> | Gas
 **Copper**<br><img src="http://i.stack.imgur.com/yXD33.jpg" width="300"> | Water
-**Galvanized**<br><img src="http://i.stack.imgur.com/XX2Sp.jpg" width="300"> |   
+**Galvanized**<br><img src="http://i.stack.imgur.com/XX2Sp.jpg" width="300"> | Water (old)  
 **Plastic**<br><img src="http://i.stack.imgur.com/jPxr3.jpg" width="300"> | Water
 
 ___
@@ -59,3 +60,20 @@ Type | Description
 Compression | 
 Flare |
 Push | 
+
+___
+## Common Problems
+### Leaking
+* Leaky faucet
+  * Worn seat washer = replace washer [[1]][leaky1]
+  * Broken retainer ring = peel and grind original ring and replace with new [[1]][leaky1]
+  * Pitted/cracked seat = replace seat; emory cloth cleaning; reaming; requires a seat wrench for removal/installation
+  
+[leaky1]: https://www.youtube.com/watch?v=zMH61Yabdj0&index=33&list=PLkJADc1qDrr_0MRi-qB9a5w2iyaBS-Ivb
+
+___
+## Common Tasks
+### Replacement
+* [Replace faucet][replace_faucet]
+
+[replace_faucet]: https://www.youtube.com/watch?annotation_id=annotation_3320077751&feature=iv&index=118&list=PLkJADc1qDrr_0NxtmzECiOWkr5de82kXV&src_vid=zMH61Yabdj0&v=PgnpmnY7Dok
