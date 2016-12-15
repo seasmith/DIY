@@ -44,6 +44,22 @@ Type | Description
 [door.sweeps.1]: http://www.thisoldhouse.com/toh/photos/0,,20441335_20875463,00.html "Door Sweeps"
 [trvs.1]: http://www.thisoldhouse.com/toh/photos/0,,20441335_20875466,00.html "Tubular Rubber, Vinyl, or Silicone"
 
+* [Install a new door](https://www.youtube.com/watch?v=EXnRTYs-n8o)
+  1) Measure and mark 12" from threshold up.
+  2) Remove pins and remove door.
+  3) Lay old door on new door with tops flush with each other.
+  4) Mark 12" measure from step 1 but subtract 1/4".
+  5) Mark hinge tops and bottoms (combination square).
+  6) Mark hinge side (combination square).
+  7) Mortise hinge with chisel.
+  8) Cut base along 1/4" mark from step 4.
+  9) Screw hinge to door.
+  10) Fill old jamb holes with scrapwood and glue.
+  11) Fill door jamb hinge mortise with cardboard if hinge sits too deep.
+  12) Drill out new lock-hole assembly.
+  13) Instlal door.
+  14) Prime and paint.
+
 ___
 ## Screen Doors
 * [How to fix damaged sliding screen door track](http://diy.stackexchange.com/questions/36387/how-can-i-fix-this-portion-of-sliding-screen-door-track) = aluminum/tin cup edge-top and JB weld
