@@ -8,6 +8,9 @@
 * [Wood coatings](#wood-coatings)
 * [Wood types](#wood-types)
 
+##### to file
+* [The Quickest Way to Remove Varnish & Stain Without Sanding](http://homeguides.sfgate.com/quickest-way-remove-varnish-stain-sanding-45220.html)
+
 ___
 ## General
 * How to drill a hole to a certain depth every time = tape to mark spot | [Collars](http://woodworking.stackexchange.com/questions/3384/how-do-i-make-a-drill-hole-the-same-depth-every-time#answer-3390)
