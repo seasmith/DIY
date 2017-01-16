@@ -31,8 +31,8 @@ ___
 ### Installation
 * [How to install a faucet hole cover](http://homeguides.sfgate.com/install-cover-extra-hole-kitchen-sink-45477.html)
 
-* [How to wrap pipe with teflon tape](http://diy.stackexchange.com/questions/2821/how-do-i-wrap-pipe-threads-with-teflon-tape) = clockwise (like tightening a nut)
 
+* [How to wrap pipe with teflon tape](http://diy.stackexchange.com/questions/2821/how-do-i-wrap-pipe-threads-with-teflon-tape) = clockwise (like tightening a nut)
 ```
 # Wrap teflon tape clock-wise (with the grain).
 # Two or three wrappings.
@@ -41,6 +41,19 @@ ___
 * [When to use pipe dope vs teflon tape](http://diy.stackexchange.com/questions/21117/when-should-pipe-dope-vs-thread-tape-be-used) | [Video](http://www.thisoldhouse.com/toh/video/0,,20800953,00.html)
 
 ### Winterization
+* [How to prevent frozen pipes](https://www.youtube.com/watch?v=BVItL66doqw)
+```
+Prevention:
+  1. Seal exterior/interior penetrations; foam.
+  2. Wrap pipes with foam.
+  
+Thawing:
+  1. Keep tap open and apply heat to frozen area (open doors,
+     blow-dryer, but NEVER an open flame).
+  2. Pipe thawing machine.
+```
+
+
 * [Sprinkler system](https://www.youtube.com/watch?v=WW4VYWamwwo)
 ```
 1. Shut water off the water from the main water supply ot the sprinkler system.
