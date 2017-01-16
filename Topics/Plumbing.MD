@@ -2,17 +2,65 @@
 
 ## Table of Contents
 * [General Plumbing](#general-plumbing)
+  * [Leaking](#leaking)
+  * [Replacement](#replacement)
+  * [Installation](#installation)
+  * [Winterization](#winterization)
+  * [Maintenance](#maintenance)
 * [Definitions](#definitions)
 * [Pipe Materials](#pipe-materials)
 * [Fittings](#fittings)
-* [Common Problems](#common-problems)
 
 http://www.ebay.com/gds/How-to-Repair-a-Faucet-/10000000177770596/g.html  
 
 ___
 ## General Plumbing
+### Leaking
+* Leaky faucet
+  * Worn seat washer = replace washer [[1]][leaky1]
+  * Broken retainer ring = peel and grind original ring and replace with new [[1]][leaky1]
+  * Pitted/cracked seat = replace seat; emory cloth cleaning; reaming; requires a seat wrench for removal/installation
+  
+[leaky1]: https://www.youtube.com/watch?v=zMH61Yabdj0&index=33&list=PLkJADc1qDrr_0MRi-qB9a5w2iyaBS-Ivb
+
+### Replacement
+* [Replace faucet][replace_faucet]
+
+[replace_faucet]: https://www.youtube.com/watch?annotation_id=annotation_3320077751&feature=iv&index=118&list=PLkJADc1qDrr_0NxtmzECiOWkr5de82kXV&src_vid=zMH61Yabdj0&v=PgnpmnY7Dok
+
+### Installation
 * [How to install a faucet hole cover](http://homeguides.sfgate.com/install-cover-extra-hole-kitchen-sink-45477.html)
+
+* [How to wrap pipe with teflon tape](http://diy.stackexchange.com/questions/2821/how-do-i-wrap-pipe-threads-with-teflon-tape) = clockwise (like tightening a nut)
+
+```
+# Wrap teflon tape clock-wise (with the grain).
+# Two or three wrappings.
+```
+
+* [When to use pipe dope vs teflon tape](http://diy.stackexchange.com/questions/21117/when-should-pipe-dope-vs-thread-tape-be-used) | [Video](http://www.thisoldhouse.com/toh/video/0,,20800953,00.html)
+
+### Winterization
+* [Sprinkler system](https://www.youtube.com/watch?v=WW4VYWamwwo)
+```
+1. Shut water off the water from the main water supply ot the sprinkler system.
+2. Open testcock #1 (outflow; lowest of the two); see: http://media.wattswater.com/IOM-F-765.pdf.
+3. Drain the water near the main water supply (allow outside air pressure to drain the line or use 60 psi air pressur).
+  3a. May need to remove drain nipple.
+4. Drain remaining water from valve box (underground).
+
+NEVER just close both outside valves. This will remove the thermal connection
+to the main water supply (coming from the home).
+
+ALWAYS wrap the backflow preventer with a towel or blanket.
+
+You may need to blow out the water if it does not drain properly; see:
+http://diy.stackexchange.com/questions/51042/why-is-the-pressure-vacuum-breaker-leaking-while-trying-to-blow-out-my-sprinkler
+```
+
+### Maintenance
 * [How to make a kitchen sink smell better](http://diy.stackexchange.com/questions/1079/how-can-i-make-my-sink-smell-better) | [More](http://diy.stackexchange.com/questions/5445/what-is-this-mysterious-odor-from-the-kitchen-sink-and-how-do-i-fix-it?rq=1)
+
 ```
 1. Baking soda and vinegar
 	a. Pour a box of baking soda into the drain with the hot water running
@@ -23,12 +71,9 @@ ___
 2. Clean the trap (messy)
 ```
 
-* [How to wrap pipe with teflon tape](http://diy.stackexchange.com/questions/2821/how-do-i-wrap-pipe-threads-with-teflon-tape) = clockwise (like tightening a nut)
-* [When to use pipe dope vs teflon tape](http://diy.stackexchange.com/questions/21117/when-should-pipe-dope-vs-thread-tape-be-used) | [Video](http://www.thisoldhouse.com/toh/video/0,,20800953,00.html)
-* [Glossary](http://www.drews-plumbing.com/glossary.html) | [More](http://www.horizonservicesinc.com/reference/glossary/plumbing-glossary) | [More](https://www.safeplumbing.org/resources/glossary)
-
 ___
 ## Definitions
+* [Glossary](http://www.drews-plumbing.com/glossary.html) | [More](http://www.horizonservicesinc.com/reference/glossary/plumbing-glossary) | [More](https://www.safeplumbing.org/resources/glossary)
 
 Term | Definition
 -----|-----------
@@ -60,20 +105,3 @@ Type | Description
 Compression | 
 Flare |
 Push | 
-
-___
-## Common Problems
-### Leaking
-* Leaky faucet
-  * Worn seat washer = replace washer [[1]][leaky1]
-  * Broken retainer ring = peel and grind original ring and replace with new [[1]][leaky1]
-  * Pitted/cracked seat = replace seat; emory cloth cleaning; reaming; requires a seat wrench for removal/installation
-  
-[leaky1]: https://www.youtube.com/watch?v=zMH61Yabdj0&index=33&list=PLkJADc1qDrr_0MRi-qB9a5w2iyaBS-Ivb
-
-___
-## Common Tasks
-### Replacement
-* [Replace faucet][replace_faucet]
-
-[replace_faucet]: https://www.youtube.com/watch?annotation_id=annotation_3320077751&feature=iv&index=118&list=PLkJADc1qDrr_0NxtmzECiOWkr5de82kXV&src_vid=zMH61Yabdj0&v=PgnpmnY7Dok
