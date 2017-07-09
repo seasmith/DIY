@@ -9,16 +9,16 @@ Use the [Topic Quick Links](#topic-quick-links) below to navigate the various DI
 [Fasteners](Topics/Fasteners.MD) | [Tools](Topics/Tools.MD) 
 ---------------------------------|-------------------------
 
-[Woodworking](Topics/Woodworking.MD) | [Drawers and Cabinets](Topics/Drawers and Cabinets.MD) | [Flooring](Topics/Flooring.MD)
+[Woodworking](Topics/Woodworking.MD) | [Drawers and Cabinets](Topics/Drawers%20and%20Cabinets.MD) | [Flooring](Topics/Flooring.MD)
 -------------------------------------|--------------------------------------------------------|-------------------------------
 
-[Doors](Topics/Doors.MD) | [Interior Walls](Topics/Interior Walls.MD) | [Exterior Walls](Topics/Exterior Walls.MD)
+[Doors](Topics/Doors.MD) | [Interior Walls](Topics/Interior%20Walls.MD) | [Exterior Walls](Topics/Exterior%20Walls.MD)
 -------------------------|--------------------------------------------|-------------------------------------------
 
-[Plumbing](Topics/Plumbing.MD) | [Electrical](Topics/Electrical.MD) | [Climate Control](Topics/Climate Control.MD)
+[Plumbing](Topics/Plumbing.MD) | [Electrical](Topics/Electrical.MD) | [Climate Control](Topics/Climate%20Control.MD)
 -------------------------------|------------------------------------|---------------------------------------------
 
-[Adhesives, Resins, and Sealants](Topics/Adhesives Resins and Sealants.MD) | [Paint](Topics/Paint.MD)
+[Adhesives, Resins, and Sealants](Topics/Adhesives%20Resins%20and%20Sealants.MD) | [Paint](Topics/Paint.MD)
 ---------------------------------------------------------------------------|-------------------------
 
 [Cleaning](Topics/Cleaning.MD)  | [Cars](Topics/Cars.MD)
