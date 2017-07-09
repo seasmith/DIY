@@ -21,8 +21,8 @@ Use the [Topic Quick Links](#topic-quick-links) below to navigate the various DI
 [Adhesives, Resins, and Sealants](Topics/Adhesives%20Resins%20and%20Sealants.MD) | [Paint](Topics/Paint.MD)
 ---------------------------------------------------------------------------|-------------------------
 
-[Cleaning](Topics/Cleaning.MD)  | [Cars](Topics/Cars.MD)
---------------------------------|-----------------------
+[Outdoors](Topics/Outdoors.MD) | [Cleaning](Topics/Cleaning.MD)  | [Cars](Topics/Cars.MD)
+-------------------------------|---------------------------------|-----------------------
 
 ___
 
