@@ -8,8 +8,11 @@
   * [Winterization](#winterization)
   * [Maintenance](#maintenance)
 * [Definitions](#definitions)
-* [Pipe Materials](#pipe-materials)
+* [Pipes](#pipes)
+  * [Pipe Materials](#pipe-materials)
+  * [Pipe Types](#pipe-types)
 * [Fittings](#fittings)
+  * [Fitting Types](#fitting-types)
 
 http://www.ebay.com/gds/How-to-Repair-a-Faucet-/10000000177770596/g.html  
 
@@ -97,7 +100,9 @@ Escutcheon | Decorative metal-trim ring that covers a pipe potruding from the wa
 Stop Valve | Valves which shut off hot/cold water supplies to faucets, toilets, etc
 
 ___
-## Pipe Materials
+## Pipe
+
+### Pipe Materials
 * [Gas vs Water lines](http://diy.stackexchange.com/questions/13126/how-can-i-tell-if-these-pipes-are-gas-lines-or-water-lines) | `Gas` = black pipe w/ threaded connections; `Water` = copper w/ solder; galvanized w/ threaded connections; plastic w/ various connection types  
 
 Material | Use 
@@ -107,11 +112,20 @@ Material | Use
 **Galvanized**<br><img src="http://i.stack.imgur.com/XX2Sp.jpg" width="300"> | Water (old)  
 **Plastic**<br><img src="http://i.stack.imgur.com/jPxr3.jpg" width="300"> | Water
 
+### Pipe Types
+Sources: [[1]](https://diy.stackexchange.com/questions/83489/combo-tee-vs-tee-wye/83497#83497)
+
+Type | Description | Picture
+-----|-------------|--------
+Wye/Tee Wye/45° Wye | Connect two (non-sanitary) lines together | <img src="https://i.stack.imgur.com/je1pSm.jpg" width = "200">
+Comb Tee | Connect two (non-sanitary) lines together; longer sweep than a tee wye | <img src="https://i.stack.imgur.com/ayQd9m.jpg" width="200">
+Sanitary Tee | Connect two sanitary lines together (in vertical position only) | <img src="https://i.stack.imgur.com/pVoIc.jpg" width="200">
+
 ___
 ## Fittings
 * [Brass fittings](http://www.brasscraft.com/pdf/0302_brass_fittings_catalog.pdf) | [Very Good](http://www.globalspec.com/learnmore/flow_control_fluid_transfer/pipe_tubing_hose_fittings_accessories/pipe_fittings) |  [More](http://www.westernsafety.com/products/edic/edicpg6.html) | [More](http://www.indiamart.com/fairfieldengineers/pipe-tube-fittings.html) | [More](http://g01.s.alicdn.com/kf/HTB1eXD6HXXXXXadXXXXq6xXFXXX6/222488987/HTB1eXD6HXXXXXadXXXXq6xXFXXX6.jpg) | [More](http://www.nbmartin.com/products/Brass-Thread-Fittings-997834.html)
 
-*Type*
+### Fitting Types
 
 Type | Description
 -----|--------
