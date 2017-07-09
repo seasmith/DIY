@@ -169,6 +169,12 @@ Teeth Count | Cut Type
 #### Masonary Bits
 * [SDS Bits](http://durablepowertools.com/56/general/what-is-sds-plus-and-are-sds-drills-better/) = Allows bit to move within the chuck and results in less absorption by the chuck. More powerful drilling and reduces the vibration experience by the operator. Usually found on larger hammer drill systems like rotary hammers. Insert and twist bit to secure into the chuck.
 
+##### Ceramic Tile
+
+##### Porcelain Tile
+
+##### Stucco
+
 ___
 ===
 ___
