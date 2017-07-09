@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [General Plumbing](#general-plumbing)
+  * [Toilet](#toilet)
   * [Leaking](#leaking)
   * [Replacement](#replacement)
   * [Installation](#installation)
@@ -18,6 +19,9 @@ http://www.ebay.com/gds/How-to-Repair-a-Faucet-/10000000177770596/g.html
 
 ___
 ## General Plumbing
+### Toilet
+* Seal gap between toilet and floor BUT leave a small opening in the back (to indicate leaks)
+
 ### Leaking
 * Leaky faucet
   * Worn seat washer = replace washer [[1]][leaky1]
