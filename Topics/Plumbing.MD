@@ -134,7 +134,8 @@ Schedule | Material | Rating
 ---------|----------|-------
 20       | PVC      | Waste water
 40       | PVC/CPVC | Cold water supply
-80       | CPVC     | Hot water supply [[1]](https://www.pvcfittingsonline.com/resource-center/can-i-use-pvc-for-hot-water/)
+80       | CPVC     | Hot water supply (never hot with PVC, only with CPVC) [[1]](https://www.pvcfittingsonline.com/resource-center/can-i-use-pvc-for-hot-water/)
+
 
 ___
 ## Fittings
