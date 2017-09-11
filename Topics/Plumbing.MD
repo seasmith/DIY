@@ -12,6 +12,7 @@
 * [Pipes](#pipes)
   * [Pipe Materials](#pipe-materials)
   * [Pipe Types](#pipe-types)
+* [Sizes](#sizes)
 * [Fittings](#fittings)
   * [Fitting Types](#fitting-types)
 
@@ -126,11 +127,30 @@ Comb Tee | Connect two (non-sanitary) lines together; longer sweep than a tee wy
 Sanitary Tee | Connect two sanitary lines together (in vertical position only) | <img src="https://i.stack.imgur.com/pVoIc.jpg" width="200">
 
 ___
+## Sizes
+* Pipe size is sometimes referred to as "schedule"
+
+Schedule | Material | Rating
+---------|----------|-------
+20       | PVC      | Waste water
+40       | PVC/CPVC | Cold water supply
+80       | CPVC     | Hot water supply [[1]](https://www.pvcfittingsonline.com/resource-center/can-i-use-pvc-for-hot-water/)
+
+___
 ## Fittings
 * [Brass fittings](http://www.brasscraft.com/pdf/0302_brass_fittings_catalog.pdf) | [Very Good](http://www.globalspec.com/learnmore/flow_control_fluid_transfer/pipe_tubing_hose_fittings_accessories/pipe_fittings) |  [More](http://www.westernsafety.com/products/edic/edicpg6.html) | [More](http://www.indiamart.com/fairfieldengineers/pipe-tube-fittings.html) | [More](http://g01.s.alicdn.com/kf/HTB1eXD6HXXXXXadXXXXq6xXFXXX6/222488987/HTB1eXD6HXXXXXadXXXXq6xXFXXX6.jpg) | [More](http://www.nbmartin.com/products/Brass-Thread-Fittings-997834.html)
 
 ### Fitting Types
+#### General Fitting
+* __Female__ = other connection goes inside a female; threads are on the inside
+* __Male__ = male goes inside of the other connection; threads are on the outside
+* __Coupling__ = short pipe that connects/joins other pipe
+* __Nipple__ = a double male coupling; a coupling with two male threads
+* __Reducer__ = a coupling that connects two unequal diameters of pipe; connects two different pipe sizes
+* __Street Elbow__ = has a male and female end; regular elbows have two female ends; [pic]
+* __Rubber Coupler__ = connects PVC and damaged metal in any combination; [pic](https://cdn2.tmbi.com/TFH/Step-By-Step/FH05MAY_METTRA_15.JPG)
 
+#### Connection Type
 Type | Description
 -----|--------
 Compression | 
