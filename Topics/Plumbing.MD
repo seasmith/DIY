@@ -79,6 +79,14 @@ You may need to blow out the water if it does not drain properly; see:
 http://diy.stackexchange.com/questions/51042/why-is-the-pressure-vacuum-breaker-leaking-while-trying-to-blow-out-my-sprinkler
 ```
 
+### Not Fitting
+* Cannot connect something to something else
+```
+# Disimilar thread types/connections (i.e. black iron to flare).
+# Must acquire a coupling.
+# i.e. https://diy.stackexchange.com/questions/54008/why-wont-this-3-8-male-connector-for-a-natural-gas-dryer-fit-a-3-8-female-conne
+```
+
 ### Maintenance
 * [How to make a kitchen sink smell better](http://diy.stackexchange.com/questions/1079/how-can-i-make-my-sink-smell-better) | [More](http://diy.stackexchange.com/questions/5445/what-is-this-mysterious-odor-from-the-kitchen-sink-and-how-do-i-fix-it?rq=1)
 
@@ -146,6 +154,8 @@ ___
 * __Female__ = other connection goes inside a female; threads are on the inside
 * __Male__ = male goes inside of the other connection; threads are on the outside
 * __Coupling__ = short pipe that connects/joins other pipe
+  * Can connect two different size or two different thread/connection types (i.e. NPT to flare)
+    * NPT to flare = for connecting natural gas line (NPT black iron) to flare connection of an appliance (i.e. dryer) [[1]](https://diy.stackexchange.com/questions/54008/why-wont-this-3-8-male-connector-for-a-natural-gas-dryer-fit-a-3-8-female-conne)
 * __Nipple__ = a double male coupling; a coupling with two male threads
 * __Reducer__ = a coupling that connects two unequal diameters of pipe; connects two different pipe sizes
 * __Street Elbow__ = has a male and female end; regular elbows have two female ends; [pic]
