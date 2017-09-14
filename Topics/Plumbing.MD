@@ -153,10 +153,10 @@ ___
 #### General Fitting
 * __Female__ = other connection goes inside a female; threads are on the inside
 * __Male__ = male goes inside of the other connection; threads are on the outside
-* __Coupling__ = short pipe that connects/joins other pipe
-  * Can connect two different size or two different thread/connection types (i.e. NPT to flare)
-    * NPT to flare = for connecting natural gas line (NPT black iron) to flare connection of an appliance (i.e. dryer) [[1]](https://diy.stackexchange.com/questions/54008/why-wont-this-3-8-male-connector-for-a-natural-gas-dryer-fit-a-3-8-female-conne)
-* __Nipple__ = a double male coupling; a coupling with two male threads
+* __Coupling__ = short pipe that connects/joins other pipe; can connect two different size or two different thread/connection types (i.e. NPT to flare)
+  * NPT to flare = for connecting natural gas line (NPT black iron) to flare connection of an appliance (i.e. dryer) [[1]](https://diy.stackexchange.com/questions/54008/why-wont-this-3-8-male-connector-for-a-natural-gas-dryer-fit-a-3-8-female-conne)
+* __Nipple__ = a double male coupling; a coupling with two male threads; turns a female into a male
+  * 1/4" brass nipple = for turning a female quick-connect into a male quick-connect
 * __Reducer__ = a coupling that connects two unequal diameters of pipe; connects two different pipe sizes
 * __Street Elbow__ = has a male and female end; regular elbows have two female ends; [pic]
 * __Rubber Coupler__ = connects PVC and damaged metal in any combination; [pic](https://cdn2.tmbi.com/TFH/Step-By-Step/FH05MAY_METTRA_15.JPG)
