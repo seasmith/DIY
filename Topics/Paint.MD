@@ -35,6 +35,7 @@ Oil        | Great look but poor protection (for outdoors especially |Tung, Lins
 
 * Great videos:
   * [What Kind of Finish Should You Use?](https://www.youtube.com/watch?v=bbiXJd_1l8Y)
+  * [Wiping Varnish Shootout](https://www.youtube.com/watch?v=PryTA4pzTZ4) (comparing different types of wipe-on sealers)
 
 ### Layered
 * Polyurethane
@@ -54,12 +55,14 @@ Oil        | Great look but poor protection (for outdoors especially |Tung, Lins
     * Dry time: quick (minutes)
     * Tone: not as warm as oil
     * Coats: 4 or more
+    * Intracoat: 220-320 light sanding; clean sand
   * Oil
     * Clean: mineral spirits
     * Dry time: hours
     * Tone: dark and rich
     * Coats: 3
-    * Application: brush; HVLP
+    * Intracoat: 220-320 light sanding; clean sand
+    * Application: brush; HVLP; wipe (rag)
 
 #### Lacquer
 * Tips:
