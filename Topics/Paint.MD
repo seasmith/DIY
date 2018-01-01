@@ -1,4 +1,4 @@
-# Paint
+# Paint and Finish
 
 ## Table of Contents
 * [Speciality Paint](#speciality-paint)
