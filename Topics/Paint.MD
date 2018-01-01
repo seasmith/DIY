@@ -33,9 +33,37 @@ Categories | Results | Types
 Layered    | Protective but plasticky                                | Polyurethane, varnish, lacquer
 Oil        | Great look but poor protection (for outdoors especially |Tung, Linseed, Danish
 
+* Great videos:
+  * [What Kind of Finish Should You Use?](https://www.youtube.com/watch?v=bbiXJd_1l8Y)
+
 ### Layered
 * Polyurethane
 * Lacquer
+
+#### Polyurethane
+* Tips:
+  * Dries slowly (depends if oil or water based, and temperature and humidity)
+  * May take 3 coats
+  * DO NOT SWIPE BRUSH (prevent air bubbles)
+  * Long, slow strokes
+  * Clean surface of any dust
+  * Clean brush with mineral spirits
+* Water vs Oil
+  * Water
+    * Clean: water; soap
+    * Dry time: quick (minutes)
+    * Tone: not as warm as oil
+    * Coats: 4 or more
+  * Oil
+    * Clean: mineral spirits
+    * Dry time: hours
+    * Tone: dark and rich
+    * Coats: 3
+    * Application: brush; HVLP
+
+#### Lacquer
+* Tips:
+  * Long, semi-slow strokes; DO NOT BRUSH BACK AND FORTH
 
 ### Oil
 * Tung
