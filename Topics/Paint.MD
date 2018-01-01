@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Speciality Paint](#speciality-paint)
 * [Solvents and Thinners](#solvents-and-thinners)
+* [Finish](#finish)
 
 ___
 ## Speciality Paint
@@ -23,3 +24,20 @@ Denatured Alcohol | |
 Boiled Linseed Oil | |
 Xylene | Xylene Xylol | <ul><li>Creates slower rate of evaporation.</li><li>Cleans up tools and equipment IMMEDIATELY after use.</li><li><strong>DO NOT</strong> use on the following (will harm these surfaces):<ul><li>Linoleum</li><li>Plastic</li><li>Rubber</li><li>Asphalt tile</li><li>Fiberglass</li><li>Other synthetic materials</li></ul>
 MEK | Methyl Ethyl Ketone |
+
+___
+## Finish
+
+Categories | Results | Types
+-----------|---------|-------
+Layered    | Protective but plasticky                                | Polyurethane, varnish, lacquer
+Oil        | Great look but poor protection (for outdoors especially |Tung, Linseed, Danish
+
+### Layered
+* Polyurethane
+* Lacquer
+
+### Oil
+* Tung
+* Linseed
+* 
